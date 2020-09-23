@@ -12,8 +12,8 @@ header:
   nav_links:
     - label: Home
       url: /
-    - label: Features
-      url: /features
+    - label: FAQs
+      url: /faqs
     - label: Style Guide
       url: /style-guide
     - label: Events Calendar

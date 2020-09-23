@@ -27,7 +27,7 @@ sections:
           consequat ex.
         actions:
           - label: Learn More
-            url: /features
+            url: /faqs
       - title: Awesome Feature of Your Services
         image: images/feature2.png
         content: >-
