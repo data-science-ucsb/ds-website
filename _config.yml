@@ -16,6 +16,8 @@ header:
       url: /features
     - label: Style Guide
       url: /style-guide
+    - label: Events Calendar
+      url: /events
     - label: Sign Up
       url: /signup
       primary: true
