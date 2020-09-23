@@ -18,6 +18,8 @@ header:
       url: /style-guide
     - label: Events Calendar
       url: /events-calendar
+    - label: Resources
+      url: /resources
     - label: Officer Profiles
       url: /officer-profiles
     - label: Sign Up
