@@ -12,14 +12,14 @@ header:
   nav_links:
     - label: Home
       url: /
-    - label: FAQs
-      url: /faqs
     - label: Style Guide
       url: /style-guide
     - label: Events Calendar
       url: /events-calendar
     - label: Resources
       url: /resources
+    - labels: FAQs
+      url: /faqs
     - label: Officer Profiles
       url: /officer-profiles
     - label: Sign Up
