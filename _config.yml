@@ -17,7 +17,9 @@ header:
     - label: Style Guide
       url: /style-guide
     - label: Events Calendar
-      url: /events
+      url: /events-calendar
+    - label: Officer Profiles
+      url: /officer-profiles
     - label: Sign Up
       url: /signup
       primary: true
