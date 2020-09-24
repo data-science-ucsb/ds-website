@@ -39,7 +39,13 @@ sections:
         actions:
           - label: Learn More
             url: /features
-    
+      - title: networking
+        content: >-
+          Participate in our campus-wide events and regional Datafests.
+        actions:
+          - label: Learn More
+            url: /features
+
   - section_id: reviews
     type: section_reviews
     background: white
