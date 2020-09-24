@@ -1,5 +1,5 @@
 ---
-title: DATA TALK C3.ai
+title: DATA TALK: C3.ai
 excerpt: >-
   Yes
 date: '2019-09-13'
