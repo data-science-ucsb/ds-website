@@ -11,7 +11,7 @@ header:
   has_nav: true
   nav_links:
     - label: Home
-      url: /style-guide
+      url: /
     - label: untitled
       url: /untitled
     - label: Who We Are

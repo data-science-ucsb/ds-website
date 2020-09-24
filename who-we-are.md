@@ -1,5 +1,5 @@
 ---
-title: Officer Profiles
+title: Who We Are
 subtitle: >-
   This is an optional subtitle. It can be used to describe what this page is
   about.
