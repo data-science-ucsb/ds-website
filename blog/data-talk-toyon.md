@@ -4,7 +4,7 @@ excerpt: >-
   Yes
 date: '2019-10-15'
 thumb_image: images/blogToyon.png
-image: images/blogToyon.png
+image: images/blogDTtoyon.HEIC
 layout: post
 ---
 

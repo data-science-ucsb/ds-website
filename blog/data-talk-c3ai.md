@@ -3,8 +3,8 @@ title: DATA TALK C3.ai
 excerpt: >-
   Yes
 date: '2019-09-13'
-thumb_image: images/blogWinterKickoff.jpg
-image: images/blogWinterKickoff.jpg
+thumb_image: images/blogdtC3ai.jpg
+image: images/blogdtC3ai.jpg
 layout: post
 ---
 
