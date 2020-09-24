@@ -18,7 +18,7 @@ header:
       url: /who-we-are
     - label: Events Calendar
       url: /events-calendar
-    - label: blog
+    - label: Blog
       url: /blog
     - label: Resources
       url: /resources
