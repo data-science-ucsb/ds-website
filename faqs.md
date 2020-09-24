@@ -1,12 +1,13 @@
 ---
-title: FAQs
+title: Frequently Asked Questions
 subtitle: >-
-  There are many questions that many newcomers and even
+  There are many questions that newcomers and even
   seasoned Data Science veterans have about our club!
   Here are the most common questions answered
   to try and simplify some of your thoughts!
 layout: page
 ---
+
 ##### Q: Do I need Data Science experience to join the club?
 
 A: No! If you have little to none data science or coding experience, there is a beginner route for newcomers designed to teach the basics and fundamentals needed to be well on your way to becoming a better data scientist.
