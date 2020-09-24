@@ -7,7 +7,7 @@ collections:
 palette: blue
 header:
   title: Data Science UCSB
-  logo_img: images/datsciencetitle.png
+  logo_img: images/DataScienceLogo.png
   has_nav: true
   nav_links:
     - label: Home
@@ -28,7 +28,7 @@ header:
       url: /signup
       primary: true
 footer:
-  logo_img: images/logo_alt.png
+  logo_img: images/DataScienceSmallLogo.png
   tagline: SaaS theme by Stackbit
   has_nav: true
   nav_title: Company
