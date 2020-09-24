@@ -6,8 +6,8 @@ collections:
     permalink: '/posts/:title/'
 palette: blue
 header:
-  title: Azimuth
-  logo_img: images/logo.png
+  title: Data Science UCSB
+  logo_img: images/https://events.ucsb.edu/wp-content/uploads/2017/04/datascience.jpg
   has_nav: true
   nav_links:
     - label: Home
