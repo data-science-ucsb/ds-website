@@ -1,14 +1,14 @@
 ---
 title: Alumni August
 excerpt: >-
-  A story about customer loyalty curabitur sed consectetur nisi. Integer sit
-  amet commodo massa.
+  Weekly panel of UCSB alumni present to share their experiences with data
+  science before and after graduating!
 date: '2020-08-25'
-thumb_image: images/3_thumb.jpg
-image: images/3.jpg
+thumb_image: images/alumni-august.png
+image: images/alumni-august.png
 layout: post
 ---
-<br/><br/>
+<br/>
 
 Throughout every Tuesday night of August, a panel of UCSB alumni were featured on Zoom to share about their careers in data science and time at UCSB. Attendees were able to ask them questions and hear about their firsthand experiences including how they formed their study habits, application process for internships, and current work positions.
 
