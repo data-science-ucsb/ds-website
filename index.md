@@ -25,24 +25,27 @@ sections:
         actions:
           - label: Learn More
             url: /faqs
-      - title: Awesome Feature of Your Services
+      - title: learning
         image: images/feature2.png
         content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+          continue to learn how to as
         actions:
           - label: Learn More
             url: /features
-      - title: Cool Feature of Your Services
+      - title: innovating
         image: images/feature3.png
         content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+          Collaborate in groups to make your own data science projects.
         actions:
           - label: Learn More
             url: /features
+      - title: networking
+        content: >-
+          Participate in our campus-wide events and regional Datafests.
+        actions:
+          - label: Learn More
+            url: /features
+
   - section_id: reviews
     type: section_reviews
     background: white
