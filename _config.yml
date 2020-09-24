@@ -7,7 +7,7 @@ collections:
 palette: blue
 header:
   title: Data Science UCSB
-  logo_img: images/dslogotitle.png
+  logo_img: /Users/Pablo/Documents/GitHub/ds-website/images/dslogotitle.png
   has_nav: true
   nav_links:
     - label: Home
