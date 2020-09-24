@@ -6,7 +6,7 @@ collections:
     permalink: '/posts/:title/'
 palette: blue
 header:
-  title: Azimuth
+  title: Data Science UCSB
   logo_img: images/logo.png
   has_nav: true
   nav_links:
