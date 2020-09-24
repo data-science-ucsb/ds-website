@@ -1,14 +1,12 @@
 ---
 title: FAQs
 subtitle: >-
-  The style guide provides you with a blueprint of default post and page styles.
-  The style guide is also a great reference for suggested typographic treatment
-  and styles for your content.
+  There are many questions that many newcomers and even
+  seasoned Data Science veterans have about our club!
+  Here are the most common questions answered
+  to try and simplify some of your thoughts!
 layout: page
 ---
-
-Data Science Website FAQ
-
 ##### Q: Do I need Data Science experience to join the club?
 
 A: No! If you have little to none data science or coding experience, there is a beginner route for newcomers designed to teach the basics and fundamentals needed to be well on your way to becoming a better data scientist.
@@ -41,22 +39,6 @@ A: Anybody is welcome to join the club, and the best way to get more involved is
 
 A: Just bring your computer and your knowledge and you should be good to go!
 
-
-# This is an H1
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, this is marked text ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis. Fusce et ipsum et nulla tristique facilisis.
-
-## This is an H2
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-### This is an H3
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Morbi commodo, ipsum sed pharetra gravida, orci magna rhoncus neque, id pulvinar odio lorem non turpis. Nullam sit amet enim. Suspendisse id velit vitae ligula volutpat condimentum. Aliquam erat volutpat. Sed quis velit. Nulla facilisi. Nulla libero.
-
-#### This is an H4
-
-Quisque facilisis erat a dui. Nam malesuada ornare dolor. Cras gravida, diam sit amet rhoncus ornare, erat elit consectetuer erat, id egestas pede nibh eget odio. Proin tincidunt, velit vel porta elementum, magna diam molestie sapien, non aliquet massa pede eu diam. Aliquam iaculis.
 
 ## Quoting
 
