@@ -6,25 +6,22 @@ sections:
     image: images/hero.png
     title: Welcome to Data Science UCSB
     content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
+      Data Science UCSB is a student organization preparing Gauchos for successful careers in data science and analytics.
     actions:
       - label: Learn More
         url: /features
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: What We Do
     subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
+      Projects and stuff
     features:
-      - title: The Best Feature of Your Services
+      - title: When Do We Meet?
         image: images/feature1.png
         content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+          General meetings are every Tuesday from 7:00 - 9:00 PM.
+          We usually meet at the DAHC, but due to COVID-19, our meetings are on Zoom.
         actions:
           - label: Learn More
             url: /faqs
@@ -52,7 +49,7 @@ sections:
     title: Testimonials
     subtitle: >-
       Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
+      semper libero id sodales.
     reviews:
       - author: John Doe
         avatar: images/review1.jpg
