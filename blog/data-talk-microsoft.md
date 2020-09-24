@@ -1,5 +1,5 @@
 ---
-title: DATA TALK: Microsoft
+title: DATA TALK Microsoft
 excerpt: >-
   Yes
 date: '2019-10-17'
