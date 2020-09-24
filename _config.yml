@@ -11,17 +11,19 @@ header:
   has_nav: true
   nav_links:
     - label: Home
-      url: /
-    - label: Style Guide
       url: /style-guide
+    - label: untitled
+      url: /untitled
+    - label: Who We Are
+      url: /who-we-are
     - label: Events Calendar
       url: /events-calendar
+    - label: blog
+      url: /blog
     - label: Resources
       url: /resources
     - label: FAQs
       url: /faqs
-    - label: Officer Profiles
-      url: /officer-profiles
     - label: Sign Up
       url: /signup
       primary: true
