@@ -1,8 +1,7 @@
 ---
 title: Who We Are
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  hello is this working
 image: images/about.jpg
 layout: page
 ---
