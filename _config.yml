@@ -7,7 +7,7 @@ collections:
 palette: blue
 header:
   title: Data Science UCSB
-  logo_img: images/blogToyon.png
+  logo_img: images/datsciencetitle.png
   has_nav: true
   nav_links:
     - label: Home
