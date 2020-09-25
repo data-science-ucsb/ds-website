@@ -32,13 +32,13 @@ Content Cell  | Content Cell   | Content Cell   | Content Cell
 Content Cell  | Content Cell   | Content Cell   | Content Cell   
 
 ### Finance
-First Header  | Second Header  | Second Header  | Second Header  
-------------- | -------------  | -------------  | -------------  
-Content Cell  | Content Cell   | Content Cell   | Content Cell   
-Content Cell  | Content Cell   | Content Cell   | Content Cell  
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### Project Group
-First Header  | Second Header  | Second Header  | Second Header  
-------------- | -------------  | -------------  | -------------  
-Content Cell  | Content Cell   | Content Cell   | Content Cell   
-Content Cell  | Content Cell   | Content Cell   | Content Cell    
+| Second Header  | Second Header  | Second Header  |
+| -------------  | -------------  | -------------  |
+| Content Cell   | Content Cell   | Content Cell   |
+| Content Cell   | Content Cell   | Content Cell   |
