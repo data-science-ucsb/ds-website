@@ -22,7 +22,7 @@ header:
       url: /resources
     - label: FAQs
       url: /faqs
-    - label: Sign Up
+    - label: Connect
       url: /signup
       primary: true
 footer:
@@ -32,13 +32,11 @@ footer:
   nav_title: Company
   nav_links:
     - label: About Us
-      url: /about
+      url: /who-we-are
     - label: Blog
       url: /blog
-    - label: Sign Up
+    - label: Connect
       url: signup
-    - label: Contact
-      url: /contact
   has_social: true
   social_title: Community
   social_links:
