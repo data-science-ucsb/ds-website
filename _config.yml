@@ -23,7 +23,7 @@ header:
     - label: FAQs
       url: /faqs
     - label: Connect
-      url: /signup
+      url: /connect
       primary: true
 footer:
   logo_img: images/DataScienceSmallLogo.png
@@ -36,7 +36,7 @@ footer:
     - label: Blog
       url: /blog
     - label: Connect
-      url: signup
+      url: connect
   has_social: true
   social_title: Community
   social_links:
