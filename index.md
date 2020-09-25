@@ -23,8 +23,8 @@ sections:
           General meetings are every Tuesday from 7:00 - 9:00 PM.
           We usually meet at the DAHC, but due to COVID-19, our meetings are on Zoom.
         actions:
-          - label: Join Us
-            url: /connect
+          - label: Learn More
+            url: /faqs
       - title: learning
         image: images/feature2.png
         content: >-
@@ -51,8 +51,8 @@ sections:
     title: This Is Call To Action Block!
     subtitle: This is an optional description for the call to action block.
     actions:
-      - label: Get Started
-        url: /signup
+      - label: Join Us
+        url: /connect
   - section_id: recent-posts
     type: section_posts
     background: gray
