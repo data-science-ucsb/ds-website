@@ -18,7 +18,7 @@ Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dig
 # Our Officer Team
 ![random picture](/images/11_thumb.jpg)
 
-First Header  | Second Header  | Second Header  | Second Header  | Second Header
+![Brianpres](/images/brian - DataScience UCSB.png) | Second Header  | Second Header  | Second Header  | Second Header
 ------------- | -------------  | -------------  | -------------  | -------------
 Content Cell  | Content Cell   | Content Cell   | Content Cell   | Content Cell
 Content Cell  | Content Cell   | Content Cell   | Content Cell   | Content Cell
