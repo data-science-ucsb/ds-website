@@ -1,12 +1,23 @@
 ---
 title: Resources
 subtitle: >-
-  This is an optional subtitle. It can be used to describe what this page is
-  about.
+  Here are some resources to help you get started learning!
 image: images/about.jpg
 layout: page
 ---
+Scholarships (mention due dates and amounts?)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus quis lorem malesuada luctus. Cras lacinia, eros at dapibus molestie, risus tortor pretium ligula, eu malesuada tortor eros dapibus mi. Proin laoreet efficitur suscipit. Donec molestie volutpat euismod. Nulla gravida ligula in eros facilisis, sed dignissim tellus aliquam. Etiam convallis enim nisi, at suscipit tortor pulvinar at. Nulla a interdum lacus. Sed a porttitor mi. Sed at risus eu orci ultricies mattis sed in tellus. Cras nec neque sed dui vehicula iaculis id vel ex. Phasellus non consectetur augue. Pellentesque condimentum sapien arcu, nec tempus nunc maximus eu. Duis blandit risus nulla. In dolor dui, placerat non finibus sit amet, venenatis pretium tortor. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+Big Data Science & Analytics Bi-Annual Scholarship: http://www.mastersofbusinessanalytics.com/scholarships/big-data-analytics-scholarship/
 
-Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dignissim, orci elit auctor leo, et consectetur est turpis a nunc. Vivamus in faucibus felis. Aenean rutrum magna at ex auctor, congue efficitur ligula feugiat. Proin a egestas arcu. Etiam feugiat turpis quis mollis pellentesque. Sed posuere luctus tortor, a eleifend augue varius sit amet. Integer ultrices neque sed quam dictum, quis vestibulum justo volutpat. Nam vitae tempus leo, ut mattis mi.
+Bill Caspere Memorial Diversity Scholarship: https://foundation.aaaa.org/uploads/1/2/6/3/126320934/visto_billcaspare_scholarship_2018.pdf
+
+INFORMS Analytics Society Student Scholarship: https://www.informs.org/Recognizing-Excellence/Community-Prizes/Analytics-Society/Student-Analytical-Scholar-Competition/SAS-Analytics-Society-Student-Analytical-Scholar-Competition-Application-Process
+
+Milliman Opportunity Scholarship Fund: https://cps.academicworks.com/
+
+
+Links
+
+Code Academy: https://www.codecademy.com/learn/paths/data-science
+
+Kaggle (to explore some data sets!): https://www.kaggle.com/learn/overview
