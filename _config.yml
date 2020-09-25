@@ -12,8 +12,6 @@ header:
   nav_links:
     - label: Home
       url: /
-    - label: untitled
-      url: /untitled
     - label: Who We Are
       url: /who-we-are
     - label: Events Calendar

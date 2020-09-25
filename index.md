@@ -9,7 +9,7 @@ sections:
       Data Science UCSB is a student organization preparing Gauchos for successful careers in data science and analytics.
     actions:
       - label: Learn More
-        url: /features
+        url: /who-we-are
   - section_id: features
     type: section_features
     background: gray
@@ -31,7 +31,7 @@ sections:
           continue to learn how to as
         actions:
           - label: Learn More
-            url: /features
+            url: /resources
       - title: innovating
         image: images/feature3.png
         content: >-
