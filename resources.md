@@ -5,7 +5,7 @@ subtitle: >-
 image: images/about.jpg
 layout: page
 ---
-Scholarships (mention due dates and amounts?)
+###Scholarships (mention due dates and amounts?)###
 
 Big Data Science & Analytics Bi-Annual Scholarship: http://www.mastersofbusinessanalytics.com/scholarships/big-data-analytics-scholarship/
 
@@ -16,7 +16,7 @@ INFORMS Analytics Society Student Scholarship: https://www.informs.org/Recognizi
 Milliman Opportunity Scholarship Fund: https://cps.academicworks.com/
 
 
-Links
+###Links###
 
 Code Academy: https://www.codecademy.com/learn/paths/data-science
 
