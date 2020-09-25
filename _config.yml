@@ -7,7 +7,7 @@ collections:
 palette: blue
 header:
   title: Data Science UCSB
-  logo_img: images/DataScienceLogo.png
+  logo_img: images/datasciencelogotransparennt.png
   has_nav: true
   nav_links:
     - label: Home
