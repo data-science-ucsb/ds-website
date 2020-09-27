@@ -13,11 +13,7 @@ Data Science at UCSB is the university's most active engineering and science clu
 
 The club is open to students of all grade levels and majors.
 
-<p align="center">
-# Our Officer Team
-
-### Executive Team
-</p>
+<center><h1> Our Officer Team</h1></center>
 
 # Our Officer Team
 
