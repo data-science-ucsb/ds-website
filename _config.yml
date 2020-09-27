@@ -40,9 +40,6 @@ footer:
   has_social: true
   social_title: Community
   social_links:
-    - label: Twitter
-      url: 'https://twitter.com/'
-      new_window: true
     - label: Instagram
       url: 'https://www.instagram.com/datascienceucsb/'
       new_window: true

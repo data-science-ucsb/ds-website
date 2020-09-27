@@ -19,28 +19,28 @@ Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dig
 
 ### Executive Team
 
-First Header | Second Header  | Second Header  
+Brian Lim | Amiya Dutta | Ishana Narayanan
 ------------- | -------------  | -------------  
 Content Cell  | Content Cell   | Content Cell  
 Content Cell  | Content Cell   | Content Cell   
 
 ### Marketing and Operations
 
-First Header  | Second Header  | Second Header  | Second Header  
+Priyasha Agarwal  | Luke Fields  | Katie Huynh  | Madeline Li
 ------------- | -------------  | -------------  | -------------  
 Content Cell  | Content Cell   | Content Cell   | Content Cell   
 Content Cell  | Content Cell   | Content Cell   | Content Cell   
 
 ### Finance
 
-First Header |
+Brian Che |
 ------------- |
 Content Cell  |
-Content Cell  | 
+Content Cell  |
 
 ### Project Group
 
-First Header  | Second Header  |
+Connor Levenson  | Yanjie(Harry) Qi  |
 ------------- | -------------  |
 Content Cell  | Content Cell   |
 Content Cell  | Content Cell   |
