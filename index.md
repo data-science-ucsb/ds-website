@@ -26,14 +26,14 @@ sections:
           - label: Learn More
             url: /faqs
       - title: Learning
-        image: images/home3.jpg
+        image: images/home3.png
         content: >-
           Utilized resources we provide to learn and create.
         actions:
           - label: Learn More
             url: /resources
       - title: Innovating
-        image: images/home4.jpg
+        image: images/home4.png
         content: >-
           Collaborate in groups to make your own data science projects.
         actions:
