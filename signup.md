@@ -2,7 +2,7 @@
 title: Sign Up
 subtitle: >-
   Interested in joining? Sign up here!
-image: images/11.jpg
+image: DataScienceLogo.png
 layout: page
 ---
 
