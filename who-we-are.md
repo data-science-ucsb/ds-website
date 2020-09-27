@@ -21,7 +21,7 @@ Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dig
 
 Brian Lim | Amiya Dutta | Ishana Narayanan
 ------------- | -------------  | -------------  
-Content Cell  | Content Cell   | Content Cell  
+![briamlim](/images/members/brianlim.png) | ![amiya](/images/members/amiya.jpeg)   | ![ishana](/images/members/ishana.jpg)  
 Content Cell  | Content Cell   | Content Cell   
 
 ### Marketing and Operations
@@ -35,7 +35,7 @@ Content Cell  | Content Cell   | Content Cell   | Content Cell
 
 Brian Che |
 ------------- |
-Content Cell  |
+![brianche](/images/members/brianche.jpeg)  |
 Content Cell  |
 
 ### Project Group
