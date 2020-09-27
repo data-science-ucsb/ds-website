@@ -28,7 +28,7 @@ Content Cell  | Content Cell   | Content Cell
 
 Priyasha Agarwal  | Luke Fields  | Katie Huynh  | Madeline Li
 ------------- | -------------  | -------------  | -------------  
-![priyasha](/images/members/priyasha.png)  | Content Cell   | Content Cell   | Content Cell   
+![priyasha](/images/members/priyasha.png)  | ![luke](/images/members/luke.JPG)  | ![katie](/images/members/katie.jpg)   | Content Cell   
 Content Cell  | Content Cell   | Content Cell   | Content Cell   
 
 ### Finance
