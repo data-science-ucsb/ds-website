@@ -31,19 +31,19 @@ First Header  | Second Header  | Second Header  | Second Header
 Content Cell  | Content Cell   | Content Cell   | Content Cell   
 Content Cell  | Content Cell   | Content Cell   | Content Cell   
 
-### Executive Team
+### Finance
 
 First Header | Second Header  | Second Header  
 ------------- | -------------  | -------------  
 Content Cell  | Content Cell   | Content Cell  
 Content Cell  | Content Cell   | Content Cell   
 
-### Marketing and Operations
+### Project Group
 
-First Header  | Second Header  | Second Header  | Second Header  
-------------- | -------------  | -------------  | -------------  
-Content Cell  | Content Cell   | Content Cell   | Content Cell   
-Content Cell  | Content Cell   | Content Cell   | Content Cell   
+First Header  | Second Header  |
+------------- | -------------  |
+Content Cell  | Content Cell   |
+Content Cell  | Content Cell   | 
 
 
 
