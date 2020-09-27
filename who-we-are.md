@@ -42,5 +42,5 @@ Content Cell  |
 
 Connor Levenson  | Yanjie(Harry) Qi  |
 ------------- | -------------  |
-Content Cell  | Content Cell   |
+![connor](/images/members/connor.png)  | ![harry](/images/members/harry.jpeg)   |
 Content Cell  | Content Cell   |
