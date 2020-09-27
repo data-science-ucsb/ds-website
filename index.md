@@ -15,31 +15,31 @@ sections:
     background: gray
     title: What We Do
     subtitle: >-
-      Projects and stuff
+      We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
       - title: When Do We Meet?
         image: images/home1.jpg
         content: >-
-          General meetings are every Tuesday from 7:00 - 9:00 PM.
+          General meetings are every Tuesdays and Thursdays from 7:00 - 8:00 PM.
           We usually meet at the DAHC, but due to COVID-19, our meetings are on Zoom.
         actions:
           - label: Learn More
             url: /faqs
-      - title: learning
+      - title: Learning
         image: images/home3.jpg
         content: >-
-          continue to learn how to as
+          Utilized resources we provide to learn and create.
         actions:
           - label: Learn More
             url: /resources
-      - title: innovating
+      - title: Innovating
         image: images/home4.jpg
         content: >-
           Collaborate in groups to make your own data science projects.
         actions:
           - label: Learn More
             url: /features
-      - title: networking
+      - title: Networking
         content: >-
           Participate in our campus-wide events and regional Datafests.
         actions:
