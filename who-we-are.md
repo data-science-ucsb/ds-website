@@ -19,7 +19,7 @@ Nunc a lorem tellus. Aenean eu auctor purus. Cras pulvinar, nunc at sagittis dig
 
 ### Executive Team
 
-![Brian](/images/brian - DataScience UCSB.png) | Second Header  | Second Header  
+First Header | Second Header  | Second Header  
 ------------- | -------------  | -------------  
 Content Cell  | Content Cell   | Content Cell  
 Content Cell  | Content Cell   | Content Cell   
@@ -30,6 +30,24 @@ First Header  | Second Header  | Second Header  | Second Header
 ------------- | -------------  | -------------  | -------------  
 Content Cell  | Content Cell   | Content Cell   | Content Cell   
 Content Cell  | Content Cell   | Content Cell   | Content Cell   
+
+### Executive Team
+
+First Header | Second Header  | Second Header  
+------------- | -------------  | -------------  
+Content Cell  | Content Cell   | Content Cell  
+Content Cell  | Content Cell   | Content Cell   
+
+### Marketing and Operations
+
+First Header  | Second Header  | Second Header  | Second Header  
+------------- | -------------  | -------------  | -------------  
+Content Cell  | Content Cell   | Content Cell   | Content Cell   
+Content Cell  | Content Cell   | Content Cell   | Content Cell   
+
+
+
+
 
 ### Finance
 | First Header  | Second Header |
