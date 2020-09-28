@@ -2,7 +2,7 @@
 title: Resources
 subtitle: >-
   Here are some resources to help you get started learning!
-image: images/about.jpg
+image: 
 layout: page
 ---
 ## Scholarships (mention due dates and amounts?)
