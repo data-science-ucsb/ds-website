@@ -1,7 +1,7 @@
 ---
 title: Who We Are
 subtitle: >-
-  a family fostering a learning environment for students of all skill levels
+  A family fostering a learning environment for students of all skill levels
 image: 
 layout: page
 ---

@@ -27,7 +27,7 @@ header:
       primary: true
 footer:
   logo_img: images/DataScienceSmallLogo.png
-  tagline: SaaS theme by Stackbit
+  tagline: datascience.ucsb@gmail.com
   has_nav: true
   nav_title: Company
   nav_links:
@@ -37,6 +37,8 @@ footer:
       url: /blog
     - label: Connect
       url: connect
+    - label: Email us
+      url: 'mailto:datascience.ucsb@gmail.com'
   has_social: true
   social_title: Community
   social_links:
@@ -44,11 +46,12 @@ footer:
       url: 'https://www.instagram.com/datascienceucsb/'
       new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/'
+      url: 'https://www.linkedin.com/company/data-science-at-ucsb'
       new_window: true
-  has_subscribe: true
-  subscribe_title: Subscribe
-  subscribe_content: Stay up to date with our latest developments.
+    - label: Facebook
+      url: 'https://www.facebook.com/DataScienceUCSB/'
+      new_window: true
+  has_subscribe: false
   content: '&copy; Stackbit. All rights reserved.'
   links:
     - label: Made with Stackbit
