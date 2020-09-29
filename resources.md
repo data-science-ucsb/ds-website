@@ -11,9 +11,6 @@ layout: page
 
 [INFORMS Innovative Applications in Analytics:](https://www.informs.org/Recognizing-Excellence/Community-Prizes/Analytics-Society/Innovative-Applications-in-Analytics-Award/Innovative-Applications-in-Analytics-Award-Application-Process "INFORMS Scholarship") Cash awards of $3000, $2000, and $1000 for the first three teams | Due: October 15, 2020
 
-[Milliman Opportunity Scholarship Fund:](https://cps.academicworks.com/ "Milliman Scholarship")
-
-
 ## Links
 
 [Code Academy:](https://www.codecademy.com/learn/paths/data-science "Code Academy") Offers free coding classes in 12 different languages
@@ -25,4 +22,4 @@ layout: page
 
 [International Data Analysis Olympiad (IDAO):](https://idao.world/ "IDAO") Bridge the gap between machine learning models and performance bottlenecks of the industry
 
-[DrivenData: Data Science Competitions for Social Good](https://www.drivendata.org/competitions/ "DrivenData") Compete to come up with the best statistical model for difficult predictive problems
+[DrivenData: Data Science Competitions for Social Good:](https://www.drivendata.org/competitions/ "DrivenData") Compete to come up with the best statistical model for difficult predictive problems
