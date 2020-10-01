@@ -11,7 +11,7 @@ layout: post
 ---
 
 ### APPsolutely Successful
-##### *Sunny Hong, Ishana Naraynan*
+  ##### *Sunny Hong, Ishana Naraynan*
 Despite the usefulness of apps, 61% of apps receive less than 500 installs because their developers fail to realize that the completion of the product does not automatically result in usage by its targeted audience. To address this issue, we decided to construct a model that will predict how an app will perform in the app store. This way, app developers have more knowledge about how to market their product to their respective audiences to maximize revenue and user experience.
 [GitHub](https://github.com/sunny7x7/TrendingApp "APPsolutely Successful")
 
