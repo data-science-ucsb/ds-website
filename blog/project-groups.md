@@ -11,10 +11,12 @@ layout: post
 ---
 
 ### APPsolutely Successful
+##### *Sunny Hong, Ishana Naraynan*
 Despite the usefulness of apps, 61% of apps receive less than 500 installs because their developers fail to realize that the completion of the product does not automatically result in usage by its targeted audience. To address this issue, we decided to construct a model that will predict how an app will perform in the app store. This way, app developers have more knowledge about how to market their product to their respective audiences to maximize revenue and user experience.
 [GitHub](https://github.com/sunny7x7/TrendingApp "APPsolutely Successful")
 
 ### Predicting Drafted Quarterbacks
+##### *Connor Levenson, Mihir Arya, Kennard Peters, Joe Kinderman*
 One of the most important decisions a sports agent must make is deciding which athletes to represent. Representing a player who does not make it to the professional level in their respective sport is a waste of the agent's time and resources. To automate this decision-making process, we are building a model that predicts which college quarterbacks will be drafted into the NFL.
 [GitHub](https://github.com/amadorosebery/NFL-Draft-Model "Predicting Drafted Quarterbacks")
 
