@@ -26,7 +26,7 @@ sections:
           - label: Learn More
             url: /faqs
       - title: Learning
-        image: images/home3edit.jpg
+      
         content: >-
           Utilize resources we provide to learn and create.
         actions:
