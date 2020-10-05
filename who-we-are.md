@@ -26,7 +26,7 @@ I am a BS/MS student in Computer Science, and your current acting president of D
 
 Priyasha Agarwal  | Katie Huynh  | Madeline Li
 ------------- | -------------  | -------------  | -------------  
-![priyasha](/images/members/priyasha.png)  | ![katie](/images/members/katie.jpg)   | Content Cell   
+![priyasha](/images/members/priyasha.png)  | ![katie](/images/members/katie.jpg)   | ![mad](/images/members/madeline.jpg)    
 Hi! My name is Priyasha Agarwal and I am a second year Economics & Accounting and Statistics & Data Science double major from the Bay Area! I love dancing and exploring new dessert places (let me know if you have any recommendations!). I joined the Data Science club in order to expand my analytical skills in relation to the real world while surrounded with a like-minded community of people that can assist me in my growth. I am excited to meet all of you this year!  | I'm a second year computer science major from the Bay Area and a boba connoisseur who loves road trips and exploring new hobbies, reading, and drawing. I joined data science because I love how the field combines both programming and data to improve upon information and communicate that information to the rest of the world.    | Hi! I'm a third year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing!
 
 <center><h3> Finance</h3></center>
