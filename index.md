@@ -3,13 +3,13 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/home2edit.jpg
-    title: Welcome to Data Science UCSB
+    image: images/DSkickoff.png
+    title: Welcome to Data Science UCSB!
     content: >-
-      Data Science UCSB is a student organization preparing Gauchos for successful careers in data science and analytics.
+      Join us on Zoom for our first Kickoff Meeting of the year on October 6 from 7 to 9 PM!
     actions:
-      - label: Learn More
-        url: /who-we-are
+      - label: KICKOFF
+        url: https://tinyurl.com/ds2020kickoff
   - section_id: features
     type: section_features
     background: gray
@@ -26,7 +26,7 @@ sections:
           - label: Learn More
             url: /faqs
       - title: Learning
-      
+
         content: >-
           Utilize resources we provide to learn and create.
         actions:
