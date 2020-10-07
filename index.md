@@ -4,12 +4,12 @@ sections:
   - section_id: hero
     type: section_hero
     image: images/home2edit.jpg
-    title: Welcome to Data Science UCSB
+    title: Welcome to Data Science UCSB!
     content: >-
       Data Science UCSB is a student organization preparing Gauchos for successful careers in data science and analytics.
     actions:
       - label: Learn More
-        url: /who-we-are
+        url: /faqs
   - section_id: features
     type: section_features
     background: gray
@@ -23,10 +23,10 @@ sections:
           General meetings are on Tuesdays and from 7:00 - 9:00 PM.
           We usually meet at the DAHC, but due to COVID-19, our meetings are on Zoom.
         actions:
-          - label: Learn More
-            url: /faqs
+          - label: Events
+            url: /events-calendar
       - title: Learning
-      
+
         content: >-
           Utilize resources we provide to learn and create.
         actions:
@@ -38,13 +38,13 @@ sections:
           Collaborate in groups to make your own data science projects.
         actions:
           - label: Learn More
-            url: /features
-      - title: Networking
+            url: /who-we-are
+      - title: Blog
         content: >-
-          Participate in our campus-wide events and regional Datafests.
+          Keep up with our past events through our blog!
         actions:
           - label: Learn More
-            url: /events-calendar
+            url: /blog
 
   - section_id: call-to-action
     type: section_cta
