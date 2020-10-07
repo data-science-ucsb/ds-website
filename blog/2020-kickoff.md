@@ -11,4 +11,4 @@ Gathering both newcomers and old members, Data Science UCSB's first kickoff meet
 
 [DS UCSB 2020 Kickoff Presentation](https://docs.google.com/presentation/d/13i1_5vF3XK4g-ljJU_EWcdRDkBX8IveID9scJTDiPhE/present?slide=id.g646221db99_1_310 "Kickoff")
 
-<iframe src="https://docs.google.com/presentation/d/13i1_5vF3XK4g-ljJU_EWcdRDkBX8IveID9scJTDiPhE/present?slide=id.g646221db99_1_310" width="745" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRqSU1qOnSlGPBljRkHtU_NXEzvXp6w9PP0ftlB8dcqext20rRgXxCrzcwYklA2go2a345vleXCGZAx/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
