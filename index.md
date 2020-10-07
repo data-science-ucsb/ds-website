@@ -6,10 +6,10 @@ sections:
     image: images/DSkickoff.png
     title: Welcome to Data Science UCSB!
     content: >-
-      Join us on Zoom for our first Kickoff Meeting of the year on October 6 from 7 to 9 PM!
+      Data Science UCSB is a student organization preparing Gauchos for successful careers in data science and analytics.
     actions:
-      - label: KICKOFF
-        url: https://tinyurl.com/ds2020kickoff
+      - label: Learn More
+        url: /faqs
   - section_id: features
     type: section_features
     background: gray
@@ -23,8 +23,8 @@ sections:
           General meetings are on Tuesdays and from 7:00 - 9:00 PM.
           We usually meet at the DAHC, but due to COVID-19, our meetings are on Zoom.
         actions:
-          - label: Learn More
-            url: /faqs
+          - label: Events
+            url: /events-calendar
       - title: Learning
 
         content: >-
@@ -38,13 +38,13 @@ sections:
           Collaborate in groups to make your own data science projects.
         actions:
           - label: Learn More
-            url: /features
-      - title: Networking
+            url: /who-we-are
+      - title: Blog
         content: >-
-          Participate in our campus-wide events and regional Datafests.
+          Keep up with our past events through our blog!
         actions:
           - label: Learn More
-            url: /events-calendar
+            url: /blog
 
   - section_id: call-to-action
     type: section_cta
