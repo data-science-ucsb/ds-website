@@ -17,7 +17,7 @@ layout: page
 
 [Kaggle:](https://www.kaggle.com/learn/overview "Kaggle") To explore some data sets and build upon data science
 
-[CRML:](https://slideslive.com/crml-uc-santa-barbara "CRML") Slideshows that help with understanding COVID-19 through a data lens
+[CRML:](https://slideslive.com/crml-uc-santa-barbara "CRML") Slideshows from the 2020 Responsible Machine Learning Summit
 
 ## Competitions and Programs
 
