@@ -2,7 +2,7 @@
 title: Resources
 subtitle: >-
   Here are some resources to help you get started learning!
-image: 
+image:
 layout: page
 ---
 ## Scholarships
@@ -17,7 +17,10 @@ layout: page
 
 [Kaggle:](https://www.kaggle.com/learn/overview "Kaggle") To explore some data sets and build upon data science
 
+[CRML:](https://slideslive.com/crml-uc-santa-barbara "CRML") Slideshows that help with understanding COVID-19 through a data lens
+
 ## Competitions and Programs
+
 [Kaggle Competition:](https://www.kaggle.com/competitions "Kaggle") Wide variety of competitions to explore your interests
 
 [International Data Analysis Olympiad (IDAO):](https://idao.world/ "IDAO") Bridge the gap between machine learning models and performance bottlenecks of the industry
