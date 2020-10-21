@@ -4,7 +4,11 @@ subtitle: >-
   Here are some resources to help you get started learning!
 image:
 layout: page
+
 ---
+## If you missed a meeting, request a recording.
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnN0wynfD4STi8bklzbkQPvjKZJ9KVwDfRixlrSHE5nk-DCQ/viewform?embedded=true" width="640" height="776" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
 ## Scholarships
 
 [Big Data Science & Analytics Bi-Annual Scholarship:](http://www.mastersofbusinessanalytics.com/scholarships/big-data-analytics-scholarship/ "Big Data Scholarship") $2,000 check made to winner's accredited university | Due: September 1st and February 1st each year
