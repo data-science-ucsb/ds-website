@@ -9,6 +9,10 @@ layout: page
 ## If you missed a meeting, request a recording.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnN0wynfD4STi8bklzbkQPvjKZJ9KVwDfRixlrSHE5nk-DCQ/viewform?embedded=true" width="640" height="776" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
+## Intermediate and Beginner Pipeline Resources
+[Past Slides and Notebooks:](https://drive.google.com/drive/folders/1nbSnA1SH17mV0-RLNgw1Y0Vxj6ib5K04?usp=sharin "Past Slides/Notebooks") Review intermediate and pipeline presentation slides and Colab!
+
+
 ## Scholarships
 
 [Big Data Science & Analytics Bi-Annual Scholarship:](http://www.mastersofbusinessanalytics.com/scholarships/big-data-analytics-scholarship/ "Big Data Scholarship") $2,000 check made to winner's accredited university | Due: September 1st and February 1st each year
