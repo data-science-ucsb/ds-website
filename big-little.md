@@ -1,5 +1,5 @@
 ---
-title: Big-Little
+title: Big Data Little Data
 subtitle: >-
   Welcome to Big Data Little Data! A place for club members to get to know one another and mentor each other as we all strive towards our common Data Science goals!
 image:
