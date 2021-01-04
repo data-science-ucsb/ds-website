@@ -9,7 +9,7 @@ layout: page
 ## If you missed a meeting, request a recording.
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnN0wynfD4STi8bklzbkQPvjKZJ9KVwDfRixlrSHE5nk-DCQ/viewform?embedded=true" width="640" height="776" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-## If you have any Data Science related questions you seek mentorship on, fill out the form below!
+## If you have any questions or need advice on majors, careers, data science, etc, please fill out this form and an officer will respond via email!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQcbSJOMuYlrE01-FXHzd5PebvniRwS-0DfcRDErbOUX7FjA/viewform?embedded=true" width="640" height="1280" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
