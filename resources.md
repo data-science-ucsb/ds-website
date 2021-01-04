@@ -34,3 +34,7 @@ layout: page
 [International Data Analysis Olympiad (IDAO):](https://idao.world/ "IDAO") Bridge the gap between machine learning models and performance bottlenecks of the industry
 
 [DrivenData: Data Science Competitions for Social Good:](https://www.drivendata.org/competitions/ "DrivenData") Compete to come up with the best statistical model for difficult predictive problems
+
+## Mentorship Questions
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQcbSJOMuYlrE01-FXHzd5PebvniRwS-0DfcRDErbOUX7FjA/viewform?embedded=true" width="640" height="1280" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
