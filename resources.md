@@ -35,6 +35,6 @@ layout: page
 
 [DrivenData: Data Science Competitions for Social Good:](https://www.drivendata.org/competitions/ "DrivenData") Compete to come up with the best statistical model for difficult predictive problems
 
-## Mentorship Questions
+## If you have any questions about the mentorship program, fill out the form below!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQcbSJOMuYlrE01-FXHzd5PebvniRwS-0DfcRDErbOUX7FjA/viewform?embedded=true" width="640" height="1280" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
