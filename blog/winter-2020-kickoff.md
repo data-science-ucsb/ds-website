@@ -8,4 +8,4 @@ image: images/blogWinterKickoff.jpg
 layout: post
 ---
 
-At the start of the third quarter, our Winter 2020 Kickoff gives another chance for both old and new members to gather and build their network! 
+At the start of the second quarter, our Winter 2020 Kickoff gives another chance for both old and new members to gather and build their network! 
