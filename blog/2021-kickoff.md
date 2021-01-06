@@ -13,7 +13,7 @@ With over 180 attendees at our Kickoff meeting over Zoom, Data Science UCSB welc
 To recap:
 * Project group leader, Connor Levenson, went over his freshman year project that dealt with predicting drafted NFL quarterbacks, which he had presented at the Spring Showcase!
 
-* The Beginner Pipeline, Intermediate Pipeline, and Project Groups will be starting against next Tuesday, January 12
+* The Beginner Pipeline, Intermediate Pipeline, and Project Groups will be starting again next Tuesday, January 12
 
 * To replace last quarter's mentorships, we will be launching our Big-Little social program, and through these groupings, we hope we can provide a way to meet and socialize with other students in your year and major! Sign-ups to be a Big or Little can be found on the Big-Little tab right above!
 
