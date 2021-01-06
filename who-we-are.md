@@ -50,7 +50,7 @@ Hello! My name is Luke Fields. I am currently a 2nd-year Statistics and Data Sci
 **Kshitij Agarwal** |
 
 <p align="center">
-<img src="/images/members/krish.JPG" width="200" height="200"/> |
+<img src="/images/members/krish.JPG" width="200" height="200"/> 
 </p>
 
 What's good everyone, my name is Kshitij Agarwal and I'm a first year Stats and Data Science major from Cupertino, CA. Some things I enjoy are playing sports like Cricket or Badminton, video games like Genshin Impact, and watching anime or reading manga. I joined Data Science club to gain real life data science experience to supplement my learning inside the classroom and to make new friends and join a community of people with similar interests.
