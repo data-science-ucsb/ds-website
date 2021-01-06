@@ -45,9 +45,7 @@ Hello! My name is Luke Fields. I am currently a 2nd-year Statistics and Data Sci
 
 <center><h3> Intern Officer</h3></center>
 
-Kshitij Agarwal |
-
--------------------- |
+**Kshitij Agarwal** |
 
 <img src="/images/members/krish.JPG" width="200" height="200"/> |
 
