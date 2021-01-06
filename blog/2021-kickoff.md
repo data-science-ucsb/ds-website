@@ -23,4 +23,4 @@ Thank you to everyone who came out to the Kickoff meeting, and we hope to see yo
 
 [DS UCSB Winter 2021 Kickoff Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSR_TCUJgO78kvvNefdwJbd16IZjLrmxj22EV-IVQjWsJh1P27T0hNauMfckRqL5R7G86EbjGR_LRUn/pub?start=false&loop=false&delayms=10000)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSR_TCUJgO78kvvNefdwJbd16IZjLrmxj22EV-IVQjWsJh1P27T0hNauMfckRqL5R7G86EbjGR_LRUn/pub?start=false&loop=false&delayms=10000&slide=id.g646221db99_1_310" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSR_TCUJgO78kvvNefdwJbd16IZjLrmxj22EV-IVQjWsJh1P27T0hNauMfckRqL5R7G86EbjGR_LRUn/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
