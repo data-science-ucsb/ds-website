@@ -33,8 +33,10 @@ Hi! My name is Priyasha Agarwal and I am a second year Economics & Accounting an
 
 Brian Che |
 ------------- |
-![brianche](/images/members/brianche.jpg =200x200)  |
-# <img src="brianche.jpg" alt="brianche" width="200"/>
+<img src="brianche.jpg" alt="brianche" width="200"/>  |
+<!---
+![brianche](/images/members/brianche.jpg =200x200)
+-->
 My name is Brian, and I’m in the class of 2023. My major is Stats & Data Science, and I’m from Garden Grove. I love going hiking and want to visit every national park. I joined data science club because I want to hone my skills and collaborate with like minded people in the same field!   |
 
 <center><h3> Project Group</h3></center>
