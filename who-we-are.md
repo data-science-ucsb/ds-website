@@ -19,7 +19,7 @@ The club is open to students of all grade levels and majors.
 
 Brian Lim | Amiya Dutta | Ishana Narayanan
 ------------- | -------------  | -------------  
-<img src="/images/members/brianlim.png" width="300" height="300"/>| ![amiya](/images/members/amiya.jpeg)   | <img src="/images/members/ishana.jpg" width="90" height="90"/>  
+<img src="/images/members/brianlim.png" width="400" height="400"/>| ![amiya](/images/members/amiya.jpeg)   | <img src="/images/members/ishana.jpg" width="300" height="300"/>  
 I am a BS/MS student in Computer Science, and your current acting president of Data Science UCSB. I hope to be able to pass on some of my experience to you all as members of our organization.  | I'm a fourth year Financial Math and Statistics major with an English minor, and I'm from the Bay Area. I love sushi, frisbee, hiking, and creative writing. I'm a member of DS because I like data analytics, specifically using data to answer questions about trends we see in our daily lives.    | I'm currently a third-year Computer Science and Statistics & Data Science double major at UCSB, originally from San Jose, CA. I have been involved with Data Science UCSB since my first year, and it has helped me tremendously with growing my technical skills as well as meeting other students/faculty. In my free time, I enjoy dancing, cooking, and grabbing coffee with friends!!    
 
 <center><h3> Marketing and Operations</h3></center>
@@ -47,5 +47,7 @@ Hello! My name is Luke Fields. I am currently a 2nd-year Statistics and Data Sci
 
 Kshitij Agarwal |
 -------------------- |
+
 <img src="/images/members/krish.JPG" width="200" height="200"/> |
+
 What's good everyone, my name is Kshitij Agarwal and I'm a first year Stats and Data Science major from Cupertino, CA. Some things I enjoy are playing sports like Cricket or Badminton, video games like Genshin Impact, and watching anime or reading manga. I joined Data Science club to gain real life data science experience to supplement my learning inside the classroom and to make new friends and join a community of people with similar interests.
