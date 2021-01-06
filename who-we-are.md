@@ -33,7 +33,7 @@ Hi! My name is Priyasha Agarwal and I am a second year Economics & Accounting an
 
 Brian Che |
 ------------- |
-![brianche](/images/members/brianche.jpg) <img src="/images/members/brianche.jpg" width="100" height="100"/> | 
+![brianche](/images/members/brianche.jpg) <img src="/images/members/brianche.jpg" width="50" height="50"/> | 
 My name is Brian, and I’m in the class of 2023. My major is Stats & Data Science, and I’m from Garden Grove. I love going hiking and want to visit every national park. I joined data science club because I want to hone my skills and collaborate with like minded people in the same field!   |
 
 <center><h3> Project Group</h3></center>
@@ -47,5 +47,5 @@ Hello! My name is Luke Fields. I am currently a 2nd-year Statistics and Data Sci
 Kshitij Agarwal |
 ------------- |
 
-![kshitij](/images/members/krish.JPG) <img src="/images/members/krish.JPG" width="100" height="100"/> |
+![kshitij](/images/members/krish.JPG) <img src="/images/members/krish.JPG" width="50" height="50"/> |
 What's good everyone, my name is Kshitij Agarwal and I'm a first year Stats and Data Science major from Cupertino, CA. Some things I enjoy are playing sports like Cricket or Badminton, video games like Genshin Impact, and watching anime or reading manga. I joined Data Science club to gain real life data science experience to supplement my learning inside the classroom and to make new friends and join a community of people with similar interests.
