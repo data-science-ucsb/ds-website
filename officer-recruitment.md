@@ -1,7 +1,7 @@
 ---
 title: Officer Recruitment
 subtitle: >-
-  We're looking to add two or three new members to our officer team!
+  Join the officer team!
 image:
 layout: page
 ---
