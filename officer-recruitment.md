@@ -6,18 +6,19 @@ image:
 layout: page
 ---
 
-## Fill out the form below if you are interested in being a part of our team.
 
-The positions we are interested in filling are described below!
+## The positions we are interested in filling are described below!
 
-Project Group Leader
+##### Project Group Leader
+
 -Adequate knowledge of the capabilities of data science and ability to teach students
 
 -Work through the intermediate pipeline with new members
 
 -Ability to learn fast
 
-Marketing/Operations Member
+##### Marketing/Operations Member
+
 -On-campus and off-campus outreach
 
 -Coordinate all events (data talks, GMs, project showcase, socials, etc.)
