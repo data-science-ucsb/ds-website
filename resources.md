@@ -6,8 +6,6 @@ image:
 layout: page
 
 ---
-## If you missed a meeting, request a recording.
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnN0wynfD4STi8bklzbkQPvjKZJ9KVwDfRixlrSHE5nk-DCQ/viewform?embedded=true" width="640" height="776" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## If you have any questions or need advice on majors, careers, data science, etc, please fill out this form and an officer will respond via email!
 
