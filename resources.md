@@ -29,6 +29,8 @@ layout: page
 
 [CRML:](https://slideslive.com/crml-uc-santa-barbara "CRML") Slideshows from the 2020 Responsible Machine Learning Summit
 
+[Stanford 231n Spring 2017 Lecture Series:](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) Computer Vision and Deep Learning lectures
+
 ## Competitions and Programs
 
 [Kaggle Competition:](https://www.kaggle.com/competitions "Kaggle") Wide variety of competitions to explore your interests
