@@ -2,7 +2,7 @@
 title: 2021 Project Showcase
 excerpt: >-
   Data Science UCSB hosts our annual spring Project Showcase!
-date: '2020-05-27'
+date: '2021-05-27'
 thumb_image: images/PSucsbDS2021.PNG
 image: images/PSucsbDS2021.PNG
 layout: post
