@@ -11,4 +11,4 @@ layout: post
 
  Click on the video down below to watch the full Project Showcase!
 
-[![2021 Project Showcase](images/ThumbnailProjectshowcase.PNG)](https://drive.google.com/file/d/1ezW-NzZMqaTOB-a-nXOfkvTgH7eWlAiB/view)
+[![2021 Project Showcase](https://res.cloudinary.com/marcomontalbano/image/upload/v1622506545/video_to_markdown/images/google-drive--1ezW-NzZMqaTOB-a-nXOfkvTgH7eWlAiB-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://drive.google.com/file/d/1ezW-NzZMqaTOB-a-nXOfkvTgH7eWlAiB/view "2021 Project Showcase")
