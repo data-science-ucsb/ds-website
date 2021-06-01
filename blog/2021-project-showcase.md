@@ -11,4 +11,4 @@ layout: post
 
  Click on the video down below to watch the full Project Showcase!
 
-[![2021 Project Showcase](https://img.drive.google.com/file/d/1ezW-NzZMqaTOB-a-nXOfkvTgH7eWlAiB/view)](https://drive.google.com/file/d/1ezW-NzZMqaTOB-a-nXOfkvTgH7eWlAiB/view)
+[![2021 Project Showcase](images/ThumbnailProjectshowcase.PNG)](https://drive.google.com/file/d/1ezW-NzZMqaTOB-a-nXOfkvTgH7eWlAiB/view)
