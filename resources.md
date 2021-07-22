@@ -6,8 +6,6 @@ image:
 layout: page
 
 ---
-## If you missed a meeting, request a recording.
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScnN0wynfD4STi8bklzbkQPvjKZJ9KVwDfRixlrSHE5nk-DCQ/viewform?embedded=true" width="640" height="776" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## If you have any questions or need advice on majors, careers, data science, etc, please fill out this form and an officer will respond via email!
 
@@ -30,6 +28,8 @@ layout: page
 [Kaggle:](https://www.kaggle.com/learn/overview "Kaggle") To explore some data sets and build upon data science
 
 [CRML:](https://slideslive.com/crml-uc-santa-barbara "CRML") Slideshows from the 2020 Responsible Machine Learning Summit
+
+[Stanford 231n Spring 2017 Lecture Series:](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv) Computer Vision and Deep Learning lectures
 
 ## Competitions and Programs
 
