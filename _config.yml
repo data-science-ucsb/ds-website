@@ -31,8 +31,6 @@ header:
       url: /faqs
     - label: Connect
       url: /connect
-      label: Big-Little Program
-      url: /big-little
       primary: true
 footer:
   logo_img: images/DataScienceSmallLogo.png
