@@ -17,10 +17,10 @@ The club is open to students of all grade levels and majors.
 
 <center><h3> Executive Team</h3></center>
 
-Brian Lim | Amiya Dutta | Ishana Narayanan
+Ishana Narayanan   |  Madeline Li   |   Connor Levenson
 ------------- | -------------  | -------------  
-<img src="/images/members/brianlim.png" width="400" height="400"/>| ![amiya](/images/members/amiya.jpeg)   | <img src="/images/members/ishana.jpg" width="250" height="250"/>  
-I am a BS/MS student in Computer Science, and your current acting president of Data Science UCSB. I hope to be able to pass on some of my experience to you all as members of our organization.  | I'm a fourth year Financial Math and Statistics major with an English minor, and I'm from the Bay Area. I love sushi, frisbee, hiking, and creative writing. I'm a member of DS because I like data analytics, specifically using data to answer questions about trends we see in our daily lives.    | I'm currently a third-year Computer Science and Statistics & Data Science double major at UCSB, originally from San Jose, CA. I have been involved with Data Science UCSB since my first year, and it has helped me tremendously with growing my technical skills as well as meeting other students/faculty. In my free time, I enjoy dancing, cooking, and grabbing coffee with friends!!    
+<img src="/images/members/ishana.jpg" width="250" height="250"/>  |  <img src="/images/members/madeline.jpg" width="200" height="200"/> 
+ I'm currently a third-year Computer Science and Statistics & Data Science double major at UCSB, originally from San Jose, CA. I have been involved with Data Science UCSB since my first year, and it has helped me tremendously with growing my technical skills as well as meeting other students/faculty. In my free time, I enjoy dancing, cooking, and grabbing coffee with friends!!    |
 
 <center><h3> Marketing and Operations</h3></center>
 
