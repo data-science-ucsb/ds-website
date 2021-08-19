@@ -27,7 +27,7 @@ The club is open to students of all grade levels and majors.
 | Katie Huynh   |  Priyasha Agarwal  | Kshitij Agarwal |
 | :----------:  |  :----------:      | :----------:    |
 ![katie](/images/members/katie.jpg)  | ![priyasha](/images/members/priyasha.png)   | ![krish](/images/members/krish.png)    |
-I'm a third year Statistics and Data Science major from the Bay Area and a boba connoisseur who loves road trips and exploring new hobbies, reading, and drawing. I joined data science because I love how the field combines both programming and data to improve upon information and communicate that information to the rest of the world.    | Hi! I'm a third year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing!
+I'm a third year Statistics and Data Science major from the Bay Area and a boba connoisseur who loves road trips and exploring new hobbies, reading, and drawing. I joined data science because I love how the field combines both programming and data to improve upon information and communicate that information to the rest of the world.    | Hi! I'm a third year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing! 
 
 
 
