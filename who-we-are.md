@@ -28,16 +28,22 @@ The club is open to students of all grade levels and majors.
 | :----------:  |  :----------:      | :----------:    |
 ![katie](/images/members/katie.jpg)  | ![priyasha](/images/members/priyasha.png)   | ![krish](/images/members/krish.png)    |
 <<<<<<< HEAD
+<<<<<<< HEAD
 Hi! My name is Priyasha Agarwal and I am a second year Economics and Statistics & Data Science double major from the Bay Area! I love dancing and exploring new dessert places (let me know if you have any recommendations!). I joined the Data Science club in order to strengthen my analytical skills in relation to the real world while surrounding with a like-minded community of people that can assist me in my growth. I am excited to meet all of you this year! | Hi! My name is Priyasha Agarwal and I am a second year Economics and Statistics & Data Science double major from the Bay Area! I love dancing and exploring new dessert places (let me know if you have any recommendations!). I joined the Data Science club in order to strengthen my analytical skills in relation to the real world while surrounding with a like-minded community of people that can assist me in my growth. I am excited to meet all of you this year! | Hey everyone, my name is Kshitij Agarwal and I’m a second year Stats and Data Science major from Cupertino, CA. Some things I enjoy are playing sports like cricket, badminton, or table tennis, playing video games like Genshin Impact or Priconne, and watching anime and collecting manga. I joined Data Science club to gain real life data science experience to supplement my learning inside the classroom and to make new friends and join a community of people with similar interests. |
 =======
 I'm a third year Statistics and Data Science major from the Bay Area and a boba connoisseur who loves road trips and exploring new hobbies, reading, and drawing. I joined data science because I love how the field combines both programming and data to improve upon information and communicate that information to the rest of the world.    | Hi! I'm a third year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing!
 >>>>>>> 713ffcb105cdac802873eda994577886347c7e08
+=======
+I'm a third year Statistics and Data Science major from the Bay Area and a boba connoisseur who loves road trips and exploring new hobbies, reading, and drawing. I joined data science because I love how the field combines both programming and data to improve upon information and communicate that information to the rest of the world.    | Hi! I'm a third year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing! 
+>>>>>>> 225d52d9a414a6dda202a94df71ee820fbc22f46
 
 
 
 | Shivani Kharva | Anna Bauer   |
-| Hi!! I’m a second year statistics and data science major who loves to read, bake, and play video games! I am just starting off in the data science pathways so my current main interest is learning how to analyze various graphs that can be generated from a particular set of data.   | Hello! I am a third-year Stats & Data Science and Economics double major from Marin County, CA. In my free time, I’m an active member of UCSB Women’s Club Water Polo, and I love to swim. This year, I hope to make learning data science more accessible to UCSB students and continue the friendly atmosphere of Data Science UCSB.  |
+| :------------: | :----------: |
 ![shivani](/images/members/shivani.jpeg)  | ![anna](/images/members/anna.png)   |
+| Hi!! I’m a second year statistics and data science major who loves to read, bake, and play video games! I am just starting off in the data science pathways so my current main interest is learning how to analyze various graphs that can be generated from a particular set of data.   | Hello! I am a third-year Stats & Data Science and Economics double major from Marin County, CA. In my free time, I’m an active member of UCSB Women’s Club Water Polo, and I love to swim. This year, I hope to make learning data science more accessible to UCSB students and continue the friendly atmosphere of Data Science UCSB.  |
+
 
 
 
