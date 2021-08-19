@@ -27,12 +27,12 @@ The club is open to students of all grade levels and majors.
 | Katie Huynh   |  Priyasha Agarwal  | Kshitij Agarwal |
 | :----------:  |  :----------:      | :----------:    |
 ![katie](/images/members/katie.jpg)  | ![priyasha](/images/members/priyasha.png)   | ![krish](/images/members/krish.png)    |
-I'm a third year Statistics and Data Science major from the Bay Area and a boba connoisseur who loves road trips and exploring new hobbies, reading, and drawing. I joined data science because I love how the field combines both programming and data to improve upon information and communicate that information to the rest of the world.    | Hi! I'm a third year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing!
+Hi! My name is Priyasha Agarwal and I am a second year Economics & Accounting and Statistics & Data Science double major from the Bay Area! I love dancing and exploring new dessert places (let me know if you have any recommendations!). I joined the Data Science club in order to expand my analytical skills in relation to the real world while surrounded with a like-minded community of people that can assist me in my growth. I am excited to meet all of you this year!  | I'm a second year computer science major from the Bay Area and a boba connoisseur who loves road trips and exploring new hobbies, reading, and drawing. I joined data science because I love how the field combines both programming and data to improve upon information and communicate that information to the rest of the world.    | Hi! I'm a third year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing!
 
 
 
 | Shivani Kharva | Anna Bauer   |
-| Hi!! I’m a second year statistics and data science major who loves to read, bake, and play video games! I am just starting off in the data science pathways so my current main interest is learning how to analyze various graphs that can be generated from a particular set of data.   | Hello! I am a third-year Stats & Data Science and Economics double major from Marin County, CA. In my free time, I’m an active member of UCSB Women’s Club Water Polo, and I love to swim. This year, I hope to make learning data science more accessible to UCSB students and continue the friendly atmosphere of Data Science UCSB.  |
+| :----------:   | :----------: |
 ![shivani](/images/members/shivani.jpeg)  | ![anna](/images/members/anna.png)   |
 
 
@@ -50,7 +50,7 @@ My name is Brian, and I’m in the class of 2023. My major is Stats & Data Scien
 
 | Hirish Chandrasekaran  |   Luke Fields   |  Harper Klauke  |
 | :----------:           |   :----------:  |  :----------:   |
-![hirish](/images/members/hirish.jpg)  | ![priyasha](/images/members/luke.JPG)   | ![harper](/images/members/harper.jpg)  
-
+![hirish](/images/members/hirish.jpg)  | ![luke](/images/members/luke.JPG)   | ![harper](/images/members/harper.jpg)  
+Hello! I am a physics and computer science major, currently finishing up my computer science degree. I have experience in computational physics and scientific computing from my internships as well as research. My primary interest with data science is with scientific computing tools in python and research in the underlying mathematics behind neural nets.   | Hello! My name is Luke Fields. I am currently a 3rd-year Statistics and Data Science Major from Orange County, CA. I like to take in the Isla Vista beaches, as well as seize advantage of everything the beautiful SB area has to offer in my free time. I joined the Data Science club because I saw an opportunity to train my skills in data science in a way I could not do on my own, as well as in a way that would show me the highlights and potential of the data science community at UCSB!   |   Hello! I'm a fourth year Statistics and Data Science major from Irvine, CA. I enjoy camping, writing, and playing board games in my free time. My main goal with Data Science UCSB is to help students explore their interests and gain the skills and confidence they need to be successful in this field. 
 
 
