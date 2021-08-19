@@ -53,8 +53,7 @@ My name is Brian, and I’m in the class of 2023. My major is Stats & Data Scien
 
 | Hirish Chandrasekaran  |   Luke Fields   |  Harper Klauke  |
 | :----------:           |   :----------:  |  :----------:   |
-![hirish](/images/members/hirish.jpg)  | ![luke](/images/members/luke.JPG)   | ![harper](/images/members/harper.jpg)  
-<<<<<<< Updated upstream
+![hirish](/images/members/hirish.jpg)  | ![luke](/images/members/luke.JPG)   | ![harper](/images/members/harper.jpg)  |
 Hello! I am a physics and computer science major, currently finishing up my computer science degree. I have experience in computational physics and scientific computing from my internships as well as research. My primary interest with data science is with scientific computing tools in python and research in the underlying mathematics behind neural nets.   | Hello! My name is Luke Fields. I am currently a 3rd-year Statistics and Data Science Major from Orange County, CA. I like to take in the Isla Vista beaches, as well as seize advantage of everything the beautiful SB area has to offer in my free time. I joined the Data Science club because I saw an opportunity to train my skills in data science in a way I could not do on my own, as well as in a way that would show me the highlights and potential of the data science community at UCSB!   |   Hello! I'm a fourth year Statistics and Data Science major from Irvine, CA. I enjoy camping, writing, and playing board games in my free time. My main goal with Data Science UCSB is to help students explore their interests and gain the skills and confidence they need to be successful in this field. 
 
 
