@@ -32,7 +32,7 @@ Hi! My name is Priyasha Agarwal and I am a second year Economics & Accounting an
 
 
 | Shivani Kharva | Anna Bauer   |
-| :----------:   | :----------: |
+| Hi!! I’m a second year statistics and data science major who loves to read, bake, and play video games! I am just starting off in the data science pathways so my current main interest is learning how to analyze various graphs that can be generated from a particular set of data.   | Hello! I am a third-year Stats & Data Science and Economics double major from Marin County, CA. In my free time, I’m an active member of UCSB Women’s Club Water Polo, and I love to swim. This year, I hope to make learning data science more accessible to UCSB students and continue the friendly atmosphere of Data Science UCSB.  |
 ![shivani](/images/members/shivani.jpeg)  | ![anna](/images/members/anna.png)   |
 
 
