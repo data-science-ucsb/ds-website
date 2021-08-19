@@ -42,7 +42,8 @@ The club is open to students of all grade levels and majors.
 
 <center><h3> Finance</h3></center>
 
-**Brian Che** |
+|**Brian Che** |
+| :----:  |
 
 <p align="center">
 <img src="/images/members/brian.jpg" width="250" height="250"/> 
