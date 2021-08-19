@@ -21,6 +21,8 @@ header:
       url: /
     - label: Who We Are
       url: /who-we-are
+    - label: OFficers
+      url: /officers
     - label: Events Calendar
       url: /events-calendar
     - label: Blog

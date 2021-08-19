@@ -13,13 +13,13 @@ Data Science at UCSB is the university's most active engineering and science clu
 
 The club is open to students of all grade levels and majors.
 
-<center><h1> Our Officer Team</h1></center>
+<title> Our Officer Team</title>
 
 <center><h3> Executive Team</h3></center>
 
 Ishana Narayanan   |  Madeline Li   |   Connor Levenson
 ------------- | -------------  | -------------  
-<img src="/images/members/ishana.jpg" width="250" height="250"/>  |  <img src="/images/8_thumb.jpg" width="250 height="250"/> 
+<img src="/images/members/ishana.jpg" width="250" height="250"/>  | 
  I'm currently a third-year Computer Science and Statistics & Data Science double major at UCSB, originally from San Jose, CA. I have been involved with Data Science UCSB since my first year, and it has helped me tremendously with growing my technical skills as well as meeting other students/faculty. In my free time, I enjoy dancing, cooking, and grabbing coffee with friends!!    |  
 
 <center><h3> Marketing and Operations</h3></center>
