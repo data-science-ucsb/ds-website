@@ -19,7 +19,7 @@ The club is open to students of all grade levels and majors.
 
 | Ishana Narayanan    |  Madeline Li   |   Connor Levenson  |
 | :----------:        | :----------:   |    :----------:    |
-![ishana](/images/members/ishana.jpg)  | <img src="/images/members/madeline.png" width="200" height="200">   | ![connor](/images/members/connor.png)  
+![ishana](/images/members/ishana.jpg)  | <img src="/images/members/madeline.jpg" width="200" height="200">   | ![connor](/images/members/connor.png)  
 | Hi! I'm a fourth-year Computer Science and Statistics & Data Science double major at UCSB, originally from San Jose, CA. I have been involved with Data Science UCSB since my first year, and it has helped me tremendously with growing my technical skills as well as meeting other students/faculty. In my free time, I enjoy dancing, cooking, and grabbing coffee with friends! | Hi! I'm a fourth year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing! | I am a fourth year studying Statistics and Data Science. I enjoy watching football, listening to music and not using Oxford commas. My data science interests lie in computer vision (object detection/localization), typically in weakly supervised settings.
 
 
@@ -53,7 +53,7 @@ My name is Brian, and I’m in the class of 2023. My major is Stats & Data Scien
 
 | Hirish Chandrasekaran  |   Luke Fields   |  Harper Klauke  |
 | :----------:           |   :----------:  |  :----------:   |
-| ![hirish](/images/members/hirish.jpg)  | ![luke](/images/members/luke.JPG)   | ![harper](/images/members/harper.jpg)  |
+| <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
 Hello! I am a physics and computer science major, currently finishing up my computer science degree. I have experience in computational physics and scientific computing from my internships as well as research. My primary interest with data science is with scientific computing tools in python and research in the underlying mathematics behind neural nets.   | Hello! My name is Luke Fields. I am currently a 3rd-year Statistics and Data Science Major from Orange County, CA. I like to take in the Isla Vista beaches, as well as seize advantage of everything the beautiful SB area has to offer in my free time. I joined the Data Science club because I saw an opportunity to train my skills in data science in a way I could not do on my own, as well as in a way that would show me the highlights and potential of the data science community at UCSB!   |   Hello! I'm a fourth year Statistics and Data Science major from Irvine, CA. I enjoy camping, writing, and playing board games in my free time. My main goal with Data Science UCSB is to help students explore their interests and gain the skills and confidence they need to be successful in this field. 
 
 
