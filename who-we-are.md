@@ -39,7 +39,6 @@ The club is open to students of all grade levels and majors.
 
 
 
-
 <center><h3> Finance</h3></center>
 
 <center> <b>Brian Che</b> </center>
@@ -48,6 +47,7 @@ The club is open to students of all grade levels and majors.
 <img src="/images/members/brian.jpg" width="250" height="250"/> 
 </p>
 My name is Brian, and I’m in the class of 2023. My major is Stats & Data Science, and I’m from Garden Grove. I love going hiking and want to visit every national park. I joined data science club because I want to hone my skills and collaborate with like minded people in the same field!   
+
 
 <center><h3> Project Group</h3></center>
 
