@@ -26,7 +26,7 @@ header:
     - label: Blog
       url: /blog
     - label: Mentorship
-      url: /blog
+      url: /mentorship
     - label: Resources
       url: /resources
     - label: FAQs
@@ -55,6 +55,7 @@ footer:
       url: 'https://www.instagram.com/datascienceucsb/'
       new_window: true
     - label: LinkedIn
+      image: <i class="fab fa-linkedin-in"></i>
       url: 'https://www.linkedin.com/company/data-science-at-ucsb'
       new_window: true
     - label: Facebook
