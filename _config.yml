@@ -25,6 +25,8 @@ header:
       url: /events-calendar
     - label: Blog
       url: /blog
+    - label: Mentorship
+      url: /blog
     - label: Resources
       url: /resources
     - label: FAQs
