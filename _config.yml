@@ -47,7 +47,8 @@ footer:
     - label: Blog
       url: /blog
     - label: Connect
-      url: connect
+      url: 'https://forms.gle/WVuFFXLEaGBuXRXNA'
+      new_window: true
     - label: Email us
       url: 'mailto:datascience.ucsb@gmail.com'
   has_social: true
