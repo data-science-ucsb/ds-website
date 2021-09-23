@@ -32,7 +32,7 @@ header:
     - label: FAQs
       url: /faqs
     - label: Connect
-      url: https://forms.gle/EYfC4XiHQd6LkneA6
+      url: target="https://forms.gle/EYfC4XiHQd6LkneA6"
       primary: true
 footer:
   logo_img: images/DataScienceSmallLogo.png
