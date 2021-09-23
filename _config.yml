@@ -34,6 +34,7 @@ header:
     - label: Connect
       url: 'https://forms.gle/WVuFFXLEaGBuXRXNA'
       new_window: true
+      primary: true
       
 footer:
   logo_img: images/DataScienceSmallLogo.png
