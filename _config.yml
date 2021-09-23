@@ -32,8 +32,9 @@ header:
     - label: FAQs
       url: /faqs
     - label: Connect
-      url: <a href="https://forms.gle/EYfC4XiHQd6LkneA6" target="_blank">New Tab</a>
-      primary: true
+      url: 'https://forms.gle/WVuFFXLEaGBuXRXNA'
+      new_window: true
+      
 footer:
   logo_img: images/DataScienceSmallLogo.png
   tagline: datascience.ucsb@gmail.com
