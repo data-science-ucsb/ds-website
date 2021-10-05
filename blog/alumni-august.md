@@ -1,5 +1,5 @@
 ---
-title: Alumni August
+title: Alumni August 2020
 excerpt: >-
   Weekly panel of UCSB alumni sharing their experiences with data
   science before and after graduating!
