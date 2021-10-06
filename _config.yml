@@ -32,8 +32,9 @@ header:
     - label: FAQs
       url: /faqs
     - label: Connect
-      url: /connect
+      url: https://docs.google.com/forms/d/e/1FAIpQLScSwEzUavR3oEyXwSRg9UViMGBJTBm_2FSJBf4GjGDqDmWI3A/viewform
       primary: true
+      new_window: true
 footer:
   logo_img: images/DataScienceSmallLogo.png
   tagline: datascience.ucsb@gmail.com
