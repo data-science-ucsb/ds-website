@@ -53,7 +53,9 @@ sections:
     subtitle: Sign up and join our slack for information about club news and other opportunities.
     actions:
       - label: Join Us
-        url: /connect
+        url: https://docs.google.com/forms/d/e/1FAIpQLScSwEzUavR3oEyXwSRg9UViMGBJTBm_2FSJBf4GjGDqDmWI3A/viewform
+        primary: true
+        new_window: true
   - section_id: recent-posts
     type: section_posts
     background: gray
