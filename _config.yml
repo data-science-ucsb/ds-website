@@ -29,9 +29,9 @@ header:
       url: /resources
     - label: Big Little Program
       url: /big-little
-      label: Intern Officer
-      url: https://docs.google.com/forms/d/1vWtewlfzzzT7B1YWUEhJNbNcDbdiK0qhN12Hm_TlS4Q/edit
-      new_window: true
+      #label: Intern Officer
+     # url: https://docs.google.com/forms/d/1vWtewlfzzzT7B1YWUEhJNbNcDbdiK0qhN12Hm_TlS4Q/edit
+     # new_window: true
     - label: FAQs
       url: /faqs
     - label: Connect
