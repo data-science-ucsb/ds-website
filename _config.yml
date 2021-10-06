@@ -25,17 +25,15 @@ header:
       url: /events-calendar
     - label: Blog
       url: /blog
-    - label: Intern Officer Form
-      url: /intern-officer
     - label: Resources
       url: /resources
+    - label: Big Little Program
+      url: /big-little  
     - label: FAQs
       url: /faqs
     - label: Connect
-      url: 'https://forms.gle/WVuFFXLEaGBuXRXNA'
-      new_window: true
+      url: /connect
       primary: true
-      
 footer:
   logo_img: images/DataScienceSmallLogo.png
   tagline: datascience.ucsb@gmail.com
@@ -47,8 +45,7 @@ footer:
     - label: Blog
       url: /blog
     - label: Connect
-      url: 'https://forms.gle/WVuFFXLEaGBuXRXNA'
-      new_window: true
+      url: connect
     - label: Email us
       url: 'mailto:datascience.ucsb@gmail.com'
   has_social: true
@@ -58,7 +55,6 @@ footer:
       url: 'https://www.instagram.com/datascienceucsb/'
       new_window: true
     - label: LinkedIn
-      image: <i class="fab fa-linkedin-in"></i>
       url: 'https://www.linkedin.com/company/data-science-at-ucsb'
       new_window: true
     - label: Facebook
