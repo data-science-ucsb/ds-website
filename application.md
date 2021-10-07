@@ -1,8 +1,7 @@
 ---
 title: Applications
 subtitle: >-
-  Big/Little Applications
-  Intern Officer Applications
+  Big/Little and Intern Officer Applications
 image:
 layout: page
 ---
