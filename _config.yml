@@ -27,8 +27,9 @@ header:
       url: /blog
     - label: Resources
       url: /resources
-    - label: Big Little Program
+    - label: Applications
       url: /big-little
+      url: /intern-officer
       #label: Intern Officer
      # url: https://docs.google.com/forms/d/1vWtewlfzzzT7B1YWUEhJNbNcDbdiK0qhN12Hm_TlS4Q/edit
      # new_window: true
