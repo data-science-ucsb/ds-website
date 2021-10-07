@@ -10,7 +10,6 @@ Apply to be an Intern Officer for 2021-2022!
 
 [Intern Officer Application](https://docs.google.com/forms/d/1vWtewlfzzzT7B1YWUEhJNbNcDbdiK0qhN12Hm_TlS4Q/viewform?edit_requested=true)  
 
-
 <br />
 
 
