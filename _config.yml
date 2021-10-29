@@ -27,8 +27,8 @@ header:
       url: /blog
     - label: Resources
       url: /resources
-    - label: Applications
-      url: /application
+    - label: Mentorhsip Tip
+      url: /mentorship
       #label: Intern Officer
      # url: https://docs.google.com/forms/d/1vWtewlfzzzT7B1YWUEhJNbNcDbdiK0qhN12Hm_TlS4Q/edit
      # new_window: true
