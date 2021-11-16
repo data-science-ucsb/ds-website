@@ -3,8 +3,8 @@ title: Fall 2021 Data Science UCSB Kickoff
 excerpt: >-
   Data Science UCSB hosted our first meeting of the Fall 2021 quarter this Tuesday!
 date: '2021-09-28'
-thumb_image: images/dskickoff21.jpg
-image: images/dskickoff21.jpg
+thumb_image: images/kickoff.jpg
+image: images/kickoff.jpg
 layout: post
 ---
 
