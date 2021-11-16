@@ -22,4 +22,3 @@ Thank you to all of our members that came out this week!
 
 [DS UCSB Winter 2021 Kickoff Presentation](https://docs.google.com/presentation/d/17BZ18S3wJL9wd3KUpgvjv5LuQ-77cngaGMEE9Ts0ERY/edit#slide=id.g646221db99_4_99)
 
-<iframe src="https://docs.google.com/presentation/d/17BZ18S3wJL9wd3KUpgvjv5LuQ-77cngaGMEE9Ts0ERY/edit#slide=id.g646221db99_4_99" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
