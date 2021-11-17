@@ -3,8 +3,8 @@ title: Fall 2021 Pizza Social
 excerpt: >-
   Data Science UCSB hosted our members for pizza at our first social of the year!
 date: '2021-10-01'
-thumb_image: images/dsclubsocial.jpg
-image: images/dsclubsocial.jpg
+thumb_image: images/dsclubsocial2.jpg
+image: images/dsclubsocial2.jpg
 layout: post
 ---
 
