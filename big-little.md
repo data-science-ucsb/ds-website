@@ -1,7 +1,7 @@
 ---
 title: Big Data Little Data
 subtitle: >-
-  Welcome to Big Data Little Data! A social space for club members to get to know one another as we all strive towards our common Data Science goals!
+  Welcome to Big Data Little Data! A social space for club members to get to know one another as we all strive towards our common Data Science goals! 
 image:
 layout: page
 ---
