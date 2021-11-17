@@ -3,10 +3,12 @@ title: Fall 2021 Pizza Social
 excerpt: >-
   Data Science UCSB hosted our members for pizza at our first social of the year!
 date: '2021-10-01'
+thumb_image: images/dsclubsocial.jpg
+image: images/dsclubsocial.jpg
 layout: post
 ---
 
-Data Science UCSB welcomed over 350 new and returning members in CHEM 1179 on Tuesday (9/28) for our Fall kickoff meeting. Members learned about the club, data science as a field, and the opportunities we present to our members. 
+Data Science UCSB welcomed over 350 new and returning members in CHEM 1179 on Tuesday (9/28) for our fall kickoff meeting. Members learned about the club, data science as a field, and the opportunities we present to our members. 
 
 * With events such as general meetings, data talks, club socials, and professional development opportunities, we offer a wide variety of opportunities to our members. 
 
