@@ -60,7 +60,7 @@ Hello! I am a physics and computer science major, currently finishing up my comp
 
 <center><h3> Intern Officers </h3></center>
 
-| Hirish Chandrasekaran  |   Luke Fields   |  Harper Klauke  |
+| Jeffrey Cao  |   Luke Fields   |  Harper Klauke  |
 | :----------:           |   :----------:  |  :----------:   |
-| <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
-......   | ....   |   ...
+| <img src="/images/members/jeffrey.jpeg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
+Hello! I am a first year Computer Science Major from the Bay Area. I enjoy basketball, convolutional neural networks, anime, and hanging around IV with friends. Although this is my first year in Data Science, I am excited to meet everyone and work towards an eventful year! | ....   |   ...
