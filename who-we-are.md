@@ -60,7 +60,7 @@ Hello! I am a physics and computer science major, currently finishing up my comp
 
 <center><h3> Intern Officers </h3></center>
 
-| Jeffrey Cao  |   Praveen Manimaran   |  Harper Klauke  |
-| :----------:           |   :----------:  |  :----------:   |
+| Jeffrey Cao    |   Praveen Manimaran  |  Harper Klauke  |
+| :----------:   |   :----------:       |  :----------:   |
 | <img src="/images/members/jeffrey.jpeg" width="200" height="200">  | <img src="/images/members/Praveen.jpg" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
 Hello! I am a first year Computer Science Major from the Bay Area. I enjoy basketball, convolutional neural networks, anime, and hanging around IV with friends. Although this is my first year in Data Science, I am excited to meet everyone and work towards an eventful year!  | Hello! I'm Praveen and I'm a 3rd year Statistics and Data Science major from Cupertino, CA. I love playing basketball, going to the gym, and playing 2K/Warzone with my friends during my free time. I joined the Data Science club to learn more about what Data Science is really about and how I can eventually end up as a succesful data scientist/analyst.  |   ...
