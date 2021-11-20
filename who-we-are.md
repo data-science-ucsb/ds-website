@@ -58,3 +58,9 @@ Hello! I am a physics and computer science major, currently finishing up my comp
 
 
 
+<center><h3> Intern Officers </h3></center>
+
+| Hirish Chandrasekaran  |   Luke Fields   |  Harper Klauke  |
+| :----------:           |   :----------:  |  :----------:   |
+| <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
+......   | ....   |   ...
