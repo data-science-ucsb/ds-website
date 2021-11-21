@@ -3,8 +3,8 @@ title: Pacific Life Info Session
 excerpt: >-
   A panel of representatives from Pacific Life came to share their experience in the field of data science with our members!
 date: '2021-11-18'
-thumb_image: images/blogKickoff19.PNG
-image: images/blog19kickoff.PNG
+thumb_image: images/blog2021-22/pacificlife.jpg
+image: images/blog2021-22/pacificlife.jpg
 layout: post
 ---
 
