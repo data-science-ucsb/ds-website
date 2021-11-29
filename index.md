@@ -31,7 +31,6 @@ sections:
           - label: Events
             url: /events-calendar
       - title: Learning
-
         content: >-
           Utilize resources we provide to learn and create.
         actions:
@@ -50,7 +49,7 @@ sections:
         actions:
           - label: Learn More
             url: /blog
-            
+
   - section_id: recent-posts
     type: section_posts
     background: gray
