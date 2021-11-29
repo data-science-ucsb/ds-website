@@ -10,10 +10,6 @@ sections:
     actions:
       - label: Learn More
         url: /faqs
-
-  - section_id: showcaseinfo
-    type: section_showcaseinfo
-    image: images/projectshowcaseflier.jpg
   
   - section_id: features
     type: section_features
@@ -22,6 +18,10 @@ sections:
     subtitle: >-
       We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
+      - title: ''
+        image: images/projectshowcaseflier.jpg
+        content: >-
+          test
       - title: When Do We Meet?
         image: images/home1.jpg
         content: >-
