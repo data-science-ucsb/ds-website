@@ -53,7 +53,9 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Posts
+    title: Blog
+        content: >-
+          Keep up with our past events through our blog!
 
   - section_id: call-to-action
     type: section_cta
