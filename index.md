@@ -50,20 +50,16 @@ sections:
           - label: Learn More
             url: /blog
   - section_id: recent-posts
+    title: Latest Posts
     type: section_posts
     background: gray
-    content: >-
-      Keep up with our past events through our blog!
-    actions:
-          - label: See More
-            url: /blog
 
   - section_id: call-to-action
     type: section_cta
     title: Come Join Us!
     subtitle: Sign up and join our slack for information about club news and other opportunities.
     actions:
-      - label: Join Us
+      - label: Register
         url: https://docs.google.com/forms/d/e/1FAIpQLScSwEzUavR3oEyXwSRg9UViMGBJTBm_2FSJBf4GjGDqDmWI3A/viewform
         primary: true
         new_window: true
