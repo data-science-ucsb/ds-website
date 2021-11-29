@@ -11,6 +11,10 @@ sections:
       - label: Learn More
         url: /faqs
         
+  - section_id: showcaseinfo
+    type: section_showcaseinfo
+    image: images/projectshowcaseflier.jpg
+  
   - section_id: features
     type: section_features
     background: gray
