@@ -49,11 +49,9 @@ sections:
         actions:
           - label: Learn More
             url: /blog
-
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Latest Blog Posts
     content: >-
       Keep up with our past events through our blog!
     actions:
