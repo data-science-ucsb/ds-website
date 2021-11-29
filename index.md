@@ -53,9 +53,12 @@ sections:
   - section_id: recent-posts
     type: section_posts
     background: gray
-    title: Blog
-        content: >-
-          Keep up with our past events through our blog!
+    title: Latest Blog Posts
+    content: >-
+      Keep up with our past events through our blog!
+    actions:
+          - label: See More
+            url: /blog
 
   - section_id: call-to-action
     type: section_cta
