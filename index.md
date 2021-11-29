@@ -10,6 +10,10 @@ sections:
     actions:
       - label: Learn More
         url: /faqs
+
+  - section_id: showcaseinfo
+    type: section_showcaseinfo
+    image: images/projectshowcaseflier.jpg
   
   - section_id: features
     type: section_features
@@ -46,6 +50,10 @@ sections:
         actions:
           - label: Learn More
             url: /blog
+  - section_id: recent-posts
+    type: section_posts
+    background: gray
+    title: Latest Posts
 
   - section_id: call-to-action
     type: section_cta
@@ -56,9 +64,5 @@ sections:
         url: https://docs.google.com/forms/d/e/1FAIpQLScSwEzUavR3oEyXwSRg9UViMGBJTBm_2FSJBf4GjGDqDmWI3A/viewform
         primary: true
         new_window: true
-  - section_id: recent-posts
-    type: section_posts
-    background: gray
-    title: Latest Posts
 layout: landing
 ---
