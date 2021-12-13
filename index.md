@@ -25,8 +25,7 @@ sections:
       - title: When Do We Meet?
         image: images/home1.jpg
         content: >-
-          General meetings are on Tuesdays and from 7:00 - 9:00 PM.
-          We usually meet at the DAHC, but due to COVID-19, our meetings are on Zoom.
+          General meetings are on Tuesdays and from 7:00 - 9:00 PM. Winter quarter meeting locations will be announced soon.
         actions:
           - label: Events
             url: /events-calendar
