@@ -7,10 +7,6 @@ layout: page
 
 ---
 
-#### If you have any questions or need advice on majors, careers, data science, etc, please fill out this form and an officer will respond via email!
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcdqXXVPlPjit3v_MMNjCgNK8MFipFUuWzGX9IQevE-eOvRg/viewform?embedded=true" width="640" height="1749" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
-
 ## Intermediate and Beginner Pipeline Resources
 [Past Slides and Notebooks:](https://drive.google.com/drive/folders/1nbSnA1SH17mV0-RLNgw1Y0Vxj6ib5K04?usp=sharin "Past Slides/Notebooks") Review intermediate and pipeline presentation slides and Colab!
 
@@ -40,3 +36,7 @@ layout: page
 [International Data Analysis Olympiad (IDAO):](https://idao.world/ "IDAO") Bridge the gap between machine learning models and performance bottlenecks of the industry
 
 [DrivenData: Data Science Competitions for Social Good:](https://www.drivendata.org/competitions/ "DrivenData") Compete to come up with the best statistical model for difficult predictive problems
+
+#### If you have any questions or need advice on majors, careers, data science, etc, please fill out this form and an officer will respond via email!
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcdqXXVPlPjit3v_MMNjCgNK8MFipFUuWzGX9IQevE-eOvRg/viewform?embedded=true" width="640" height="1749" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
