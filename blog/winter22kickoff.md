@@ -19,3 +19,7 @@ Here are some important notes:
 * All club activities are in accordance with UCSB’s COVID policy. We plan to have the first two club meetings remotely and transition to in-person meetings when classes resume on campus. 
 
 We hope to see you there!
+
+[Data Science UCSB Winter 2022 Kickoff Presentation](https://docs.google.com/presentation/d/1rpF1YwAgwCBOHD1q5j17K34b9NkwraDuV0rRqDj5jgM/edit#slide=id.g646221db99_1_310)
+
+
