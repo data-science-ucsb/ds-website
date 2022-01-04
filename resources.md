@@ -8,7 +8,7 @@ layout: page
 ---
 
 ## Intermediate and Beginner Pipeline Resources
-[Past Slides and Notebooks:](https://drive.google.com/drive/folders/1nbSnA1SH17mV0-RLNgw1Y0Vxj6ib5K04?usp=sharin "Past Slides/Notebooks") Review intermediate and pipeline presentation slides and Colab!
+[Past Slides and Notebooks:](https://drive.google.com/drive/folders/1EHsP30pVuNaMkmxgsyCsXjiyq4F124NC?usp=sharing) Review intermediate and pipeline presentation slides and Colab!
 
 ## Project Pipeline Resources Fall 2021
 [Past Slides:](https://drive.google.com/drive/folders/18xZK4yfVUZKa7Wa-6IY0XVaNuvHe2VO1?usp=sharing) Past presentations for the Project Group (Fall 2021).
