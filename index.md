@@ -15,7 +15,6 @@ sections:
     type: section_features
     background: gray
     title: Our Mission
-    image: images/kickoff.jpg
     subtitle: >-
       We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
@@ -31,7 +30,7 @@ sections:
           - label: Events
             url: /events-calendar
       - title: Learning
-      image: images/home5.jpg
+        image: images/home5.jpg
         content: >-
           Utilize resources we provide to learn and create.
         actions:
