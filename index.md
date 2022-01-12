@@ -51,8 +51,6 @@ sections:
             url: /blog
   - section_id: recent-posts
     title: Latest Posts
-    content: >-
-          Keep up with our past events through our blog!
     type: section_posts
     background: gray
 
