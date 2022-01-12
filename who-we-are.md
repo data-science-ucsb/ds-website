@@ -32,10 +32,11 @@ The club is open to students of all grade levels and majors.
 
 
 
-| Shivani Kharva | Anna Bauer   |
-| :----------:   | :----------: |
- <img src="/images/members/shivani.jpeg" width="200" height="200">  | <img src="/images/members/anna.png" width="200" height="200">  |
-| Hi!! I’m a second year statistics and data science major who loves to read, bake, and play video games! I am just starting off in the data science pathways so my current main interest is learning how to analyze various graphs that can be generated from a particular set of data.   | Hello! I am a third-year Stats & Data Science and Economics double major from Marin County, CA. In my free time, I’m an active member of UCSB Women’s Club Water Polo, and I love to swim. This year, I hope to make learning data science more accessible to UCSB students and continue the friendly atmosphere of Data Science UCSB.  |
+| Shivani Kharva |  Anna Bauer  |  Brian Che  |
+| :----------:   | :----------: |  :-------:  |
+ <img src="/images/members/shivani.jpeg" width="200" height="200">  | <img src="/images/members/anna.png" width="200" height="200">  | <img src="/images/members/brian.jpg" width="250" height="250"/> 
+</p> |
+| Hi!! I’m a second year statistics and data science major who loves to read, bake, and play video games! I am just starting off in the data science pathways so my current main interest is learning how to analyze various graphs that can be generated from a particular set of data.   | Hello! I am a third-year Stats & Data Science and Economics double major from Marin County, CA. In my free time, I’m an active member of UCSB Women’s Club Water Polo, and I love to swim. This year, I hope to make learning data science more accessible to UCSB students and continue the friendly atmosphere of Data Science UCSB.  | My name is Brian, and I’m in the class of 2023. My major is Stats & Data Science, and I’m from Garden Grove. I love going hiking and want to visit every national park. I joined data science club because I want to hone my skills and collaborate with like minded people in the same field! |
 
 
 
