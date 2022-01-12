@@ -24,9 +24,9 @@ sections:
         content: >-
           Our project showcase will be on on April 14th, 2022. Selected groups will present their data science projects to a panel of judges and have the opportunity to earn company sponsored awards. The project showcase will be followed by a networking event.
       - title: When Do We Meet?
-        image: images/home1.jpg
+        image: images/kickoff.jpg
         content: >-
-          General meetings are on Tuesdays and from 7:00 - 9:00 PM. Winter quarter meeting locations will be announced soon.
+          General meetings are on Tuesdays and from 7:00 - 9:00 PM. Winter quarter meetings will remain via Zoom until the university resumes in-person classes.
         actions:
           - label: Events
             url: /events-calendar
