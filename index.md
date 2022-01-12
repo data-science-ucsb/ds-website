@@ -31,6 +31,7 @@ sections:
           - label: Events
             url: /events-calendar
       - title: Learning
+      image: images/home5.jpg
         content: >-
           Utilize resources we provide to learn and create.
         actions:
