@@ -14,7 +14,8 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: What We Do
+    title: Our Mission
+    image: images/kickoff.jpg
     subtitle: >-
       We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
