@@ -11,7 +11,7 @@ layout: page
 
 ###### Director of Professional Development 
 Primary responsibilities: coordinate data talks and workshops. 
-&#42 Preferably a 3rd or 4th year student with interview experience. 
+\* Preferably a 3rd or 4th year student with interview experience. 
 ##### Graphic Design
 Primary responsibilities: social media, marketing, and designing merch. 
 
