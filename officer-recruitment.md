@@ -7,30 +7,25 @@ layout: page
 ---
 
 
-## The positions we are interested in filling are described below!
+## We are looking to recruit around 5 new officers for the 2022-2023 school year! The positions we are interested in filling are described below.
 
-##### Project Group Leader
+#### Marketing/Ops Positions:
 
--Adequate knowledge of the capabilities of data science and ability to teach students
+##### Director of Professional Development: 
+Responsible for coordinating data talks and workshops. preferably a 3rd or 4th year student with interview experience 
+##### Graphic Design: 
+Responsible for social media, marketing, and designing merch 
 
--Work through the intermediate pipeline with new members
+#### Project Group Positions:
 
--Ability to learn fast
+##### Beginner Pipeline Director: 
+Lead weekly beginner pipeline which covers basic coding concepts in Python
+##### Intermediate Pipeline Director: 
+Lead weekly intermediate pipeline which covers basic machine learning concepts in Python
+##### Project Group Director: 
+Oversee all project groups, providing advice and direction to each group as needed
 
-##### Marketing/Operations Member
-
--On-campus and off-campus outreach
-
--Coordinate all events (data talks, GMs, project showcase, socials, etc.)
-
--Manage social media platforms
-
--Manage club website
-
--Maintain club culture and mission
-
--Manage club email
 
 ## Fill out the form below if you are interested in being a part of our team!
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc3OL6k6p2Wnue8xuKQhtyoIVhk0rl4mAQIn3DYWT_PVXaSvA/viewform?embedded=true" width="640" height="1589" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeWzXfm4NjfZja0nWSI7FlFKockM2YuhqXwR8rYQ3ZkYgpGsA/viewform" width="640" height="1589" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
