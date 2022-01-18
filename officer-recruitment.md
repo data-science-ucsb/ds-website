@@ -9,7 +9,7 @@ layout: page
 
 #### Marketing/Operations Positions:
 
-##### Director of Professional Development 
+###### Director of Professional Development 
 Primary responsibilities: coordinate data talks and workshops. 
 &#42 Preferably a 3rd or 4th year student with interview experience. 
 ##### Graphic Design
