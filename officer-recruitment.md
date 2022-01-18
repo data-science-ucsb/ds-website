@@ -10,7 +10,7 @@ layout: page
 ### Marketing/Operations Positions:
 
 ##### Director of Professional Development 
-Primary responsibilities: coordinate data talks and workshops. 
+Primary responsibilities: coordinate data talks and workshops. <br>
 \* Preferably a 3rd or 4th year student with interview experience. 
 ##### Graphic Design
 Primary responsibilities: social media, marketing, and designing merch. 
@@ -22,7 +22,7 @@ Primary responsibilities: lead weekly beginner pipeline which covers basic codin
 ##### Intermediate Pipeline Director
 Primary responsibilities: lead weekly intermediate pipeline which covers basic machine learning concepts in Python.
 ##### Project Group Director
-Primary responsibilities: oversee all project groups, providing advice and direction to each group as needed.
+Primary responsibilities: oversee all project groups, provide advice and direction to each group as needed.
 
 
 ### Fill out the form below if you are interested in being a part of our team!
