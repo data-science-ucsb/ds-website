@@ -12,9 +12,13 @@ layout: page
 
 A: No! If you have little to no data science or coding experience, there is a beginner route for newcomers designed to teach the basics and fundamentals needed to be well on your way to becoming a better data scientist.
 
+##### Q: Do I have to be a Computer Science or Statistics major to join the club?
+
+A: Absolutely not! Anybody with an interest in learning about Data Science is welcome in this club, no matter your major or intended field!
+
 ##### Q: Are there requirements and strict settings within the club?
 
-A: Not in the slightest! After all, this club is run by students! The club is designed to groom and polish your data science skills, but it is no way a stressful club to be a part of. Every member and officer is a friendly and compatible person to work with that you can form friendships with. From this club, you will get what you put in!
+A: Not in the slightest! This is a student-run club designed to groom and polish your data science skills, but it is no way a stressful club to be a part of. Members and officers are friendly and compatible people to work with and form friendships with. You will get what you put into this club!
 
 ##### Q: When are the meetings and how often am I supposed to attend them?
 
@@ -31,10 +35,6 @@ If you have little to no experience with coding, the beginner pipeline offers an
 ##### Q: What is the Project Showcase?
 
 A: The Project Showcase is an opportunity for you to show off you and your project group’s hard work at the end of the year! After working for multiple quarters on a project that your group devises, the finished project can be submitted, reviewed, and presented at the Project Showcase.
-
-##### Q: Do I have to be a Computer Science or Statistics major to join the club?
-
-A: Absolutely not! Anybody with an interest in learning about Data Science is welcome in this club, no matter your major or intended field!
 
 ##### Q: Which languages will I be using within the club?
 
