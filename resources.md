@@ -37,6 +37,6 @@ layout: page
 
 [DrivenData: Data Science Competitions for Social Good:](https://www.drivendata.org/competitions/ "DrivenData") Compete to come up with the best statistical model for difficult predictive problems
 
-#### If you have any questions or need advice on majors, careers, data science, etc, please fill out this form and an officer will respond via email!
+#### If you have any questions or need advice on majors, careers, data science, etc, please fill out this form. We will address your question during a general meeting or respond to you via email!
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfcdqXXVPlPjit3v_MMNjCgNK8MFipFUuWzGX9IQevE-eOvRg/viewform?embedded=true" width="640" height="1749" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
