@@ -53,7 +53,7 @@ sections:
         content: >-
           Keep up with our past events through our blog!
         actions:
-          - label: Learn More
+          - label: Blog
             url: /blog
   - section_id: recent-posts
     title: Latest Posts
