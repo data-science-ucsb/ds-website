@@ -25,27 +25,30 @@ sections:
       - title: Meeting Times and Locations
         image: images/kickoff.jpg
         content: >-
-          General meetings are on Tuesdays and from 7:00 - 9:00 PM at the following locations: <br>
+          General meetings are on Tuesdays and from 7-9 PM at the following locations: <br>
           Project Groups: ESB 1001 <br>
           Intermediate Pipeline: Girvetz 1106 <br>
           Beginner Pipeline: Girvetz 2124
         actions:
           - label: Events
             url: /events-calendar
-      - title: Learning
+      - title: Pipelines
         image: images/home3.png
         content: >-
-          Utilize resources we provide to learn and create.
+          We offer three pipelines! <br>
+          Beginner: Intro to Python (lecture style) <br>
+          Intermediate: Machine Learning Concepts (lecture style) <br>
+          Project Group: create your own project!
         actions:
-          - label: Learn More
+          - label: Pipeline Material
             url: /resources
-      - title: Innovating
+      - title: Resources
         image: images/home4.jpg
         content: >-
-          Collaborate in groups to make your own data science projects.
+          Utilize the resources we provide to learn and create
         actions:
-          - label: Learn More
-            url: /who-we-are
+          - label: Resources
+            url: /resources
       - title: Blog
         content: >-
           Keep up with our past events through our blog!
