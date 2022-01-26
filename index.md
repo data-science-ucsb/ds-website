@@ -22,10 +22,13 @@ sections:
         image: images/projectshowcase2022.jpg
         content: >-
           Our project showcase will be on on April 14th, 2022. Selected groups will present their data science projects to a panel of judges and have the opportunity to earn company sponsored awards. The project showcase will be followed by a networking event.
-      - title: When Do We Meet?
+      - title: When and Where Do We Meet?
         image: images/kickoff.jpg
         content: >-
-          General meetings are on Tuesdays and from 7:00 - 9:00 PM. Winter quarter meetings will remain via Zoom until the university resumes in-person classes.
+          General meetings are on Tuesdays and from 7:00 - 9:00 PM at the following locations: <br> \*
+          Project Groups: ESB 1001 <br \*
+          Intermediate Pipeline: Girvetz 1106 <br> \*
+          Beginner Pipeline: Girvetz 2124
         actions:
           - label: Events
             url: /events-calendar
