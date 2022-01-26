@@ -25,9 +25,9 @@ sections:
       - title: When and Where Do We Meet?
         image: images/kickoff.jpg
         content: >-
-          General meetings are on Tuesdays and from 7:00 - 9:00 PM at the following locations: <br> \*
-          Project Groups: ESB 1001 <br \*
-          Intermediate Pipeline: Girvetz 1106 <br> \*
+          General meetings are on Tuesdays and from 7:00 - 9:00 PM at the following locations: <br>
+          Project Groups: ESB 1001 <br>
+          Intermediate Pipeline: Girvetz 1106 <br>
           Beginner Pipeline: Girvetz 2124
         actions:
           - label: Events
