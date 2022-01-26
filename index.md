@@ -45,7 +45,7 @@ sections:
       - title: Resources
         image: images/home4.jpg
         content: >-
-          Utilize the resources we provide to learn and create
+          Utilize the resources we provide to learn and create.
         actions:
           - label: Resources
             url: /resources
