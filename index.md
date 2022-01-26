@@ -22,7 +22,7 @@ sections:
         image: images/projectshowcase2022.jpg
         content: >-
           Our project showcase will be on on April 14th, 2022. Selected groups will present their data science projects to a panel of judges and have the opportunity to earn company sponsored awards. The project showcase will be followed by a networking event.
-      - title: When and Where Do We Meet?
+      - title: Meeting Times and Locations
         image: images/kickoff.jpg
         content: >-
           General meetings are on Tuesdays and from 7:00 - 9:00 PM at the following locations: <br>
