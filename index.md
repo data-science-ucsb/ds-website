@@ -35,7 +35,7 @@ sections:
       - title: Pipelines
         image: images/home3.png
         content: >-
-          We offer three pipelines! <br>
+          We offer three quarter-long pipelines for our members to learn more about data science! <br>
           Beginner: Intro to Python (lecture style) <br>
           Intermediate: Machine Learning Concepts (lecture style) <br>
           Project Group: create your own project!
