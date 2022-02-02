@@ -2,7 +2,7 @@
 title: Data Science UCSB's Winter 2022 Kickoff
 excerpt: >-
   Data Science UCSB will welcome both new and returning members to our first meeting of 2022 this Tuesday, January 4th!
-date: '2022-1-04'
+date: '2022-01-04'
 thumb_image: images/blog2021-22/winterkickoff.jpg
 image: images/blog2021-22/winterkickoff.jpg
 layout: post
