@@ -12,10 +12,12 @@ For the personal projects workshop, our officer and pro project mentor Connor Le
 
 Connor walked us through the following topics: 
 
-* Why should you have a personal/portfolio project?
-* Good practices for setting up your environments
-* What does a good project look like?
-* Pipeline for a DS project: from the initial idea to the results
+
+<UL>
+<LI>Why should you have a personal/portfolio project?
+<LI>Good practices for setting up your environments
+<LI>What does a good project look like?
+<LI>Pipeline for a DS project: from the initial idea to the results
 <UL>
 <LI>Data first approach
 <LI>Question first approach
@@ -24,9 +26,8 @@ Connor walked us through the following topics:
 <LI>Data visualization
 <LI>Model training and validation
 </UL>
-
-* Sample publication of a project
-
+<LI>Sample publication of a project
+</UL>
 
 Thank you to all of our members that came out this to this workshop!
 
