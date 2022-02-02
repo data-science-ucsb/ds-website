@@ -24,10 +24,8 @@ Connor walked us through the following topics:
 <LI>Assessing feasibility of the project
 <LI>Tidying the data
 <LI>Data visualization
-<LI>Model training and validation</LI>
-</UL>
-<LI>Sample publication of a project</LI>
-</UL>
+<LI>Model training and validation</UL>
+<LI>Sample publication of a project</UL>
 
 Thank you to all of our members that came out this to this workshop!
 
