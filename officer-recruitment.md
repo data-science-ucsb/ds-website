@@ -25,6 +25,6 @@ Primary responsibilities: lead weekly intermediate pipeline which covers basic m
 Primary responsibilities: oversee all project groups, provide advice and direction to each group as needed.
 
 
-#### Fill out the application below if you are interested in being a part of our team! Applications are due by 2/15 at 11:59PM.
+#### Fill out the application form linked below if you are interested in being a part of our team! Applications are due by 2/15 at 11:59PM.
 
 [Officer Application](https://docs.google.com/forms/d/16doPj1Hg_vxUs1b2bnWLfldMAIIkzhPMCZwZwY6FJ8c/edit?usp=drive_web)
