@@ -5,26 +5,12 @@ layout: page
 ---
 
 
-#### We are looking to recruit around five new officers for the 2022-2023 school year! The positions we are interested in filling are described below.
+#### We are extending the application deadline for the project group director position to 2/22 at 11:59pm. If you're interested in being next year's project group director, fill out the form below!
 
-### Marketing/Operations Positions:
-
-##### Director of Professional Development 
-Primary responsibilities: coordinate data talks and workshops. <br>
-\* Preferably a 3rd or 4th year student with interview experience. 
-##### Graphic Design
-Primary responsibilities: social media, marketing, and designing merch. 
-
-### Project Group Positions:
-
-##### Beginner Pipeline Director
-Primary responsibilities: lead weekly beginner pipeline which covers basic coding concepts in Python.
-##### Intermediate Pipeline Director
-Primary responsibilities: lead weekly intermediate pipeline which covers basic machine learning concepts in Python.
 ##### Project Group Director
 Primary responsibilities: oversee all project groups, provide advice and direction to each group as needed.
 
 
-#### Fill out the application form linked below if you are interested in being a part of our team! Applications are due by 2/15 at 11:59PM.
+[Project Group Director Application](https://docs.google.com/forms/d/16doPj1Hg_vxUs1b2bnWLfldMAIIkzhPMCZwZwY6FJ8c/edit?usp=drive_web)
 
-[Officer Application](https://docs.google.com/forms/d/16doPj1Hg_vxUs1b2bnWLfldMAIIkzhPMCZwZwY6FJ8c/edit?usp=drive_web)
+
