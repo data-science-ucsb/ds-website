@@ -11,7 +11,6 @@ layout: post
 For the personal projects workshop, our officer and pro project mentor Connor Levenson walked us through how to get started with a personal project. Personal projects are the best way to get real-world experience with data science and those with project experience are much more highly sought after by employers. 
 
 Connor walked us through the following topics: 
-
 * Why should you have a personal/portfolio project?
 * Good practices for setting up your environments
 * What does a good project look like?
