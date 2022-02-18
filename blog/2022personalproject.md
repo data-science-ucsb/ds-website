@@ -16,7 +16,7 @@ Connor walked us through the following topics:
 * What does a good project look like?
 * Sample publication of a project
 
-We also reviewed a project pipeline that would take us from the initial idea to the results:
+We also reviewed a project pipeline that would take us from the initial idea to the results: 
 * Data first approach
 * Question first approach
 * Assessing feasibility of the project
