@@ -1,7 +1,7 @@
 ---
 title: Resources
 subtitle: >-
-  Here are some resources to help you get started learning!
+  Here are some resources to help you get started!
 image:
 layout: page
 
