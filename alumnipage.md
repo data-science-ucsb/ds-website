@@ -15,7 +15,7 @@ Data Science UCSB is home to many successfull gauchos in the industry! There are
 
 |   Natalie Rozak   |  Jasmine Kellogg   |   Holly Cheek  |
 | :----------:      | :----------:   |    :----------:    |
-| <img src="/images/alumnipage/NatalieRozak.jpg" width="200" height="200">  | <img src="/images/alumnipage/jasminekellogg.jpg" width="200" height="200">  | <img src="/images/alumnipage/HollyCheek.jpg" width="200" height="200">  |
+| <img src="/images/alumnipics/NatalieRozak.jpg" width="200" height="200">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200">  | <img src="/images/alumnipics/HollyCheek.jpg" width="200" height="200">  |
 | Natalie Rozak is a data scientist at BASF, (insert whatever about basf) | Insert Description | Insert Description |
 
 
