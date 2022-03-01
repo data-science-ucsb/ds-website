@@ -15,8 +15,8 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 
 |   Brian Lim   |  Natalie Rozak | Jasmine Kellogg |
 |   :------:    |  :----------:  |  :----------:   |
-| <img src="/images/alumnipics/NatalieRozak.jpg" width="200" height="200">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200">  | <img src="/images/alumnipics/HollyCheek.jpg" width="200" height="200">  |
-| Natalie Rozak is a data scientist at BASF, (insert whatever about basf) | Insert Description | Insert Description |
+| <img src="/images/alumnipics/BrianLim.jpg" width="200" height="200">  | <img src="/images/NatalieRozak/.jpg" width="200" height="200">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200">  |
+| Brian Lim is a  | Natalie Rozak is a data scientist at BASF, (insert whatever about basf) | Insert Description |
 
 
 natalie rozak = data scientist @ basf
