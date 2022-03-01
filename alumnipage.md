@@ -28,6 +28,7 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 
 
 <center><h3> </h3></center>
+
 | Shakuntala Mitra |   Calvin Wang    | Nathan Jeremy Fritter |
 |  :-----------:   |  :-----------:   |     :-----------:     |
 | <img src="/images/alumnipics/mitra.jpg" width="200" height="200">  | <img src="/images/alumnipics/CalvinWang.jpg" width="200" height="200">  | <img src="/images/alumnipics/NathanFritter.jpg" width="200" height="200">  |
@@ -36,6 +37,7 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 
 
 <center><h3>  </h3></center>
+
 |   Celine Mol    |  David Aaron Campos |
 |   :---------:   |    :---------:      |
 | <img src="/images/alumnipics/CelineMol.jpg" width="200" height="200">  | <img src="/images/alumnipics/DavidCampos.jpg" width="200" height="200">  |
