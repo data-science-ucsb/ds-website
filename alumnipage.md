@@ -14,12 +14,18 @@ Data Science UCSB is home to many successfull gauchos in the industry! There are
 
 
 |   Natalie Rozak   |  Jasmine Kellogg   |   Holly Cheek  |
-| :----------:        | :----------:   |    :----------:    |
-![ishana](/images/members/ishana.jpg)  | <img src="/images/members/madeline.jpg" width="200" height="200">   | ![connor](/images/members/connor.png)  
-| Insert Description | Insert Description | Insert Description
+| :----------:      | :----------:   |    :----------:    |
+| <img src="/images/alumnipage/NatalieRozak.jpg" width="200" height="200">  | <img src="/images/alumnipage/jasminekellogg.jpg" width="200" height="200">  | <img src="/images/alumnipage/HollyCheek.jpg" width="200" height="200">  |
+| Natalie Rozak is a data scientist at BASF, (insert whatever about basf) | Insert Description | Insert Description |
 
 
-| Sunny Hong | Claire Qian |
+natalie rozak = data scientist @ basf
+jasmine kel = data analyst @ scalable commerce
+holly cheek = projeuct manager @ Workday
+sunny hong = analyst @ RPA
+claire qu = senipr associate, data analyst @ neo media world
+
+| Claire Qian | Sunny Hong | 
 
 <center><h3> Class of 2019 </h3></center>
 
