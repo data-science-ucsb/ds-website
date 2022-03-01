@@ -13,7 +13,7 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 <center><h3> </h3></center>
 
 |   Brian Lim   | Natalie Rozak | Jasmine Kellogg |
-|  :----------: |  :----------: |  :-----------:  |
+|  :----------: |  :----------: |  :----------:  |
 | <img src="/images/alumnipics/BrianLim.jpg" width="200" height="200"/>  | <img src="/images/alumnipics/NatalieRozak.jpg" width="200" height="200">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200">  |
 | Graduation Year: 2021 | Graduation Year: 2020 | Graduation Year: 2020 |
 | Software Development Engineer at Amazon | Data Scientist at BASF | Data Analyst at Scalable Commerce |
@@ -23,7 +23,7 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 <center><h3> </h3></center>
 
 | Holly Cheek | Claire Qian | Sunny Hong |
-|  :--------: |  :--------: | :--------: |
+|  :----------: |  :----------: | :----------: |
 | <img src="/images/alumnipics/HollyCheek.jpg" width="200" height="200"> | <img src="/images/alumnipics/ClaireQian.jpg" width="200" height="200">  | <img src="/images/alumnipics/SunnyHong.jpg" width="200" height="200">  |
 | Graduation Year: 2020 | Graduation Year: 2020 | Graduation Year: 2020 |
 | Product Manager @ Workday | Senior Associate, Data Analyst at Neo Media World | Analyst at RPA |
@@ -32,7 +32,7 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 <center><h3> </h3></center>
 
 | Shakuntala Mitra |   Calvin Wang   |  Nathan Fritter |
-|  :-----------:   |  :-----------:  |  :-----------:  |
+|  :----------:   |  :----------:  |  :----------:  |
 | <img src="/images/alumnipics/mitra.jpg" width="200" height="200">  | <img src="/images/alumnipics/CalvinWang.jpg" width="200" height="200">  | <img src="/images/alumnipics/NathanFritter.jpg" width="200" height="200">  |
 | Graduation Year: 2019 | Graduation Year: 2019 | Graduation Year: 2017 |
 | Machine Learning Engineer at AWE Technologies | Applied Scientist at RPA | Data Consultant at Qbiz |
@@ -42,7 +42,7 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 <center><h3>  </h3></center>
 
 |   Celine Mol    |  David  Campos |
-|   :---------:   |   :---------:  |
+|   :----------:   |   :----------:  |
 | <img src="/images/alumnipics/CelineMol.jpg" width="200" height="200">  | <img src="/images/alumnipics/DavidCampos.jpg" width="200" height="200">  |
 | Graduation Year: 2017 | Graduation Year: 2015 |
 | Co-founder, CTO at Beni | Data Architect at Delta Emerald Ventures |
