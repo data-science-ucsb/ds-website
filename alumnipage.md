@@ -46,4 +46,4 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 | <img src="/images/alumnipics/CelineMol.jpg" width="200" height="200">  | <img src="/images/alumnipics/DavidCampos.jpg" width="200" height="200">  |
 | Graduation Year: 2017 | Graduation Year: 2015 |
 | Co-founder, CTO at Beni | Data Architect at Delta Emerald Ventures |
-| [Celine's LinkedIn:](https://www.linkedin.com/in/celinemol) | [Calvin's LinkedIn:](https://www.linkedin.com/in/dcamposliz/) |
+| [Celine's LinkedIn](https://www.linkedin.com/in/celinemol) | [Calvin's LinkedIn](https://www.linkedin.com/in/dcamposliz/) |
