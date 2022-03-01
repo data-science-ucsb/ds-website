@@ -31,8 +31,8 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 
 <center><h3> </h3></center>
 
-| Shakuntala Mitra |   Calvin Wang   |  Nathan Fritter |
-|  :----------:   |  :----------:  |  :----------:  |
+| Shakuntala Mitra |   Calvin Wang    |  Nathan Fritter  |
+|  :----------:    |   :----------:   |   :----------:   |
 | <img src="/images/alumnipics/mitra.jpg" width="200" height="200">  | <img src="/images/alumnipics/CalvinWang.jpg" width="200" height="200">  | <img src="/images/alumnipics/NathanFritter.jpg" width="200" height="200">  |
 | Graduation Year: 2019 | Graduation Year: 2019 | Graduation Year: 2017 |
 | Machine Learning Engineer at AWE Technologies | Applied Scientist at RPA | Data Consultant at Qbiz |
