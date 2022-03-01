@@ -23,7 +23,7 @@ natalie rozak = data scientist @ basf
 jasmine kel = data analyst @ scalable commerce
 holly cheek = projeuct manager @ Workday
 sunny hong = analyst @ RPA
-claire qu = senipr associate, data analyst @ neo media world
+claire qian = senipr associate, data analyst @ neo media world
 
 | Holly Cheek | Claire Qian | Sunny Hong |
 
