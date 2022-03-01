@@ -33,7 +33,7 @@ header:
      # url: https://docs.google.com/forms/d/1vWtewlfzzzT7B1YWUEhJNbNcDbdiK0qhN12Hm_TlS4Q/edit
      # new_window: true
     - label: Alumni 
-       url: /alumnipage
+      url: /alumnipage
     - label: FAQs
       url: /faqs
     - label: Register
