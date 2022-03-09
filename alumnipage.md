@@ -5,7 +5,7 @@ image:
 layout: page
 ---
 
-Data Science UCSB is home to many successfull gauchos in the industry! Many of our members have questions for UCSB alumni, so here is the chance to get those questions answered. Please feel free to reach out to these alumni on LinkedIn and don't forget to send a message with your request to connect!
+Data Science UCSB is home to many successful gauchos in the industry! Many of our members have questions for UCSB alumni, so here is the chance to get those questions answered. Please feel free to reach out to these alumni on LinkedIn and don't forget to send a message with your request to connect!
 
 <title> Featured Alumni</title>
 
