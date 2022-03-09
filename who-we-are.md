@@ -19,7 +19,7 @@ The club is open to students of all grade levels and majors.
 
 | Ishana Narayanan    |  Madeline Li   |   Connor Levenson  |
 | :----------:        | :----------:   |    :----------:    |
-![ishana](/images/members/ishana.jpg)  | <img src="/images/members/madeline.jpg" width="200" height="200">   | ![connor](/images/members/connor.png)  
+![ishana](/images/members/ishana.jpg)  | <img src="/images/members/madeline.jpg" width="200" height="200" alt="Ishana Narayanan">   | ![connor](/images/members/connor.png)  
 | Hi! I'm a fourth-year Computer Science and Statistics & Data Science double major at UCSB, originally from San Jose, CA. I have been involved with Data Science UCSB since my first year, and it has helped me tremendously with growing my technical skills as well as meeting other students/faculty. In my free time, I enjoy dancing, cooking, and grabbing coffee with friends! | Hi! I'm a fourth year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing! | I am a fourth year studying Statistics and Data Science. I enjoy watching football, listening to music and not using Oxford commas. My data science interests lie in computer vision (object detection/localization), typically in weakly supervised settings.
 
 
@@ -34,7 +34,7 @@ The club is open to students of all grade levels and majors.
 
 | Shivani Kharva |  Anna Bauer  |  Brian Che  |
 | :----------:   | :----------: |  :--------: |
- <img src="/images/members/shivani.jpeg" width="200" height="200">  | <img src="/images/members/anna.png" width="200" height="200">  | <img src="/images/members/brian.jpg" width="200" height="200"/> |
+ <img src="/images/members/shivani.jpeg" width="200" height="200" alt="Shivani Kharva">  | <img src="/images/members/anna.png" width="200" height="200" alt="Anna Bauer">  | <img src="/images/members/brian.jpg" width="200" height="200" alt="Brian Che"/> |
 | Hi!! I’m a second year statistics and data science major who loves to read, bake, and play video games! I am just starting off in the data science pathways so my current main interest is learning how to analyze various graphs that can be generated from a particular set of data.   | Hello! I am a third-year Stats & Data Science and Economics double major from Marin County, CA. In my free time, I’m an active member of UCSB Women’s Club Water Polo, and I love to swim. This year, I hope to make learning data science more accessible to UCSB students and continue the friendly atmosphere of Data Science UCSB.  | My name is Brian, and I’m in the class of 2023. My major is Stats & Data Science, and I’m from Garden Grove. I love going hiking and want to visit every national park. I joined data science club because I want to hone my skills and collaborate with like minded people in the same field! |
 
 
