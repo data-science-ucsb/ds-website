@@ -19,7 +19,7 @@ The club is open to students of all grade levels and majors.
 
 | Ishana Narayanan    |  Madeline Li   |   Connor Levenson  |
 | :----------:        | :----------:   |    :----------:    |
-![ishana](/images/members/ishana.jpg)  | <img src="/images/members/madeline.jpg" width="200" height="200" alt="Ishana Narayanan">   | ![connor](/images/members/connor.png)  
+![ishana](/images/members/ishana.jpg)  | <img src="/images/members/madeline.jpg" width="200" height="200">   | ![connor](/images/members/connor.png)  
 | Hi! I'm a fourth-year Computer Science and Statistics & Data Science double major at UCSB, originally from San Jose, CA. I have been involved with Data Science UCSB since my first year, and it has helped me tremendously with growing my technical skills as well as meeting other students/faculty. In my free time, I enjoy dancing, cooking, and grabbing coffee with friends! | Hi! I'm a fourth year statistics and data science major from the Bay Area. I joined Data Science UCSB because I wanted to develop my technical skills and find a community of like-minded people. In my free time, I enjoy hiking, reading, and ballroom dancing! | I am a fourth year studying Statistics and Data Science. I enjoy watching football, listening to music and not using Oxford commas. My data science interests lie in computer vision (object detection/localization), typically in weakly supervised settings.
 
 
