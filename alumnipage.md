@@ -20,6 +20,15 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 | [Brian's LinkedIn](https://www.linkedin.com/in/blimmie) | [Natalie's LinkedIn](https://www.linkedin.com/in/natalie-rozak-74147b13b/) | [Jasmine's LinkedIn](https://www.linkedin.com/in/jasmine-kellogg) | 
 
 
+<center><h3> Test first row </h3></center>
+
+| Brian Lim  |   Natalie Rozak   |  Jasmine Kellogg |
+| :----------:           |   :----------:  |  :----------:   |
+| <img src="/images/alumnipics/BrianLim.jpeg" width="200" height="200">  | <img src="/images/alumnipics/NatalieRozak.png" width="200" height="200">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200">  |
+
+
+
+
 <center><h3> </h3></center>
 
 | Holly Cheek | Claire Qian | Sunny Hong |
@@ -47,12 +56,3 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 | Graduation Year: 2017 | Graduation Year: 2015 |
 | Co-founder, CTO at Beni | Data Architect at Delta merald Ventures |
 | [Celine's LinkedIn](https://www.linkedin.com/in/celinemol) | [Calvin's LinkedIn](https://www.linkedin.com/in/dcamposliz/) |
-
-
-
-
-<center><h3> Intern Officers </h3></center>
-
-| Jeffrey Cao  |   Praveen Manimaran   |  Samantha Su  |
-| :----------:           |   :----------:  |  :----------:   |
-| <img src="/images/members/jeffrey.jpeg" width="200" height="200">  | <img src="/images/members/Praveen.png" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  |
