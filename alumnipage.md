@@ -1,5 +1,5 @@
 ---
-title: DS UCSB Alumni
+title: Data Science UCSB Alumni
 subtitle: 
 image:
 layout: page
