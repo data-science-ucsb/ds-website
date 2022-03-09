@@ -24,7 +24,7 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 
 | Brian Lim  |   Natalie Rozak   |  Jasmine Kellogg |
 | :----------:           |   :----------:  |  :----------:   |
-| <img src="/images/alumnipics/BrianLim.jpeg" width="200" height="200">  | <img src="/images/alumnipics/NatalieRozak.png" width="200" height="200">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200">  |
+| <img src="/images/alumnipics/BrianLim.jpg" width="200" height="200">  | <img src="/images/alumnipics/NatalieRozak.jpg" width="200" height="200">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200">  |
 
 
 
