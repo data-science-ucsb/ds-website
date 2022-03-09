@@ -1,5 +1,5 @@
 ---
-title: Alumni
+title: Data Science UCSB Alumni
 subtitle: >-
   Meet some of our Data Science UCSB alumni!
 image:
