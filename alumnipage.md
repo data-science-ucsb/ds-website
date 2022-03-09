@@ -26,8 +26,7 @@ Data Science UCSB is home to many successfull gauchos in the industry! Many of o
 | :----------:           |   :----------:  |  :----------:   |
 | <img src="/images/alumnipics/BrianLim.jpg" width="200" height="200">  | <img src="/images/alumnipics/NatalieRozak.jpg" width="200" height="200">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200">  |
 | Graduation Year: 2021 | Graduation Year: 2020 | Graduation Year: 2020 |
-|  Software Development Engineer at Amazon | Data Scientist at BASF (
-Badische Anilin und Soda Fabri) | Data Analyst at Scalable Commerce |
+|  Software Development Engineer at Amazon | Data Scientist at BASF - Badische Anilin und Soda Fabri | Data Analyst at Scalable Commerce |
 | [Brian's LinkedIn](https://www.linkedin.com/in/blimmie) | [Natalie's LinkedIn](https://www.linkedin.com/in/natalie-rozak-74147b13b/) | [Jasmine's LinkedIn](https://www.linkedin.com/in/jasmine-kellogg) | 
 
 
