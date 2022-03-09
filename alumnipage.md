@@ -15,7 +15,6 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 |  :----------: |  :----------: |  :----------:  |
 | <img src="/images/alumnipics/BrianLim.jpg" width="200" height="200" alt="Brian Lim">  | <img src="/images/alumnipics/NatalieRozak.jpg" width="200" height="200" alt="Natalie Rozak">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200" alt="Jasmine Kellogg">  |
 | UCSB '21 | UCSB '20 | UCSB '20 |
-| Club president |    |     |
 | Brian studied computer science at UCSB and is now a software development engineer at Amazon | Natalie studied statistics & data science at UCSB and is now a data scientist at BASF | Jasmine studied statistics & data science at UCSB and is now a data analyst at Scalable Commerce |
 
 
