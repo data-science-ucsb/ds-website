@@ -3,7 +3,7 @@ title: Data Talk with Evidation Health
 excerpt: >-
   Data Science UCSB hosted a data talk with Evidation Health this Wednesday!
 date: '2022-02-16'
-thumb_image: images/blog2021-22/evidationhealth.jpg
+thumb_image: images/blog2021-22/evidation2.jpg
 image: images/blog2021-22/evidationhealth.jpg
 layout: post
 ---
