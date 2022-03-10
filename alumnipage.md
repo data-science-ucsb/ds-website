@@ -40,7 +40,9 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 
 | [Nathan Fritter](https://www.linkedin.com/in/nathan-fritter/) | [Celine Mol](https://www.linkedin.com/in/celinemol) | [David Campos](https://www.linkedin.com/in/dcamposliz/) |
 |   :----------: |   :----------:   |   :----------:  |
+<p align="center">
 | <img src="/images/alumnipics/NathanFritter.jpg" width="200" height="200" style="width:200:"> | <img src="/images/alumnipics/CelineMol.jpg" width="200" height="200" alt="Celine Mol">  | <img src="/images/alumnipics/DavidCampos.jpg" width="200" height="200" alt="David Campos">  |
+</p>
 | UCSB '17 | UCSB '17 | UCSB '15 |
 | Nathan studied applied statistics at UCSB and is now a data consultant at Qbiz. | Celine studied statistical sciences at UCSB and is now the Cofounder and CTO of Beni. | David studied economics and Spanish at UCSB and is now a data architect at Delta Emerald Ventures. |
 
@@ -62,6 +64,8 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 </p>
 <p align="center">
 <img src="/images/alumnipics/HollyCheek.jpg" width="200" height="200" alt="Holly Cheek">
+</p>
+<p align="center">
 Holly was an operations officer for our club and is now a product manager at Workday.
 </p>
 
