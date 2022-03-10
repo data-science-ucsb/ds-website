@@ -22,7 +22,7 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 
 | [Claire Qian](https://www.linkedin.com/in/claire-q-6ba818120?trk=people-guest_people_search-card) | [Sunny Hong](https://www.linkedin.com/in/sunnysungheehong/) | [Daniel Fields](https://www.linkedin.com/in/danielfields365) |
 |  :----------: |  :----------: | :----------: |
-| <img src="/images/alumnipics/ClaireQian.jpg" width="200" height="200" alt="Claire Qian">  | <img src="/images/alumnipics/SunnyHong.jpg" width="200" height="200" alt="Sunny Hong">  | <img src="/images/alumnipics/danielfields.jpg" width="200" height="200" alt="Daniel Fields"> |
+| <img src="/images/alumnipics/ClaireQian.jpg" alt="Claire Qian" style="width:200;height:200" >  | <img src="/images/alumnipics/SunnyHong.jpg" width="200" height="200" alt="Sunny Hong">  | <img src="/images/alumnipics/danielfields.jpg" width="200" height="200" alt="Daniel Fields"> |
 | UCSB '20 | UCSB '20 | UCSB '19 | 
 | Claire studied statistics & data science at UCSB and is now a data analyst at Neo Media World. | Sunny studied statistics & data science at UCSB and is now an analyst at RPA. | Daniel studied statistics at UCSB and is now a data scientist at Pacific Life. |
 
