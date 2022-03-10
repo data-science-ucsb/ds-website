@@ -42,7 +42,7 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 |   :----------: |   :----------:   |   :----------:  |
 | <img src="/images/alumnipics/NathanFritter.jpg" width="200" height="200" style="width:200:"> | <img src="/images/alumnipics/CelineMol.jpg" width="200" height="200" alt="Celine Mol">  | <img src="/images/alumnipics/DavidCampos.jpg" width="200" height="200" alt="David Campos">  |
 | UCSB '17 | UCSB '17 | UCSB '15 |
-| Nathan studied applied statistics at UCSB and is now a data consultant at Qbiz. | Celine studied statistical sciences at UCSB and is now the Cofounder and CTO of Beni. | David studied economics and Spanish at UCSB and is now a data architect at Delta Emerald Ventures. |
+| Nathan studied applied statistics at UCSB and is now a data consultant at Qbiz. | Celine studied statistical sciences at UCSB and is now the Cofounder and CTO of Beni. | David studied econ and Spanish at UCSB and is now a data architect at Delta Emerald Ventures. |
 
 
 <center><h3>  </h3></center>
