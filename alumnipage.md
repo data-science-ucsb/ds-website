@@ -50,6 +50,8 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 | [Holly Cheek](https://www.linkedin.com/in/hollycheek) |
 |   :----------:   |
 | <img src="/images/alumnipics/HollyCheek.jpg" width="200" height="200" alt="Holly Cheek"> |
-| Holly was an operations officer for our club and is now a product manager at Workday. |
+| Holly was an operations officer 
+<br> for our club and is now a 
+<br> product manager at Workday. |
 
 
