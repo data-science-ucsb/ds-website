@@ -64,8 +64,7 @@ sections:
     title: Our Sponsors
     type: section_features
     features:
-      - title: Our Sponsors
-        image: images/projectshowcase2022.jpg
+        image: images/sponsors/amazonalexa.jpg
 
   - section_id: call-to-action
     type: section_cta
