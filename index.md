@@ -61,7 +61,7 @@ sections:
     background: gray
 
   - section_id: sponsors
-    <img src= ”images/sponsors/evidation.jpg”>
+    image: images/sponsors/evidation.jpg
 
   - section_id: call-to-action
     type: section_cta
