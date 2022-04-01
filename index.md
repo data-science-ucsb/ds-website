@@ -60,11 +60,7 @@ sections:
     type: section_posts
     background: gray
 
-  - section_id: features
-    title: Our Sponsors
-    type: section_features
-    features:
-      - image: images/sponsors/amazonalexa.jpg
+  <img src=”(images/sponsors/evidation.jpg”>
 
   - section_id: call-to-action
     type: section_cta
