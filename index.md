@@ -59,10 +59,7 @@ sections:
     title: Latest Posts
     type: section_posts
     background: gray
-
-  - section_id: sponsors
-    image: images/sponsors/evidation.jpg
-
+    
   - section_id: call-to-action
     type: section_cta
     title: Come Join Us!
