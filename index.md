@@ -60,7 +60,7 @@ sections:
     type: section_posts
     background: gray
 
-  <img src=”(images/sponsors/evidation.jpg”>
+  <img src= ”images/sponsors/evidation.jpg”>
 
   - section_id: call-to-action
     type: section_cta
