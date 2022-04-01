@@ -60,6 +60,13 @@ sections:
     type: section_posts
     background: gray
 
+  - section_id: features
+    title: Our Sponsors
+    type: section_features
+    features:
+      - title: Our Sponsors
+        image: images/projectshowcase2022.jpg
+
   - section_id: call-to-action
     type: section_cta
     title: Come Join Us!
