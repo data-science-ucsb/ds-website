@@ -64,7 +64,7 @@ sections:
     title: Our Sponsors
     type: section_features
     features:
-        image: images/sponsors/amazonalexa.jpg
+      - image: images/sponsors/amazonalexa.jpg
 
   - section_id: call-to-action
     type: section_cta
