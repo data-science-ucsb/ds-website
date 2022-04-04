@@ -57,6 +57,7 @@ sections:
             url: /blog
       - title: Sponsors
         image: images/sponsors/amazon_alexa.png
+        image: images/sponsors/evidation.png
   - section_id: recent-posts
     title: Latest Posts
     type: section_posts
