@@ -27,6 +27,6 @@ h1:after
 }
 
 #content img {
-    width: 25%;
-    min-width: 100px;
+    width: 75px; 
+    height: 75px;
 }
