@@ -55,6 +55,8 @@ sections:
         actions:
           - label: Blog
             url: /blog
+      - title: Sponsors
+        image: images/sponsors/amazon_alexa.png
   - section_id: recent-posts
     title: Latest Posts
     type: section_posts
