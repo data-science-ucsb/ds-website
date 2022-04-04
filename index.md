@@ -61,7 +61,7 @@ sections:
     background: gray
     
   - section_id: sponsors
-    title: Sponsors
+    title: Our Sponsors
     type: section_sponsors
 
   - section_id: call-to-action
