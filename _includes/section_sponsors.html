@@ -1,4 +1,7 @@
 {% assign section = include.section %}
+<head>
+    <link rel="stylesheet" href="style.css">
+  </head>
 <section id="{{ section.section_id }}" class="block posts-block bg-{{ section.background }} outer">
   <div class="block-header inner-small">
     {% assign title_is_not_empty = section.title | is_not_empty %}
@@ -12,10 +15,11 @@
     </p>
     {% endif %}
   </div><!-- .block-header -->
-  <div class="flex">
+  <div id="content">
     <div class="/images/sponsors/amazon_alexa.png"> </div>
     <div class="/images/sponsors/carpe_data.png"> </div>
     <div class="/images/sponsors/evidation.png"> </div>
     <div class="/images/sponsors/jackpot.jpg"> </div>
 </div>
+
 </section><!-- .block -->

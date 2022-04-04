@@ -21,3 +21,12 @@ h1:after
     margin: 10px auto;
     
 }
+#content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#content img {
+    width: 25%;
+    min-width: 100px;
+}
