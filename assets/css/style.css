@@ -14,7 +14,7 @@ h1
 h1:after
 {
     content: '';
-    background: #333
+    background: #333;
     display: block;
     height: 3px;
     width: 150px;
