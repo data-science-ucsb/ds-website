@@ -1,0 +1,29 @@
+{% assign section = include.section %}
+<section id="{{ section.section_id }}" class="block posts-block bg-{{ section.background }} outer">
+  <div class="block-header inner-small">
+    {% assign title_is_not_empty = section.title | is_not_empty %}
+    {% if title_is_not_empty %}
+    <h2 class="block-title">{{ section.title }}</h2>
+    {% endif %}
+    {% assign subtitle_is_not_empty = section.subtitle | is_not_empty %}
+    {% if subtitle_is_not_empty %}
+    <p class="block-subtitle">
+      {{ section.subtitle }}
+    </p>
+    {% endif %}
+  </div><!-- .block-header -->
+  <div class="row">
+    <div class="column">
+      <img src="amazon_alexa.png" alt="Amazon Alexa" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="carpe_data.png" alt="Carpe Data" style="width:100%">
+    </div>
+    <div class="column">
+      <img src="Evidation.png" alt="Evidation" style="width:100%">
+    </div>
+    <div class="column">
+        <img src="jackpot.jpg" alt="Jackpot" style="width:100%">
+      </div>
+  </div>
+</section><!-- .block -->
