@@ -19,7 +19,7 @@ sections:
       We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
       - title: Annual Project Showcase
-        image: images/newprojectshowcase.jpg
+        image: images/showcase2022.jpg
         content: >-
           Our project showcase will be on on April 14th, 2022. Selected groups will present their data science projects to a panel of judges and have the opportunity to earn company sponsored awards. The project showcase will be followed by a networking event.
       - title: Meeting Times and Locations
