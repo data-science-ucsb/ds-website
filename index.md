@@ -66,7 +66,7 @@ sections:
 
   - section_id: call-to-action
     type: section_cta
-    title: Come Join Us!
+    title: Come join us!
     subtitle: Sign up and join our slack for information about club news and other opportunities.
     actions:
       - label: Register
