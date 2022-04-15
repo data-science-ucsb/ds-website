@@ -19,16 +19,13 @@ sections:
       We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
       - title: Annual Project Showcase
-        image: images/lightshowcase.jpg
+        image: images/showcase/recommeddit.jpg
         content: >-
-          Our project showcase will be on on April 14th, 2022. Selected groups will present their data science projects to a panel of judges and have the opportunity to earn company sponsored awards. The project showcase will be followed by a networking event.
+          The 2022 Project Showcase was a success! Special thanks to Carpe Data, Jackpocket, Evidation, and Amazon for sponsoring this event. Congratulations to our winners, the Recommeddit and Emogen project teams! 
       - title: Meeting Times and Locations
         image: images/kickoff.jpg
         content: >-
-          General meetings are on Tuesdays from 7-9 PM at the following locations: <br>
-          Project Groups: ESB 1001 <br>
-          Intermediate Pipeline: Girvetz 1106 <br>
-          Beginner Pipeline: Girvetz 2124
+          General meetings have concluded for the 2021-2022 academic year. In the fall, meetings will be on Tuesdays from 7-9 PM.
         actions:
           - label: Events
             url: /events-calendar
