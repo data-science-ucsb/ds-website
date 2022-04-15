@@ -19,7 +19,7 @@ sections:
       We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
       - title: Annual Project Showcase
-        image: images/showcase/recommeddit.jpg
+        image: images/showcase/recommeddit.png
         content: >-
           The 2022 Project Showcase was a success! Special thanks to Carpe Data, Jackpocket, Evidation, and Amazon for sponsoring this event. Congratulations to our winners, the Recommeddit and Emogen project teams! 
       - title: Meeting Times and Locations

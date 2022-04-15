@@ -2,7 +2,7 @@
 title: Who We Are
 subtitle: >-
   A family fostering a learning environment for students of all skill levels
-image: images/officerss.jpg
+image: images/officers.png
 layout: page
 ---
 
