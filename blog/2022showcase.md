@@ -3,8 +3,8 @@ title: 2022 Project Showcase
 excerpt: >-
   The 2022 Data Science UCSB Project Showcase was a huge success!
 date: '2022-04-14'
-thumb_image: images/showcase/recommeddit.png
-image: images/showcase/blogshowcase.png
+thumb_image: images/showcase/blogshowcase.png
+image: images/showcase/recommeddit.png
 layout: post
 ---
 
