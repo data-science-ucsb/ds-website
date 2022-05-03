@@ -12,6 +12,6 @@ This weekend, we welcomed our fabulous alumni to the Mosher Alumni House! Our al
 
 Data Science UCSB members connected with our alumni on a professional and personal level throughout the event, showing up with great questions prepared for our alumni. Across the board, our alumni agreed that the most important thing to prepare for the industry is networking, followed by side projects and internships. 
 
-The alumni event was followed by a social at the DS house with vegetarian tacos and tasteful music. As said by our wise alumnus Calvin Wang, “After the sun goes down, it’s not data science - it’s delta psi,” (@gucci wang).
+The alumni event was followed by a social at the DS house with tacos and tasteful music. As said by our wise alumnus Calvin Wang, “After the sun goes down, it’s not data science - it’s delta psi,” (@gucci wang).
 
 Thank you to all of our alumni that came out to the event! We are so thankful for your support and we hope to see you again next year. 
