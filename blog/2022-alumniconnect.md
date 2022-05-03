@@ -3,8 +3,8 @@ title: 2022 Alumni Connect
 excerpt: >-
   We had so much fun interacting with our alumni at our annual Alumni Connect!
 date: '2022-04-20'
-thumb_image: images/blog2021-22/alumniconnectt.jpg
-image: images/blog2021-22/alumniconnect22.jpg
+thumb_image: images/blog2021-22/alumniconnect22.jpg
+image: images/blog2021-22/alumniconnectt.jpg
 layout: post
 ---
 
