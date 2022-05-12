@@ -40,7 +40,7 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 
 | [Nathan Fritter](https://www.linkedin.com/in/nathan-fritter/) | [Celine Mol](https://www.linkedin.com/in/celinemol) | [Raul Eulogio](https://www.linkedin.com/in/raul-eulogio) |
 |   :----------: |   :----------:   |   :----------:  |
-| <img src="/images/alumnipics/NathanFritter.jpg" width="200" height="200" style="width:200:"> | <img src="/images/alumnipics/CelineMol.jpg" width="200" height="200" alt="Celine Mol">  | <img src="/images/alumnipics/raul.jpg" width="200" height="200" alt="Raul Eulogio">  |
+| <img src="/images/alumnipics/NathanFritter.jpg" width="200" height="200" style="width:200:"> | <img src="/images/alumnipics/CelineMol.jpg" width="200" height="200" alt="Celine Mol">  | <img src="/images/alumnipics/raul2.jpg" width="200" height="200" alt="Raul Eulogio">  |
 | UCSB '17 | UCSB '17 | UCSB '16 |
 | Nathan studied applied statistics at UCSB and is now a data consultant at Qbiz. | Celine studied statistical sciences at UCSB and is now the Cofounder and CTO of Beni. | Raul studied statistics at UCSB and is now a Senior Data Science Engineer at Evidation.  |
 
