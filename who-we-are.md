@@ -15,7 +15,7 @@ The club is open to students of all grade levels and majors.
 <center><h3> Executive Team</h3></center>
 
 | Name    |  Name  |   Name  |
-| :----------:        | :----------:   |    :----------:    |
+| :----------:    | :----------:   |    :----------:    |
 ![ishana](/images/members/ishana.jpg)  | <img src="/images/members/madeline.jpg" width="200" height="200">   | ![connor](/images/members/connor.png)  |
 | President | Internal VP | External VP |
 | Bio | Bio | Bio |
