@@ -8,6 +8,10 @@ subtitle: >-
 layout: page
 ---
 
+##### Q: How can I register for the 2022-2023 school year?
+
+A: Registration will open on Tuesday, September 27th during our fall kickoff meeting. The location and membership fee will be announced closer to the kickoff. 
+
 ##### Q: Do I need Data Science experience to join the club?
 
 A: No! If you have little to no data science or coding experience, there is a beginner route for newcomers designed to teach the basics and fundamentals needed to be well on your way to becoming a better data scientist.
