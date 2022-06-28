@@ -20,7 +20,7 @@ header:
     - label: Home
       url: /
     - label: Who We Are
-      url: /test-meet-the-team
+      url: /who-we-are
     - label: Events Calendar
       url: /events-calendar
     - label: Blog
