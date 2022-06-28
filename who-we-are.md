@@ -39,9 +39,9 @@ The club is open to students of all grade levels and majors.
 
 
 |  Name  |   Name   |  Name  |
-| Director of Finance | Director of Finance | Director of Designs |
+| :----------:   | :----------: |  :--------: |
 | <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
-| Officer Position | Officer Position | Officer Position |
+| Director of Finance | Director of Finance | Director of Designs |
 | Bio | Bio | Bio |
 
 
