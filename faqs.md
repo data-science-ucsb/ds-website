@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 subtitle: >-
   There are many questions that newcomers and even
-  seasoned Data Science veterans have about our club!
+  seasoned data science veterans have about our club!
   Here are the most common questions answered
   to try and simplify some of your thoughts!
 layout: page
