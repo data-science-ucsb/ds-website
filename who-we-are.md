@@ -48,8 +48,8 @@ The club is open to students of all grade levels and majors.
 
 <center><h3> Project Group Directors</h3></center>
 
-| Name |  Name  |  Name  | Name |
+| Name |  Grant Cai  |  Name  | Name |
 | :----------:  |   :----------:  |  :----------:   | :----------:   |
-| <img src="/images/members/jeffrey.jpeg" width="200" height="200">  | <img src="/images/members/Praveen.png" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  |
+| <img src="/images/members/jeffrey.jpeg" width="200" height="200">  | <img src="/images/members/Grant_Headshot.png" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  |
 | Beginner Pipeline | Intermediate Pipeline | Project Group | Project Group |
-| Bio  | Bio |  Bio |  Bio |
+| Bio  | Hi! I'm a fourth year Stats and Data Science major and English minor who's also pursuing a TMP certificate. When I'm not studying or doing data science-y things, I'm rowing crew for UCSB and working at CLAS. I hope to apply my knowledge of statistics and machine learning in either sports or business. |  Bio |  Bio |
