@@ -14,11 +14,11 @@ The club is open to students of all grade levels and majors.
 
 <center><h3> Executive Team</h3></center>
 
-| Name    |  Name  |   Name  |
+| Name    |  Anna Bauer  |   Name  |
 | :----------:    | :----------:   |    :----------:    |
-![ishana](/images/members/ishana.jpg)  | <img src="/images/members/madeline.jpg" width="200" height="200">   | ![connor](/images/members/connor.png)  |
+![ishana](/images/members/ishana.jpg)  | <img src="/images/members/annaheadshot.png" width="200" height="200">   | ![connor](/images/members/connor.png)  |
 | President | Internal VP | External VP |
-| Bio | Bio | Bio |
+| Bio | I'm a fourth-year Stats & Data Science and Economics double major from Marin County in the Bay Area. In my free time, I’m an active member of UCSB Women’s Club Water Polo and I love to swim. I joined the club to work on data science projects and to build a supportive network. This year, I hope to make learning data science more accessible to UCSB students and continue the friendly atmosphere of the club.  | Bio |
 
 
 <center><h3> Marketing and Operations</h3></center>
