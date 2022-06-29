@@ -17,7 +17,7 @@ The club is open to students of all grade levels and majors.
 |  Katie Huynh	  |  Anna Bauer  |  Kshitij Agarwal  |
 | :----------:    | :----------:   |    :----------:    |
 ![ishana](/images/members/ishana.jpg)  | <img src="/images/members/annaheadshot.png" width="200" height="200">   | <img src="/images/members/krishnewheadshot.g" width="200" height="200">  |
-| President | Internal VP | External VP |
+| President | Internal Vice President | External Vice President |
 | I’m a third year Statistics and Data Science major from the Bay Area and a boba connoisseur who loves road trips and exploring new hobbies, reading, and drawing. I joined data science because I love how the field combines both programming and data to improve upon information and communicate that information to the rest of the world. | I'm a fourth-year Stats & Data Science and Economics double major from Marin County in the Bay Area. In my free time, I’m an active member of UCSB Women’s Club Water Polo and I love to swim. I joined the club to work on data science projects and to build a supportive network. This year, I hope to make learning data science more accessible to UCSB students and continue the friendly atmosphere of the club.  | Hey everyone! My name is Krish Agarwal and I am a third year Computer Science major from the Bay Area. I enjoy playing Badminton and Volleyball, hitting the gym, and watching anime. I have been a part of the club since my freshman year and I joined to gain real life data science experience outside of the classroom but I have also been able to find a community and make close friends through my time as an officer.  |
 
 
