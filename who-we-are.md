@@ -23,7 +23,7 @@ The club is open to students of all grade levels and majors.
 
 <center><h3> Marketing and Operations</h3></center>
 
-| Name  | Name | Name |
+| Shivani Kharva  | Name | Name |
 | :----------:  |  :----------:      | :----------:    |
 ![katie](/images/members/katie.jpg)  | <img src="/images/members/priyasha.png" width="200" height="200">  | <img src="/images/members/krish.png" width="200" height="200">     |
 | Director of Operations | Director of Operations | Director of Professional Development |
