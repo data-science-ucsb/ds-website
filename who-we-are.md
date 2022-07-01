@@ -25,15 +25,15 @@ The club is open to students of all grade levels and majors.
 
 | Shivani Kharva  | Name | Name |
 | :----------:  |  :----------:      | :----------:    |
-![katie](/images/members/katie.jpg)  | <img src="/images/members/priyasha.png" width="200" height="200">  | <img src="/images/members/krish.png" width="200" height="200">     |
+| <img src="/images/members/shivani2022.jpeg" width="200" height="200" alt="Shivani Kharva">  | <img src="/images/members/priyasha.png" width="200" height="200">  | <img src="/images/members/krish.png" width="200" height="200">     |
 | Director of Operations | Director of Operations | Director of Professional Development |
-| Bio | Bio | Bio1234 |
+| Hi! I’m a third year Statistics and Data Science major from Orange County. I love data analysis, especially when I get to use datasets that relate to biology or environmental science! I love baking, reading, and playing video games. I’m excited to get to know so many new people in this club this year! | Bio | Bio1234 |
 
 
 
 | Name |  Name  |  Name  |
 | :----------:   | :----------: |  :--------: |
- <img src="/images/members/shivani.jpeg" width="200" height="200" alt="Shivani Kharva">  | <img src="/images/members/anna.png" width="200" height="200" alt="Anna Bauer">  | <img src="/images/members/brian.jpg" width="200" height="200" alt="Brian Che"/> |
+| <img src="/images/members/shivani.jpeg" width="200" height="200" alt="Shivani Kharva">  | <img src="/images/members/anna.png" width="200" height="200" alt="Anna Bauer">  | <img src="/images/members/brian.jpg" width="200" height="200" alt="Brian Che"/> |
 | Director of Public Relations | Director of Alumni Outreach | Director of Communications |
 | Bio | Bio | Bio |
 
