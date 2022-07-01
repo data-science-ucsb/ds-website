@@ -25,17 +25,17 @@ The club is open to students of all grade levels and majors.
 
 | Shivani Kharva  | Name | Madeline Porter |
 | :----------:  |  :----------:      | :----------:    |
-| <img src="/images/members/shivani2022.jpeg" width="200" height="200" alt="Shivani Kharva">  | <img src="/images/members/priyasha.png" width="200" height="200">  | <img src="/images/members/madeline2022correct.png" width="200" height="200">  |
+| <img src="/images/members/shivani2022.jpeg" width="200" height="200" alt="Shivani Kharva">  | <img src="/images/members/priyasha.png" width="200" height="200">  | <img src="/images/members/madeline2022correct.jpeg" width="200" height="200">  |
 | Director of Operations | Director of Operations | Director of Professional Development |
 | Hi! I’m a third year Statistics and Data Science major from Orange County. I love data analysis, especially when I get to use datasets that relate to biology or environmental science! I love baking, reading, and playing video games. I’m excited to get to know so many new people in this club this year! | Bio | Hey guys! I'm a fourth year Financial Math and Stats major originally from Orange County. I joined Data Science UCSB because I wanted to further develop my data science skills outside of the courses allocated for my major. I enjoy reading, going to the beach, and playing the piano in my free time! |
 
 
 
-| Name |  Name  |  Name  |
+| Praveen Manimaran |  Jeffrey Cao  |  Name  |
 | :----------:   | :----------: |  :--------: |
-| <img src="/images/members/shivani.jpeg" width="200" height="200" alt="Shivani Kharva">  | <img src="/images/members/anna.png" width="200" height="200" alt="Anna Bauer">  | <img src="/images/members/brian.jpg" width="200" height="200" alt="Brian Che"/> |
-| Director of Public Relations | Director of Alumni Outreach | Director of Communications |
-| Bio | Bio | Bio |
+| <img src="/images/members/Praveen.png" width="200" height="200" alt="Praveen Manimaran">  | <img src="/images/members/jeffrey.jpeg" width="200" height="200" alt="Jeffrey Cao">  | <img src="/images/members/brian.jpg" width="200" height="200" alt="Brian Che"/> |
+| Director of Public Relations | Director of Alumni Relations | Director of Communications |
+| Hello! I’m Praveen and I’m a 3rd year Statistics and Data Science major from Cupertino, CA. I love playing basketball, going to the gym, and playing NBA 2K and Call of Duty Warzone with my friends during my free time. I joined the Data Science club to learn more about what Data Science is really about and how I can eventually end up as a successful data scientist/analyst. | Hello! I am a second year Computer Science Major from the Bay Area. I enjoy basketball, anime, and hanging out with friends. I joined Data Science to explore my interests in neural networks and cloud computing. Since then, I've gained a lot of valuable technical experience, as well as a place to call home. I'm looking forward to meeting everyone throughout the year! | Bio |
 
 
 |  Name  |   Name   |  Name  |
