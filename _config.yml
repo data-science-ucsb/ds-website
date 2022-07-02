@@ -25,17 +25,17 @@ header:
       url: /events-calendar
     - label: Blog
       url: /blog
-    - label: Resources
-      url: /resources
+    - label: Career Fair
+      url: /careerfair
     # label: Big Little
       #url: /big-little
       #label: Intern Officer
      # url: https://docs.google.com/forms/d/1vWtewlfzzzT7B1YWUEhJNbNcDbdiK0qhN12Hm_TlS4Q/edit
      # new_window: true
-    - label: Career Fair
-      url: /careerfair
     - label: Alumni 
       url: /alumnipage
+    - label: Resources
+      url: /resources
     - label: FAQs
       url: /faqs
     - label: Register
