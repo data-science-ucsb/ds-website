@@ -32,6 +32,8 @@ header:
       #label: Intern Officer
      # url: https://docs.google.com/forms/d/1vWtewlfzzzT7B1YWUEhJNbNcDbdiK0qhN12Hm_TlS4Q/edit
      # new_window: true
+    - label: Career Fair
+      url: /careerfair
     - label: Alumni 
       url: /alumnipage
     - label: FAQs
