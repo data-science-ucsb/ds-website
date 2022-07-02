@@ -1,12 +1,12 @@
 ---
-title: 2022 Data Science Career Fair
+title: Data Science Career Fair
 subtitle: >-
   Data Science UCSB and the Department of Statistics and Applied Probability are proud to present the first Data Science Career Fair.
 image: images/careerfair/22careerfair2.png
 layout: page
 ---
 
-<img src="/images/careerfair/datetimelocation.png" width="900" height="300">
+<img src="/images/careerfair/datetimelocation2.png" width="600" height="200">
 
 ## Register on EventBrite
 [Click here to register your company](https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail)
