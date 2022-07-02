@@ -6,7 +6,7 @@ image: images/careerfair/22careerfair2.png
 layout: page
 ---
 
-<img src="/images/careerfair/datetimelocation2.png" width="600" height="200">
+<center><img src="/images/careerfair/datetimelocation2.png" class = "centerImage" width="600" height="200"></center>
 
 ## Register on EventBrite
 [Click here to register your company](https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail)
