@@ -23,11 +23,9 @@ The club is open to students of all grade levels and majors.
 
 <center><h3> Marketing and Operations</h3></center>
 
-| Name  | Priyasha Agarwal | Name |
 | :----------:  |  :----------:      | :----------:    |
 ![katie](/images/members/katie.jpg)  | <img src="/images/members/priyasha.png" width="200" height="200">  | <img src="/images/members/krish.png" width="200" height="200">     |
 | Director of Operations | Director of Operations | Director of Professional Development |
-| Bio | Hi! My name is Priyasha Agarwal and I am a fourth year Economics and Statistics & Data Science double major with an Applied Psychology minor from the Bay Area! I love dancing and exploring pretty dessert places. I joined the Data Science club in order to strengthen my analytical skills while surrounding myself with a community of people invested in my growth. My career aspirations include management consulting and corporate strategy. I am excited to meet all of you this year! | Bio1234 |
 
 
 
