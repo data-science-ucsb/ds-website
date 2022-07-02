@@ -14,7 +14,7 @@ The club is open to students of all grade levels and majors.
 
 <center><h3> Executive Team</h3></center>
 
-|  Katie Huynh	  |  Anna Bauer  |  Kshitij Agarwal  |
+| Katie Huynh | Anna Bauer | Kshitij Agarwal |
 | :----------:    | :----------:   |    :----------:    |
 <img src="/images/members/katie2.jpg" width="200" height="200"> | <img src="/images/members/annaheadshot.png" width="200" height="200">   | <img src="/images/members/krishnewheadshot.jpg" width="200" height="200">  |
 | President | Internal Vice President | External Vice President |
