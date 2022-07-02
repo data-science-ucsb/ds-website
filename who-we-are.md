@@ -23,9 +23,11 @@ The club is open to students of all grade levels and majors.
 
 <center><h3> Marketing and Operations</h3></center>
 
+| Shivani Kharva | Priyasha Agarwal | Madeline Porter |
 | :----------:  |  :----------:      | :----------:    |
-![katie](/images/members/katie.jpg)  | <img src="/images/members/priyasha.png" width="200" height="200">  | <img src="/images/members/krish.png" width="200" height="200">     |
+<img src="/images/members/shivani2022.jpeg" width="200" height="200"> | <img src="/images/members/priyasha.png" width="200" height="200">  | <img src="/images/members/madeline2022correct.jpeg" width="200" height="200">     |
 | Director of Operations | Director of Operations | Director of Professional Development |
+| Hi! I’m a third year Statistics and Data Science major from Orange County. I love data analysis, especially when I get to use datasets that relate to biology or environmental science! I love baking, reading, and playing video games. I’m excited to get to know so many new people in this club this year! | Hi! My name is Priyasha Agarwal and I am a fourth year Economics and Statistics & Data Science double major with an Applied Psychology minor from the Bay Area! I love dancing and exploring pretty dessert places. I joined the Data Science club in order to strengthen my analytical skills while surrounding myself with a community of people invested in my growth. My career aspirations include management consulting and corporate strategy. I am excited to meet all of you this year! | Hey guys! I'm a fourth year Financial Math and Stats major originally from Orange County. I joined Data Science UCSB because I wanted to further develop my data science skills outside of the courses allocated for my major. I enjoy reading, going to the beach, and playing the piano in my free time! |
 
 
 
