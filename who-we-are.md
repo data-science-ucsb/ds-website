@@ -38,7 +38,7 @@ The club is open to students of all grade levels and majors.
 | Bio | Bio | Bio |
 
 
-|  Name  |   Name   |  Name  |
+|  Name  |   Name   |  Stella Jia  |
 | :----------:   | :----------: |  :--------: |
 | <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/stella.jpg" width="200" height="200">  |
 | Director of Finance | Director of Finance | Director of Designs |
