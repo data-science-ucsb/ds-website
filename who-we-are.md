@@ -40,9 +40,9 @@ The club is open to students of all grade levels and majors.
 
 |  Name  |   Name   |  Name  |
 | :----------:   | :----------: |  :--------: |
-| <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
+| <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/stella.jpg" width="200" height="200">  |
 | Director of Finance | Director of Finance | Director of Designs |
-| Bio | Bio | Bio |
+| Bio | Bio | Hi! I'm a second-year Statistics & Data Science major from the Bay Area. I'm interested in utilizing data science to create a positive social impact by combining the disciplines of STEM and humanities. In my free time, I love going on hikes, using Notion, and trying new Ben & Jerry flavors! |
 
 
 
