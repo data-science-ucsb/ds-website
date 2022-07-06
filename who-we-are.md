@@ -35,7 +35,7 @@ The club is open to students of all grade levels and majors.
 | :----------:   | :----------: |  :--------: |
 | <img src="/images/members/praveenCorrect2022.jpeg" width="200" height="200" alt="Praveen Manimaran">  | <img src="/images/members/jeffrey2022.jpeg" width="200" height="200" alt="Jeffrey Cao">  | <img src="/images/members/brian.jpg" width="200" height="200" alt="Brian Che"/> |
 | Director of Public Relations | Director of Alumni Relations | Director of Communications |
-| Hello! I’m Praveen and I’m a 3rd year Statistics and Data Science major from Cupertino, CA. I love playing basketball, going to the gym, and playing NBA 2K and Call of Duty Warzone with my friends during my free time. I joined the Data Science club to learn more about what Data Science is really about and how I can eventually end up as a successful data scientist/analyst. | Bio | Bio |
+| Bio | Bio | Bio |
 
 |  Name  |   Name   |  Name  |
 | :----------:   | :----------: |  :--------: |
