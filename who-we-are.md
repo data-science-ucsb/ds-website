@@ -48,8 +48,8 @@ The club is open to students of all grade levels and majors.
 
 <center><h3> Project Group Directors</h3></center>
 
-| Name |  Name  |  Name  | Name |
+| Winbert Zhang |  Name  |  Name  | Name |
 | :----------:  |   :----------:  |  :----------:   | :----------:   |
-| <img src="/images/members/jeffrey.jpeg" width="200" height="200">  | <img src="/images/members/Praveen.png" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  |
+| <img src="/images/members/winbert.jpg" width="200" height="200">  | <img src="/images/members/Praveen.png" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  |
 | Beginner Pipeline | Intermediate Pipeline | Project Group | Project Group |
-| Bio  | Bio |  Bio |  Bio |
+| Hi everyone! I'm a second year Computer Science major from the Bay Area. Some of my hobbies include cooking, hiking, board games, and anime. I joined Data Science club to learn more about data science and join a community of friendly and curious people with similar interests. Excited to meet everyone joining the Beginner Pipeline!  | Bio |  Bio |  Bio |
