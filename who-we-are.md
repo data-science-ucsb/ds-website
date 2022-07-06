@@ -31,10 +31,17 @@ The club is open to students of all grade levels and majors.
 
 
 
-| Name |  Name  |  Name  |
+| Praveen Manimaran |  Name  |  Name  |
 | :----------:   | :----------: |  :--------: |
- <img src="/images/members/shivani.jpeg" width="200" height="200" alt="Shivani Kharva">  | <img src="/images/members/anna.png" width="200" height="200" alt="Anna Bauer">  | <img src="/images/members/brian.jpg" width="200" height="200" alt="Brian Che"/> |
+| <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
 | Director of Public Relations | Director of Alumni Outreach | Director of Communications |
+| Bio | Bio | Bio |
+
+
+|  Name  |   Name   |  Name  |
+| :----------:   | :----------: |  :--------: |
+| <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
+| Director of Finance | Director of Finance | Director of Designs |
 | Bio | Bio | Bio |
 
 
