@@ -33,7 +33,7 @@ The club is open to students of all grade levels and majors.
 
 | Praveen Manimaran |  Name  |  Name  |
 | :----------:   | :----------: |  :--------: |
-| <img src="/images/members/praveenCorrect2022.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
+| <img src="/images/members/praveenCorrect2022.jpeg" | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
 | Director of Public Relations | Director of Alumni Outreach | Director of Communications |
 | Bio | Bio | Bio |
 
