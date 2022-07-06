@@ -33,10 +33,9 @@ The club is open to students of all grade levels and majors.
 
 | Praveen Manimaran |  Jeffrey Cao  |  Name  |
 | :----------:   | :----------: |  :--------: |
-| <img src="/images/members/praveen2022.JPG" width="200" height="200" alt="Praveen Manimaran">  | <img src="/images/members/jeffrey2022.jpeg" width="200" height="200" alt="Jeffrey Cao">  | <img src="/images/members/brian.jpg" width="200" height="200" alt="Brian Che"/> |
+| <img src="/images/members/praveenCorrect2022.jpeg" width="200" height="200" alt="Praveen Manimaran">  | <img src="/images/members/jeffrey2022.jpeg" width="200" height="200" alt="Jeffrey Cao">  | <img src="/images/members/brian.jpg" width="200" height="200" alt="Brian Che"/> |
 | Director of Public Relations | Director of Alumni Relations | Director of Communications |
-| Hello! I’m Praveen and I’m a 3rd year Statistics and Data Science major from Cupertino, CA. I love playing basketball, going to the gym, and playing NBA 2K and Call of Duty Warzone with my friends during my free time. I joined the Data Science club to learn more about what Data Science is really about and how I can eventually end up as a successful data scientist/analyst. | Hello! I am a second year Computer Science Major from the Bay Area. I enjoy basketball, anime, and hanging out with friends. I joined Data Science to explore my interests in neural networks and cloud computing. Since then, I've gained a lot of valuable technical experience, as well as a place to call home. I'm looking forward to meeting everyone throughout the year! | Bio |
-
+| Hello! I’m Praveen and I’m a 3rd year Statistics and Data Science major from Cupertino, CA. I love playing basketball, going to the gym, and playing NBA 2K and Call of Duty Warzone with my friends during my free time. I joined the Data Science club to learn more about what Data Science is really about and how I can eventually end up as a successful data scientist/analyst. | Bio | Bio |
 
 |  Name  |   Name   |  Name  |
 | :----------:   | :----------: |  :--------: |
