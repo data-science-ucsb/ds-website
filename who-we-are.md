@@ -31,25 +31,20 @@ The club is open to students of all grade levels and majors.
 
 
 
-| Praveen Manimaran |  Jeffrey Cao  |  Name  |
+| Praveen Manimaran |  Jeffrey Cao  |  Samantha Su  |
 | :----------:   | :----------: |  :--------: |
-| <img src="/images/members/praveen2022.jpeg" width="200" height="200"> | <img src="/images/members/jeffrey2022.jpeg" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
+| <img src="/images/members/praveen2022.jpeg" width="200" height="200"> | <img src="/images/members/jeffrey2022.jpeg" width="200" height="200">  | <img src="/images/members/sam2022.jpeg" width="200" height="200">  |
 | Director of Public Relations | Director of Alumni Relations | Director of Communications |
-| Hello! I’m Praveen and I’m a 3rd year Statistics and Data Science major from Cupertino, CA. I love playing basketball, going to the gym, and playing NBA 2K and Call of Duty Warzone with my friends during my free time. I joined the Data Science club to learn more about what Data Science is really about and how I can eventually end up as a successful data scientist/analyst. | Hello! I am a second year Computer Science Major from the Bay Area. I enjoy basketball, anime, and hanging out with friends. I joined Data Science to explore my interests in neural networks and cloud computing. Since then, I've gained a lot of valuable technical experience, as well as a place to call home. I'm looking forward to meeting everyone throughout the year!  | Bio |
+| Hello! I’m Praveen and I’m a 3rd year Statistics and Data Science major from Cupertino, CA. I love playing basketball, going to the gym, and playing NBA 2K and Call of Duty Warzone with my friends during my free time. I joined the Data Science club to learn more about what Data Science is really about and how I can eventually end up as a successful data scientist/analyst. | Hello! I am a second year Computer Science Major from the Bay Area. I enjoy basketball, anime, and hanging out with friends. I joined Data Science to explore my interests in neural networks and cloud computing. Since then, I've gained a lot of valuable technical experience, as well as a place to call home. I'm looking forward to meeting everyone throughout the year!  | Hi! I’m a second year data science major/ art minor and I’m excited to be an officer again this year. I really love developing and bringing creative ideas together to building something beautiful, and I look forward to supporting the amazing Data Science UCSB community to becoming even more closer and professional. Some of my hobbies include arts and crafts along with running. I look forward to getting to know everyone this year in the club and working on projects! |
 
 
-|  Name  |   Name   |  Name  |
+
+
+|  Luke Fields  |   Brian Che   |  Stella Jia  |
 | :----------:   | :----------: |  :--------: |
-| <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/harper.jpg" width="200" height="200">  |
+| <img src="/images/members/luke2022.png" width="200" height="200">  | <img src="/images/members/brian.jpg" width="200" height="200">  | <img src="/images/members/stella.jpg" width="200" height="200">  |
 | Director of Finance | Director of Finance | Director of Designs |
-| Bio | Bio | Bio |
-
-
-|  Name  |   Name   |  Stella Jia  |
-| :----------:   | :----------: |  :--------: |
-| <img src="/images/members/hirish.jpg" width="200" height="200">  | <img src="/images/members/luke.JPG" width="200" height="200">  | <img src="/images/members/stella.jpg" width="200" height="200">  |
-| Director of Finance | Director of Finance | Director of Designs |
-| Bio | Bio | Hi! I'm a second-year Statistics & Data Science major from the Bay Area. I'm interested in utilizing data science to create a positive social impact by combining the disciplines of STEM and humanities. In my free time, I love going on hikes, using Notion, and trying new Ben & Jerry flavors! |
+| Hello! I'm a fourth year Statistics and Data Science major. | Hello! I'm a fourth year at UCSB, pursuing a B.S. in Statistics & Data Science. I love long walks on the beach and my favorite quote of all time is "Live, Laugh, Love."  My interests lie in product analytics or product data science, incorporating business strategies with product management. Feel free to reach out to me! | Hi! I'm a second-year Statistics & Data Science major from the Bay Area. I'm interested in utilizing data science to create a positive social impact by combining the disciplines of STEM and humanities. In my free time, I love going on hikes, using Notion, and trying new Ben & Jerry flavors! |
 
 
 
