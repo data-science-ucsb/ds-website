@@ -42,16 +42,16 @@ The club is open to students of all grade levels and majors.
 
 |  Luke Fields  |   Brian Che   |  Stella Jia  |
 | :----------:   | :----------: |  :--------: |
-| <img src="/images/members/luke2022.png" width="200" height="200">  | <img src="/images/members/brian.jpg" width="200" height="200">  | <img src="/images/members/stella.jpg" width="200" height="200">  |
+| <img src="/images/members/luke2022.png" width="200" height="200" alt="Luke Fields">  | <img src="/images/members/brian.jpg" width="200" height="200">  | <img src="/images/members/stella.jpg" width="200" height="200">  |
 | Director of Finance | Director of Finance | Director of Designs |
-| Hello! I'm a fourth year Statistics and Data Science major. | Hello! I'm a fourth year at UCSB, pursuing a B.S. in Statistics & Data Science. I love long walks on the beach and my favorite quote of all time is "Live, Laugh, Love."  My interests lie in product analytics or product data science, incorporating business strategies with product management. Feel free to reach out to me! | Hi! I'm a second-year Statistics & Data Science major from the Bay Area. I'm interested in utilizing data science to create a positive social impact by combining the disciplines of STEM and humanities. In my free time, I love going on hikes, using Notion, and trying new Ben & Jerry flavors! |
+| N/A | Hello! I'm a fourth year at UCSB, pursuing a B.S. in Statistics & Data Science. I love long walks on the beach and my favorite quote of all time is "Live, Laugh, Love."  My interests lie in product analytics or product data science, incorporating business strategies with product management. Feel free to reach out to me! | Hi! I'm a second-year Statistics & Data Science major from the Bay Area. I'm interested in utilizing data science to create a positive social impact by combining the disciplines of STEM and humanities. In my free time, I love going on hikes, using Notion, and trying new Ben & Jerry flavors! |
 
 
 
 <center><h3> Project Group Directors</h3></center>
 
-| Winbert Zhang |  Name  |  Name  | Name |
+| Winbert Zhang |  Grant Cai  |  Mateo Wang  | Mehir Arora |
 | :----------:  |   :----------:  |  :----------:   | :----------:   |
-| <img src="/images/members/winbert.jpg" width="200" height="200">  | <img src="/images/members/Praveen.png" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  | <img src="/images/members/Samantha.jpg" width="200" height="200">  |
+| <img src="/images/members/winbert.jpg" width="200" height="200">  | <img src="/images/members/Grant_Headshot.png" width="200" height="200">  | <img src="/images/members/mateo2022.jpeg" width="200" height="200">  | <img src="/images/members/mehir2022.jpg" width="200" height="200" alt="Mehir Arora">  |
 | Beginner Pipeline | Intermediate Pipeline | Project Group | Project Group |
-| Hi everyone! I'm a second year Computer Science major from the Bay Area. Some of my hobbies include cooking, hiking, board games, and anime. I joined Data Science club to learn more about data science and join a community of friendly and curious people with similar interests. Excited to meet everyone joining the Beginner Pipeline!  | Bio |  Bio |  Bio |
+| Hi everyone! I'm a second year Computer Science major from the Bay Area. Some of my hobbies include cooking, hiking, board games, and anime. I joined Data Science club to learn more about data science and join a community of friendly and curious people with similar interests. Excited to meet everyone joining the Beginner Pipeline!  | Hi! I'm a fourth year Stats and Data Science major and English minor who's also pursuing a TMP certificate. When I'm not studying or doing data science-y things, I'm rowing crew for UCSB and working at CLAS. I hope to apply my knowledge of statistics and machine learning in either sports or business. |  Hi! I’m a third-year CS major at UCSB from San Jose. I have a deep passion for all things data science and web development. The way I approach learning and solving problems is diving headfirst: understand the landscape of what you’re trying to learn or create and just do it, learning as you go. When I’m not working on side projects or cramming homework last minute, you can find me improvising on the pianos of the dorm lobbies or running on the beautiful SB beaches! | N/A |
