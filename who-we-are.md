@@ -44,7 +44,7 @@ The club is open to students of all grade levels and majors.
 | :----------:   | :----------: |  :--------: |
 | <img src="/images/members/luke2022.png" width="200" height="200" alt="Luke Fields">  | <img src="/images/members/brian.jpg" width="200" height="200">  | <img src="/images/members/stella.jpg" width="200" height="200">  |
 | Director of Finance | Director of Finance | Director of Designs |
-| N/A | Hello! I'm a fourth year at UCSB, pursuing a B.S. in Statistics & Data Science. I love long walks on the beach and my favorite quote of all time is "Live, Laugh, Love."  My interests lie in product analytics or product data science, incorporating business strategies with product management. Feel free to reach out to me! | Hi! I'm a second-year Statistics & Data Science major from the Bay Area. I'm interested in utilizing data science to create a positive social impact by combining the disciplines of STEM and humanities. In my free time, I love going on hikes, using Notion, and trying new Ben & Jerry flavors! |
+| N/A | Hello! I'm a fourth year at UCSB, pursuing a B.S. in Statistics & Data Science. I enjoy reading and playing volleyball whenever I get the chance. My interests lie in product management and data science projects revolving around user research! Feel free to reach out to me! | Hi! I'm a second-year Statistics & Data Science major from the Bay Area. I'm interested in utilizing data science to create a positive social impact by combining the disciplines of STEM and humanities. In my free time, I love going on hikes, using Notion, and trying new Ben & Jerry flavors! |
 
 
 
