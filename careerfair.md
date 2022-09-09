@@ -16,6 +16,13 @@ layout: page
 Data Science UCSB and the Department of Statistics and Applied Probability are proud to present the first Data Science Career Fair at UC Santa Barbara.
 
 ## How it Works
+* 11-11:45am - Company Introductions
+* 11:55-12:25pm - Info Session Rotation #1
+* 12:30-1pm - Info Session Rotation #2
+* 1-1:30pm - Break
+* 1:30-3 - 10 minute 1:1s, by appointment only
+
+After compny introductions, students will have the opportunity to attend info sessions for two companies of their choice. This will be a time for students to learn more about the company, open roles, and ask any questions. After a short lunch break, the career fair will conclude with 10-minute 1:1 sessions for students and company representatives to meet.
 
 ## For Students
 
@@ -32,25 +39,22 @@ A student registration link will be posted here closer to the event date.
 * Choose a quiet, distraction free location and show up on time.
 * Dress appropriately. The attire is business casual. 
 
-## For Employers
+## For Companies
 
 Our virtual career fair will give your firm the opportunity to meet innovated data science students in a one-stop environment, increase brand awareness among job seekers, students, staff, and even other employers, and to network with other candidates and corporations.
 
 #### Career Fair Benefits
+*
 
 ### Virtual Career Fair Registration 
 ##### Registration fee (per company): $100
 ##### Registration link: [Click here](https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail)
 
-## <button onclick="document.location='default.asp'">Register Here</button>
-
-<button onclick="https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail">Register Here</button>
-
 <style>
   .GFG {
-        background-color: white;
+        background-color: #3070F6;
         border: 2px solid black;
-        color: green;
+        color: #3070F6;
         padding: 5px 10px;
         text-align: center;
         display: inline-block;
@@ -61,6 +65,6 @@ Our virtual career fair will give your firm the opportunity to meet innovated da
     </style>
 <!-- Adding link to the button on the onclick event -->
 <button class="GFG" 
- onclick="window.location.href = 'https://ide.geeksforgeeks.org';">
+ onclick="window.location.href = 'h[ttps://ide.geeksforgeeks.org](https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail)';">
      Click Here
 </button>
