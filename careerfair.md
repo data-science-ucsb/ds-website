@@ -1,7 +1,7 @@
 ---
 title: Data Science Virtual Career Fair
 subtitle: >-
-  Data Science UCSB and the Department of Statistics and Applied Probability are proud to present the first Data Science Career Fair.
+  Data Science UCSB and the Department of Statistics and Applied Probability are proud to present the Data Science Career Fair.
 image: images/careerfair/22careerfair2.png
 layout: page
 ---
@@ -19,7 +19,7 @@ Data Science UCSB and the Department of Statistics and Applied Probability are p
 * 1-1:30pm - Break
 * 1:30-3 - 10 minute 1:1s, by appointment only
 
-After compny introductions, students will have the opportunity to attend info sessions for two companies of their choice. This will be a time for students to learn more about the company, open roles, and ask any questions. After a short lunch break, the career fair will conclude with 10-minute 1:1 sessions for students and company representatives to meet.
+After company introductions, students will have the opportunity to attend info sessions for two companies of their choice. This will be a time for students to learn more about the company, open roles, and ask any questions. After a short lunch break, the career fair will conclude with 10-minute 1:1 sessions for students and company representatives to meet.
 
 
 ### For Students
@@ -31,16 +31,16 @@ The event will be entirely free for students to attend. Priority sign-ups for on
 A student registration link will be posted here closer to the event date.
 
 #### Tips for Students
-* Update your resume. We will be hosting a resume on September 20th - details will be posted soon. 
+* Update your resume. We will be hosting a resume on September 28th - details will be posted soon. 
 * Create questions specific to companies and positions of interest.
 * Create an elevator pitch about yourself for introductions.
 * Choose a quiet, distraction free location and show up on time.
-* Dress appropriately. The attire is business casual. 
+* Dress in appropriate business casual attire.
 
 
 ### For Companies
 
-Our virtual career fair will give your firm the opportunity to meet innovated data science students in a one-stop environment, increase brand awareness among job seekers, students, staff, and even other employers, and to network with other candidates and corporations.
+Our virtual career fair will give firms the opportunity to meet data science students in a one-stop environment, increase brand awareness among job seekers, students, staff, and even other employers, and to network with other candidates and corporations.
 
 #### Career Fair Benefits
 * Access many candidates at once - 10 time slots per representative for 1:1 sessions
