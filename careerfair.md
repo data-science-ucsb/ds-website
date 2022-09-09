@@ -45,3 +45,22 @@ Our virtual career fair will give your firm the opportunity to meet innovated da
 ## <button onclick="document.location='default.asp'">Register Here</button>
 
 <button onclick="https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail">Register Here</button>
+
+<style>
+  .GFG {
+        background-color: white;
+        border: 2px solid black;
+        color: green;
+        padding: 5px 10px;
+        text-align: center;
+        display: inline-block;
+        font-size: 20px;
+        margin: 10px 30px;
+        cursor: pointer;
+        }
+    </style>
+<!-- Adding link to the button on the onclick event -->
+<button class="GFG" 
+ onclick="window.location.href = 'https://ide.geeksforgeeks.org';">
+     Click Here
+</button>
