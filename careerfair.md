@@ -30,7 +30,7 @@ The event will be entirely free for students to attend. Priority sign-ups for on
 
 A student registration link will be posted here closer to the event date.
 
-#### Tips for Students
+##### Tips for Students
 * Update your resume. We will be hosting a resume on September 28th - details will be posted soon. 
 * Create questions specific to companies and positions of interest.
 * Create an elevator pitch about yourself for introductions.
@@ -42,7 +42,7 @@ A student registration link will be posted here closer to the event date.
 
 Our virtual career fair will give firms the opportunity to meet data science students in a one-stop environment, increase brand awareness among job seekers, students, staff, and even other employers, and to network with other candidates and corporations.
 
-#### Career Fair Benefits
+##### Benefits
 * Access many candidates at once - 10 time slots per representative for 1:1 sessions
 * Brand awareness - develop your company's reputation among UCSB students
 * Targeted data science candidates
