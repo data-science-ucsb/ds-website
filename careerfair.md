@@ -6,7 +6,7 @@ image: images/careerfair/22careerfair2.png
 layout: page
 ---
 
-<center><img src="/images/careerfair/datetimelocation.png" class = "centerImage" width="600" height="200"></center>
+<center><img src="/images/careerfair/logistics.png" class = "centerImage" width="600" height="200"></center>
 
 ## About the Event
 
