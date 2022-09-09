@@ -36,8 +36,12 @@ A student registration link will be posted here closer to the event date.
 
 Our virtual career fair will give your firm the opportunity to meet innovated data science students in a one-stop environment, increase brand awareness among job seekers, students, staff, and even other employers, and to network with other candidates and corporations.
 
+#### Career Fair Benefits
+
 ### Virtual Career Fair Registration 
 ##### Registration fee (per company): $100
 ##### Registration link: [Click here](https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail)
 
-<button onclick="document.location='default.asp'">HTML Tutorial</button>
+## <button onclick="document.location='default.asp'">Register Here</button>
+
+<button onclick="https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail">Register Here</button>
