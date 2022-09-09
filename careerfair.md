@@ -51,7 +51,7 @@ Our virtual career fair will give firms the opportunity to meet data science stu
 * Candidate follow-up is easy - access to student contact sheet after the fair
 * Access to resume booklet with all potential candidates at the fair
 
-### Virtual Career Fair Registration 
+##### Registration 
 
 Registration fee (per company): $100
 
