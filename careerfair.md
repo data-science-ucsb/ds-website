@@ -57,4 +57,4 @@ Registration fee (per company): $100
 
 Registration: 
 
-[Click here](https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail){: .btn}
+<button onclick = "window.location.href='https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail';"> Click Here! </button>
