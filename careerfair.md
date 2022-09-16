@@ -16,8 +16,8 @@ Data Science UCSB and the Department of Statistics and Applied Probability are p
 * 11:30-11:45am - Company Check-in
 * 11:55-12:25pm - Info Session Rotation #1
 * 12:30-1pm - Info Session Rotation #2
-* 1-1:30pm - Info Session Rotation #3
-* 1:30-3pm - 10 minute 1:1s, by appointment only
+* 1-1:15pm - Break
+* 1:15-3pm - 10 minute 1:1s, by appointment only
 
 After company introductions, students will have the opportunity to attend info sessions for two companies of their choice. This will be a time for students to learn more about the company, open roles, and ask any questions. After a short lunch break, the career fair will conclude with 10-minute 1:1 sessions for students and company representatives to meet.
 
