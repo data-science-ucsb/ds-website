@@ -1,16 +1,13 @@
 ---
 title: Data Science Virtual Career Fair
 subtitle: >-
-  Data Science UCSB and the Department of Statistics and Applied Probability are proud to present the Data Science Career Fair.
+  Data Science UCSB and the Department of Statistics and Applied Probability are proud to present the first Data Science Career Fair at UC Santa Barbara.
 image: images/careerfair/22careerfair2.png
 layout: page
 ---
 
 <center><img src="/images/careerfair/logistics.png" class = "centerImage" width="600" height="200"></center>
 
-## About the Event
-
-Data Science UCSB and the Department of Statistics and Applied Probability are proud to present the first Data Science Career Fair at UC Santa Barbara.
 
 ### How it Works
 * 11:30-11:50am - Check-in
