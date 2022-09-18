@@ -13,8 +13,8 @@ layout: page
 Data Science UCSB and the Department of Statistics and Applied Probability are proud to present the first Data Science Career Fair at UC Santa Barbara.
 
 ### How it Works
-* 11:30-11:45am - Company Check-in
-* 11:55-12:25pm - Info Session Rotation #1
+* 11:30-11:50am - Check-in
+* 11:50-12:20pm - Info Session Rotation #1
 * 12:30-1pm - Info Session Rotation #2
 * 1-1:15pm - Break
 * 1:15-3pm - 10 minute 1:1s, by appointment only
