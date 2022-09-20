@@ -39,7 +39,7 @@ header:
     - label: FAQs
       url: /faqs
     - label: Register
-      url: https://docs.google.com/forms/d/e/1FAIpQLScSwEzUavR3oEyXwSRg9UViMGBJTBm_2FSJBf4GjGDqDmWI3A/viewform
+      url: https://forms.gle/vH1xr8hV4PRuGzfv8
       primary: true
       new_window: true
 footer:
