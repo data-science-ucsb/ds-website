@@ -34,6 +34,7 @@ A student registration link will be posted here closer to the event date.
 * Choose a quiet, distraction free location and show up on time.
 * Dress in appropriate business casual attire.
 
+<button onclick = "window.location.href='https://forms.gle/qrzeBv2Z8iMioJ3k7';"> Student Registration </button>
 
 ### For Companies
 
@@ -52,4 +53,4 @@ Our virtual career fair will give firms the opportunity to meet data science stu
 
 Registration fee (per company): $100
 
-<button onclick = "window.location.href='https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail';"> Register Here! </button>
+<button onclick = "window.location.href='https://www.eventbrite.com/e/2022-data-science-career-fair-tickets-368811363717?utm_source=eventbrite&utm_medium=email&utm_campaign=post_publish&utm_content=shortLinkNewEmail';"> Company Registration </button>
