@@ -6,7 +6,7 @@ image: images/careerfair/22careerfair2.png
 layout: page
 ---
 
-<center><img src="/images/careerfair/logistics.png" class = "centerImage" width="600" height="200"></center>
+<center><img src="/images/careerfair/careerfairtime.png" class = "centerImage" width="600" height="200"></center>
 
 
 ### How it Works
