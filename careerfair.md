@@ -30,7 +30,7 @@ The event will be entirely FREE for students to attend, however, priority regist
 
 
 ##### Tips for Students
-* Update your resume. Our resume workshop will be on September 28th from 5-7pm. <a href="https://ucsb.zoom.us/j/84036438756?pwd=WElJRVdYT00rK204RDRqSHFCU0xRQT09" style="color:#0000EE;">Student Registration</a>
+* Get your resume reviewed at our workshop on 9/28 from 5-7pm. <a href="https://ucsb.zoom.us/j/84036438756?pwd=WElJRVdYT00rK204RDRqSHFCU0xRQT09" style="color:#0000EE;">Student Registration</a>
 * Think of questions specific to companies and positions of interest.
 * Create an elevator pitch about yourself for introductions.
 * Choose a quiet, distraction free location and show up on time.
