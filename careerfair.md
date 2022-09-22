@@ -16,16 +16,18 @@ layout: page
 * 1-1:15pm - Break
 * 1:15-3pm - 10 minute 1:1s, by appointment only
 
-After company introductions, students will have the opportunity to attend info sessions for two companies of their choice. This will be a time for students to learn more about the company, open roles, and ask any questions. After a short lunch break, the career fair will conclude with 10-minute 1:1 sessions for students and company representatives to meet.
+After checking in via Zoom, students will have the opportunity to attend two info sessions. This will be a time for students to learn more about the company, open roles, and ask any questions. The career fair will conclude with 10-minute 1:1 sessions for students and company representatives to meet. 
+
+Students will be notified of their placements for info sessions and 1:1 sessions 2-3 days before the event. We cannot guarantee every student a 1:1 session, but we will do our best to match students with info sessions based on their stated preferences on the registration form. 
+
 
 
 ### For Students
 
 The UCSB Data Science Career Fair provides a space for UCSB students to connect with employers hiring for internship an new graduate positions. The fair is recommended for all students interested in data science and related fields. Students of all majors and grade levels are welcome to attend the event. 
 
-The event will be entirely free for students to attend. Priority sign-ups for one-on-one sessions will be given to students with 2022-2023 Data Science UCSB memberships.
+The event will be entirely free for students to attend. Priority registration will be given to 2022-23 Data Science UCSB members. You can sign up for a year-long membership ($20) at our kickoff on 9/27. Kickoff will be at CHEM 1179 from 7-9pm.
 
-A student registration link will be posted here closer to the event date.
 
 ##### Tips for Students
 * Update your resume. We will be hosting a resume on September 28th - details will be posted soon. 
@@ -34,7 +36,12 @@ A student registration link will be posted here closer to the event date.
 * Choose a quiet, distraction free location and show up on time.
 * Dress in appropriate business casual attire.
 
+##### Registration 
+
+Registration ends Monday, October 3rd at 10am.
 <button onclick = "window.location.href='https://forms.gle/qrzeBv2Z8iMioJ3k7';"> Student Registration </button>
+
+
 
 ### For Companies
 
