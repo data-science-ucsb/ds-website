@@ -38,7 +38,7 @@ The event will be entirely FREE for students to attend, however, priority regist
 
 ##### Registration 
 
-Registration ends Monday, October 3rd at 10am.
+Registration ends Monday, October 3rd at 10am. Resume submissions will close on Friday, September 30th at 1:00 PM.
 
 <button onclick = "window.location.href='https://forms.gle/qrzeBv2Z8iMioJ3k7';"> Student Registration </button>
 
