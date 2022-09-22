@@ -26,12 +26,12 @@ Students will be notified of their placements for info sessions and 1:1 sessions
 
 The UCSB Data Science Career Fair provides a space for UCSB students to connect with employers hiring for internship an new graduate positions. The fair is recommended for all students interested in data science and related fields. Students of all majors and grade levels are welcome to attend the event. 
 
-The event will be entirely free for students to attend. Priority registration will be given to 2022-23 Data Science UCSB members. You can sign up for a year-long membership ($20) at our kickoff on 9/27. Kickoff will be at CHEM 1179 from 7-9pm.
+The event will be entirely FREE for students to attend, however, priority registration will be given to 2022-23 Data Science UCSB members. You can sign up for a year-long membership ($20) at our kickoff on 9/27. Kickoff will be at CHEM 1179 from 7-9pm.
 
 
 ##### Tips for Students
-* Update your resume. We will be hosting a resume on September 28th - details will be posted soon. 
-* Create questions specific to companies and positions of interest.
+* Update your resume. We will be hosting a resume workshop on September 28th from 5-7pm.
+* Think of questions specific to companies and positions of interest.
 * Create an elevator pitch about yourself for introductions.
 * Choose a quiet, distraction free location and show up on time.
 * Dress in appropriate business casual attire.
@@ -39,6 +39,7 @@ The event will be entirely free for students to attend. Priority registration wi
 ##### Registration 
 
 Registration ends Monday, October 3rd at 10am.
+
 <button onclick = "window.location.href='https://forms.gle/qrzeBv2Z8iMioJ3k7';"> Student Registration </button>
 
 
