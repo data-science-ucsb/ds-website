@@ -38,7 +38,7 @@ The event will be entirely FREE for students to attend, however, priority regist
 
 ##### Student Handbook
 
-<iframe src="http://www.datascienceucsb.org/studenthandbook.pdf" height="200" width="300" title="Student Handbook"></iframe>
+<iframe src="http://www.datascienceucsb.org/studenthandbook.pdf" height="500" width="1000" title="Student Handbook"></iframe>
 
 
 
