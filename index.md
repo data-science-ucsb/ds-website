@@ -67,7 +67,7 @@ sections:
     subtitle: Sign up and join our slack for information about club news and other opportunities.
     actions:
       - label: Register
-        url: https://docs.google.com/forms/d/e/1FAIpQLScSwEzUavR3oEyXwSRg9UViMGBJTBm_2FSJBf4GjGDqDmWI3A/viewform
+        url: https://docs.google.com/forms/d/e/1FAIpQLScia7PrfmaFlK1M5obhkWlvAI_JsQrRl47Q0tGcjCDreeykzg/viewform
         primary: true
         new_window: true
 layout: landing
