@@ -37,10 +37,7 @@ The event will be entirely FREE for students to attend, however, priority regist
 * Dress in appropriate business casual attire.
 
 ##### Student Handbook
-
-<div style="visibility:hidden;">
-  <iframe src="studenthandbook.pdf" width="640" height="2256" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-</div>
+<a href="https://datascienceucsb.org/studenthandbook.pdf" style="color:#0000EE;">Open in Browser</a>
 
 
 ##### Registration 
