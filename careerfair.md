@@ -36,15 +36,15 @@ The event will be entirely FREE for students to attend, however, priority regist
 * Choose a quiet, distraction free location and show up on time.
 * Dress in appropriate business casual attire.
 
-##### Student Handbook
-
-<iframe src="https://www.datascienceucsb.org/studenthandbook.pdf" height="800" width="700"></iframe>
-
 ##### Registration 
 
 Registration ends Monday, October 3rd at 10am. Resume submissions will close on Friday, September 30th at 1:00 PM.
 
 <button onclick = "window.location.href='https://forms.gle/qrzeBv2Z8iMioJ3k7';"> Student Registration </button>
+
+##### Student Handbook
+
+<iframe src="https://www.datascienceucsb.org/studenthandbook.pdf" height="800" width="700"></iframe>
 
 
 
