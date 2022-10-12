@@ -25,8 +25,8 @@ header:
       url: /events-calendar
     - label: Blog
       url: /blog
-    - label: Career Fair
-      url: /careerfair
+    #- label: Career Fair
+     # url: /careerfair
     # label: Big Little
       #url: /big-little
     - label: Intern Officer
@@ -78,7 +78,7 @@ footer:
       url: 'https://www.stackbit.com'
       new_window: true
 sass:
-  indentWidth: 3
+  indentWidth: 4
   style: nested
   precision: 10
 plugins:
