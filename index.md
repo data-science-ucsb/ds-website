@@ -25,7 +25,7 @@ sections:
       - title: Meeting Times and Locations
         image: images/kickoff.jpg
         content: >-
-          General meetings have concluded for the 2021-2022 academic year. In the fall, meetings will be on Tuesdays from 7-9 PM.
+          General meetings are held every Tuesday from 7-9 PM. Meeting locations are sent out in our weekly email. 
         actions:
           - label: Events
             url: /events-calendar
@@ -33,9 +33,9 @@ sections:
         image: images/home3.png
         content: >-
           We offer three project pipelines for our members to learn more about data science! <br>
-          Beginner: Intro to Python (lecture style) <br>
-          Intermediate: Machine Learning Concepts (lecture style) <br>
-          Project Group: create your own project!
+          <b>Beginner:</b> Intro to Python (lecture style) <br>
+          <b>Intermediate:</b> Machine Learning Concepts (lecture style) <br>
+          <b>Project Group:</b> create your own project!
         actions:
           - label: Pipeline Material
             url: /resources
