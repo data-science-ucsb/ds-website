@@ -3,3 +3,6 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+.vs/slnx.sqlite
+.vs/DS Website/v17/.suo
+.vs/slnx.sqlite
