@@ -14,4 +14,4 @@ Instagram: [https://www.instagram.com/datascienceucsb/](https://www.instagram.co
 LinkedIn: [https://www.linkedin.com/company/data-science-at-ucsb](https://www.linkedin.com/company/data-science-at-ucsb)  
 Slack: [https://ds-ucsb.slack.com/signup](https://ds-ucsb.slack.com/signup)  
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScD4WnacfEWIKoFWiB7rNtbNLi0blrG3-4FJ7f_YTAhfpD3nQ/viewform?embedded=true" width="640" height="403" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScia7PrfmaFlK1M5obhkWlvAI_JsQrRl47Q0tGcjCDreeykzg/viewform" width="640" height="403" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>

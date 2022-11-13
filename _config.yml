@@ -25,13 +25,13 @@ header:
       url: /events-calendar
     - label: Blog
       url: /blog
-    - label: Career Fair
-      url: /careerfair
+    #- label: Career Fair
+     # url: /careerfair
     # label: Big Little
       #url: /big-little
-      #label: Intern Officer
-     # url: https://docs.google.com/forms/d/1vWtewlfzzzT7B1YWUEhJNbNcDbdiK0qhN12Hm_TlS4Q/edit
-     # new_window: true
+    - label: Intern Officer
+      url: https://forms.gle/KpnkeifTjVkTZPKXA
+      new_window: true
     - label: Alumni 
       url: /alumnipage
     - label: Resources
@@ -39,7 +39,7 @@ header:
     - label: FAQs
       url: /faqs
     - label: Register
-      url: https://docs.google.com/forms/d/e/1FAIpQLScSwEzUavR3oEyXwSRg9UViMGBJTBm_2FSJBf4GjGDqDmWI3A/viewform
+      url: https://forms.gle/vH1xr8hV4PRuGzfv8
       primary: true
       new_window: true
 footer:
@@ -53,7 +53,7 @@ footer:
     - label: Blog
       url: /blog
     - label: Register
-      url: https://docs.google.com/forms/d/e/1FAIpQLScSwEzUavR3oEyXwSRg9UViMGBJTBm_2FSJBf4GjGDqDmWI3A/viewform
+      url: https://docs.google.com/forms/d/e/1FAIpQLScia7PrfmaFlK1M5obhkWlvAI_JsQrRl47Q0tGcjCDreeykzg/viewform
       primary: true
       new_window: true
   
