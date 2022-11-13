@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\images"
+    "\\blog",
+    "\\images",
+    "\\images\\blog2022-23"
   ],
-  "SelectedNode": "\\index.md",
+  "SelectedNode": "\\blog\\2022personalproject.md",
   "PreviewInSolutionExplorer": false
 }
