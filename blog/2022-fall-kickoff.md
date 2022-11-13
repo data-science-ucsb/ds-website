@@ -1,7 +1,7 @@
 ---
 title: Fall 2022 Kickoff
 excerpt: >-
-	The Fall 2022 Kickoff welcomed both new and previous members!
+  The Fall 2022 Kickoff welcomed both new and previous members!
 date: '2022-09-27'
 thumb_image: images/blog2022-23/2022-kickoff-fall.jpg
 image: images/blog2022-23/fallkickoff2022image2.jpg
