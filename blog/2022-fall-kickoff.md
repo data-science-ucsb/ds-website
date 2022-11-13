@@ -1,8 +1,8 @@
 ---
-title: 2020 Data Science UCSB Kickoff
+title: Fall 2022 Kickoff
 excerpt: >-
   Data Science UCSB’s kickoff meeting for the 2022-23 school year in Chem 1179!
-date: '2020-10-06'
+date: '2022-09-27'
 thumb_image: images/blog2022-23/2022-kickoff-fall.jpg
 image: images/blog2022-23/fallkickoff2022image2.jpg
 layout: post
