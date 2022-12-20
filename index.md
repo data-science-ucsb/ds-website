@@ -18,10 +18,10 @@ sections:
     subtitle: >-
       We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
-      - title: Annual Project Showcase
-        image: images/showcase/recommeddit.png
+      - title: 2022 Data Science Career Fair
+        image: images/blog2022-23/f22-career-fair.jpg
         content: >-
-          The 2022 Project Showcase was a success! Special thanks to Carpe Data, Jackpocket, Evidation, and Amazon for sponsoring this event. Congratulations to our winners, the Recommeddit and Emogen project teams! 
+          Our very first Data Science Career Fair was a success! Special thanks to the companies that attended: Invoca, Amazon, Mercury Insurance, Pacific Life, DNV, Toyon, Epic, The Capitol Life, Nalu, Analytic Focus, and Carpe Data. We hope to continue having more!  
       - title: Meeting Times and Locations
         image: images/kickoff.jpg
         content: >-
