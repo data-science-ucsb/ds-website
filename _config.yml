@@ -29,11 +29,10 @@ header:
      # url: /careerfair
     # label: Big Little
       #url: /big-little
-    #- label: Intern Officer
-      #url: https://forms.gle/KpnkeifTjVkTZPKXA
-      #new_window: true
     - label: Officer Recruitment
       url: /officer-recruitment
+    #  url: https://forms.gle/KpnkeifTjVkTZPKXA
+    #  new_window: true
     - label: Alumni 
       url: /alumnipage
     - label: Resources
