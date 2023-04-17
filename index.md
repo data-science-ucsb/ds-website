@@ -18,10 +18,10 @@ sections:
     subtitle: >-
       We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
-      - title: 2022 Data Science Career Fair
-        image: images/blog2022-23/f22-career-fair.jpg
+      - title: 2023 Data Science UCSB Project Showcase
+        image: images/showcase2023/2023-project-showcase-cover.png
         content: >-
-          Our very first Data Science Career Fair was a success! Special thanks to the companies that attended: Invoca, Amazon, Mercury Insurance, Pacific Life, DNV, Toyon, Epic, The Capitol Life, Nalu, Analytic Focus, and Carpe Data. We hope to continue having more!  
+         We are hosting our 2023 Project Showcase on April 20, 2023 at Corwin Pavilion, where students will get the chance to present the projects they have been working on all year! We would also like to give a special thank you to our sponsors: Evidation, HRL Laboratories, Adstra, and Microsoft.  
       - title: Meeting Times and Locations
         image: images/kickoff.jpg
         content: >-
