@@ -79,9 +79,9 @@ footer:
       url: 'https://www.stackbit.com'
       new_window: true
 sass:
-  indentWidth: 2
+  indentWidth: 4
   style: nested
-  precision: 10
+  precision: 5
 plugins:
   - jekyll-menus
 exclude:
