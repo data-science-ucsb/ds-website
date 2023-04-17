@@ -26,7 +26,7 @@ header:
     - label: Blog
       url: /blog
     - label: Project Showcase
-      url: /2023-project-showcase.md
+      url: /project-showcase
     # label: Big Little
       #url: /big-little
     #- label: Officer Recruitment
