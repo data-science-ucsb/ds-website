@@ -81,7 +81,7 @@ footer:
 sass:
   indentWidth: 4
   style: nested
-  precision: 5
+  precision: 10
 plugins:
   - jekyll-menus
 exclude:
