@@ -3,7 +3,7 @@ publish = "_site"
 command = "./stackbit-build.sh"
 
 [[redirects]]
-from = "https://data-science-ucsb.netlify.app"
+from = "https://datascienceucsb.netlify.app"
 to = "https://datascienceucsb.org"
 status = 301
 force = true
