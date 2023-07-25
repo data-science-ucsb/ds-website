@@ -33,7 +33,7 @@ The club is open to students of all grade levels and majors.
 | Chloe Tse |  Irena Wong  |  Winbert Zhang  |
 | :----------:   | :----------: |  :--------: |
 | <img src="/images/members/chloe2023.jpg" width="200" height="200" alt="Chloe Tse"> | <img src="/images/members/irena2023.jpg" width="200" height="200" alt="Irena Wong">  | <img src="/images/members/winbert2023.jpg" width="200" height="200" alt="Winbert Zhang">  |
-| Director of Design | Director of Events | Director of Communications |
+| Director of Design | Director of Events | Director of Finance |
 | Hello! I’m from the Bay Area and I love exploring new restaurants. I joined DS Club to meet new people and enhance my professional skill set. I am interested in pursuing a career in Management Consulting or Product Management. I am excited to explore creative opportunities as the Director of Design this year. | Hi! I'm Irena, a third-year pursuing Statistics and Data Science with a minor in Applied Psychology. I'm so excited to serve as your Director of Events, and I strive to build a tight-knit community amongst our members through various events and socials. Having grown up in the Bay Area, I learned to love technology and writing, discovering data science as a way of using code to tell stories about data. In the future, I aspire to further explore machine learning in order to draw insights about the world around me. But for now, I can't wait to meet all of you and help create lasting memories :) | Hi everyone, I'm a third year Computer Science major from the Bay Area. Some of my hobbies include cooking, hiking, and board games. I joined Data Science club to learn more about data science and join a community of friendly and curious people with similar interests. |
 
 
