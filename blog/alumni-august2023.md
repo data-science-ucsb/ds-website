@@ -3,7 +3,7 @@ title: Alumni August 2023
 excerpt: >-
   Weekly panel of UCSB alumni sharing their experiences with data
   science before and after graduating!
-date: '2020-08-21'
+date: '2023-08-21'
 thumb_image: images/alumni-august-2023-ss0.png
 image: images/alumni-august-2023-ss0.png
 layout: post
