@@ -10,39 +10,36 @@ layout: post
 ---
 <br/>
 Earlier this month, our data science club was fortunate to host a panel of alumni back on campus to share their experiences and provide advice to current students.
-We welcomed back five alumni:
-
-
 
 ### Our Alumni
 
 Talah Cummins
-    - Senior Product Analyst @ Visa, Co-Founder at PoolUp
-    - Supplies AI/ML solutions to products within Visa
-    - UCSB Mathematics and Dance, 2019
-    - USC MS in Business Analytics, 2022
+  - Senior Product Analyst @ Visa, Co-Founder at PoolUp
+  - Supplies AI/ML solutions to products within Visa
+  - UCSB Mathematics and Dance, 2019
+  - USC MS in Business Analytics, 2022
 
 Phi Do
-    - Data and Graphics Journalist @ LA Times
-    - Writes code for data analysis, interviews, and designs stories
-    - Created the data journalism section of the UCSB Daily Nexus
+  - Data and Graphics Journalist @ LA Times
+  - Writes code for data analysis, interviews, and designs stories
+  - Created the data journalism section of the UCSB Daily Nexus
 
 Erik Vargas
-    - Operations Research Analyst @ US NAVY
-    - Forecasts and analyzes the Navy recruiting supply chain
-    - UCSB Mathematics, 2015
+  - Operations Research Analyst @ US NAVY
+  - Forecasts and analyzes the Navy recruiting supply chain
+  - UCSB Mathematics, 2015
 
 Maya Samet
-    - Data Analyst @ Uber
-    - Works closely with data engineers and analysts for internal reporting on
-      the Uber customer support metrics systems
-    - UCSB Statistics and Data Science
+  - Data Analyst @ Uber
+  - Works closely with data engineers and analysts for internal reporting on
+    the Uber customer support metrics systems
+  - UCSB Statistics and Data Science
 
 Brian Lim
-    - Software Engineer @ Amazon
-    - Works on ground devices that communicate across space to bring internet
-      to remote locations
-    - Former president of UCSB Data Science Club
+  - Software Engineer @ Amazon
+  - Works on ground devices that communicate across space to bring internet
+    to remote locations
+  - Former president of UCSB Data Science Club
 
 David Campos
   - Data Scientist at Delta Emerald Ventures, a cannabis investment firm
