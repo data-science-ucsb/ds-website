@@ -55,9 +55,3 @@ A key theme was the importance of networking and making connections in the data 
 In terms of finding that first job, alumni advised students to cast a wide net and apply broadly. Though it can be challenging to get your foot in the door, once you secure that first data science role, doors continue opening in the future. When evaluating job offers, consider opportunities for growth and learning.
 
 We are proud of our accomplished alumni and thank them for giving back to the data science club. Their journey demonstrates the breadth of career paths enabled by a data science education. For current students, their insights help prepare us for the next step after graduation.
-
-A key theme was the importance of networking and making connections in the data science community. Our alumni emphasized seeking out mentors both at work and through professional associations. They also recommended networking with alumni from our program, reaching out via LinkedIn.
-
-In terms of finding that first job, alumni advised students to cast a wide net and apply broadly. Though it can be challenging to get your foot in the door, once you secure that first data science role, doors continue opening in the future.
-
-We are proud of our accomplished alumni and thank them for giving back to the data science club. Their journey demonstrates the breadth of career paths enabled by a data science education. For current students, their insights help prepare us for the next step after graduation.
