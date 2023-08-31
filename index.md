@@ -10,7 +10,7 @@ sections:
     actions:
       - label: Learn More
         url: /faqs
-  
+
   - section_id: features
     type: section_features
     background: gray
@@ -18,14 +18,18 @@ sections:
     subtitle: >-
       We provide Gauchos with the resources and community to learn, share, and create in the realm of data science. Our vision is to be the platform through which companies and faculty researchers seek the best data science talent UCSB has to offer, as well as one that empowers students looking to earn this distinction.
     features:
+      - title: 2023 Data Science UCSB Career Fair
+        image: images/careerfair23/2023-career-fair.jpeg
+        content: >-
+          We are hosting our 2023 Career Fair on April 20, 2023 online! Students will get the chance to network and chat with company representatives!
       - title: 2023 Data Science UCSB Project Showcase
         image: images/showcase2023/2023-project-showcase-cover.png
         content: >-
-         We are hosting our 2023 Project Showcase on April 20, 2023 at Corwin Pavilion, where students will get the chance to present the projects they have been working on all year! We would also like to give a special thank you to our sponsors: Evidation, HRL Laboratories, Adstra, and Microsoft.  
+          We are hosting our 2023 Project Showcase on April 20, 2023 at Corwin Pavilion, where students will get the chance to present the projects they have been working on all year! We would also like to give a special thank you to our sponsors: Evidation, HRL Laboratories, Adstra, and Microsoft.
       - title: Meeting Times and Locations
         image: images/kickoff.jpg
         content: >-
-          General meetings are held every Tuesday from 7-9 PM. Meeting locations are sent out in our weekly email. 
+          General meetings are held every Tuesday from 7-9 PM. Meeting locations are sent out in our weekly email.
         actions:
           - label: Events
             url: /events-calendar
@@ -56,7 +60,7 @@ sections:
     title: Latest Posts
     type: section_posts
     background: gray
-    
+
   - section_id: sponsors
     title: Our Sponsors
     type: section_sponsors

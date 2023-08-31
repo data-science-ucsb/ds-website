@@ -1,16 +1,14 @@
-# @Author: 
+# @Author:
 # @Date:   2020-10-04T17:30:26-07:00
-# @Last modified by:  
+# @Last modified by:
 # @Last modified time: 2020-10-21T14:18:39-07:00
-
-
 
 title: Data Science UCSB
 baseurl: /
-permalink: '/:title/'
+permalink: "/:title/"
 collections:
   posts:
-    permalink: '/posts/:title/'
+    permalink: "/posts/:title/"
 palette: blue
 header:
   title: Data Science UCSB
@@ -25,15 +23,17 @@ header:
       url: /events-calendar
     - label: Blog
       url: /blog
-    - label: Project Showcase
+    - label: Career Fair 2023
+      url: /career-fair
+    - label: Project Showcase 2023
       url: /project-showcase
     # label: Big Little
-      #url: /big-little
+    #url: /big-little
     #- label: Officer Recruitment
-     # url: /officer-recruitment
+    # url: /officer-recruitment
     #  url: https://forms.gle/KpnkeifTjVkTZPKXA
     #  new_window: true
-    - label: Alumni 
+    - label: Alumni
       url: /alumnipage
     - label: Resources
       url: /resources
@@ -57,26 +57,26 @@ footer:
       url: https://docs.google.com/forms/d/e/1FAIpQLScia7PrfmaFlK1M5obhkWlvAI_JsQrRl47Q0tGcjCDreeykzg/viewform
       primary: true
       new_window: true
-  
+
     - label: Email us
-      url: 'mailto:datascience.ucsb@gmail.com'
+      url: "mailto:datascience.ucsb@gmail.com"
   has_social: true
   social_title: Community
   social_links:
     - label: Instagram
-      url: 'https://www.instagram.com/datascienceucsb/'
+      url: "https://www.instagram.com/datascienceucsb/"
       new_window: true
     - label: LinkedIn
-      url: 'https://www.linkedin.com/company/data-science-at-ucsb'
+      url: "https://www.linkedin.com/company/data-science-at-ucsb"
       new_window: true
     - label: Facebook
-      url: 'https://www.facebook.com/DataScienceUCSB/'
+      url: "https://www.facebook.com/DataScienceUCSB/"
       new_window: true
   has_subscribe: false
-  content: '&copy; Stackbit. All rights reserved.'
+  content: "&copy; Stackbit. All rights reserved."
   links:
     - label: Made with Stackbit
-      url: 'https://www.stackbit.com'
+      url: "https://www.stackbit.com"
       new_window: true
 sass:
   indentWidth: 4
