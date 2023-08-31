@@ -3,7 +3,7 @@ title: Who We Are
 subtitle: >-
   A family fostering a learning environment for students of all skill levels
 image: images/officers.png
-layout: page
+layout: about
 ---
 
 Data Science at UCSB is the university's most active engineering and science club on campus. We focus on teaching students the basics of topics in data science such as data visualization, manipulation, predictive modeling, and machine learning. Focusing on R, Python, and SQL, we hope to foster a learning environment for students of all skill levels.

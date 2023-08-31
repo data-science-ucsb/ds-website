@@ -23,9 +23,9 @@ header:
       url: /events-calendar
     - label: Blog
       url: /blog
-    - label: Career Fair 2023
+    - label: Career Fair
       url: /career-fair
-    - label: Project Showcase 2023
+    - label: Project Showcase
       url: /project-showcase
     # label: Big Little
     #url: /big-little

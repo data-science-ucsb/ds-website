@@ -3,39 +3,39 @@ ssgName: jekyll
 ssgVersion: 3.8.4
 buildCommand: jekyll build
 publishDir: _site
-staticDir: ''
+staticDir: ""
 uploadDir: images
 dataDir: _data
-pagesDir: ''
+pagesDir: ""
 pageLayoutKey: layout
 metadata:
   title: Azimuth
   description: A sleek SaaS theme
   author: Stackbit
-  authorURL: 'https://www.stackbit.com'
+  authorURL: "https://www.stackbit.com"
   images:
     small: images/demo-256x192.png
     large: images/demo-1024x768.png
 stackbit_banner:
   show_banner: true
   name: Azimuth
-  create_url: 'https://app.stackbit.com/create?theme=azimuth'
-  github_url: 'https://github.com/stackbithq/stackbit-theme-azimuth'
+  create_url: "https://app.stackbit.com/create?theme=azimuth"
+  github_url: "https://github.com/stackbithq/stackbit-theme-azimuth"
 pageData:
   - pagePath: /
     initialExpandedPaths:
-      - '[0]'
-      - '[0].fields.title'
-      - '[0].fields.sections'
-      - '[0].fields.sections.items[0]'
-      - '[0].fields.sections.items[0].fields.title'
-      - '[0].fields.sections.items[0].fields.content'
-      - '[0].fields.sections.items[1]'
-      - '[0].fields.sections.items[1].fields.title'
-      - '[0].fields.sections.items[1].fields.subtitle'
-      - '[0].fields.sections.items[1].fields.features'
-      - '[1]'
-      - '[1].fields.palette'
+      - "[0]"
+      - "[0].fields.title"
+      - "[0].fields.sections"
+      - "[0].fields.sections.items[0]"
+      - "[0].fields.sections.items[0].fields.title"
+      - "[0].fields.sections.items[0].fields.content"
+      - "[0].fields.sections.items[1]"
+      - "[0].fields.sections.items[1].fields.title"
+      - "[0].fields.sections.items[1].fields.subtitle"
+      - "[0].fields.sections.items[1].fields.features"
+      - "[1]"
+      - "[1].fields.palette"
 models:
   config:
     type: config
@@ -54,8 +54,8 @@ models:
       - type: string
         name: permalink
         label: Permalink
-        description: 'The output path for your pages, posts, or collections.'
-        default: '/posts/:slug:output_ext'
+        description: "The output path for your pages, posts, or collections."
+        default: "/posts/:slug:output_ext"
         hidden: true
       - type: enum
         name: palette
@@ -267,6 +267,24 @@ models:
         label: Title
         description: The title of the page.
         required: true
+  about:
+    type: page
+    label: About
+    layout: about
+    fields:
+      - type: string
+        name: title
+        label: Title
+        description: The title of the page
+        required: true
+      - type: string
+        name: subtitle
+        label: Subtitle
+        description: The text shown below the page title
+      - type: image
+        name: image
+        label: Image
+        description: The image shown below the page title
   page:
     type: page
     label: Page
@@ -608,7 +626,7 @@ models:
       - type: markdown
         name: content
         label: Content
-        description: 'Section content, appears before contact form'
+        description: "Section content, appears before contact form"
       - type: enum
         name: background
         label: Background
