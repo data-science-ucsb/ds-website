@@ -1,25 +1,16 @@
 ---
-
 title: 2023 Data Science Career Fair
-
 subtitle: >-
-
-Data Science UCSB is proud to present our 2023 Career Fair!
-
+  Data Science UCSB is proud to present our 2023 Career Fair!
 image: images/careerfair23/2023-career-fair.jpeg
-
 layout: page
-
 ---
 
 ### Company Sponsors
 
 - Jackpocket
-
 - Adstra
-
 - HRL Labs
-
 - Invoca
 
 ### Event Details
