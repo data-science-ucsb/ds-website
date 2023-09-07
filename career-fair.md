@@ -25,7 +25,7 @@ Step into a world of possibilities at the Data Science Club's Career Fair! Disco
 
 Thank you for considering to attend our annual Data Science Career Fair on **October 20th, 2023 from 10 AM to 4 PM**. As the most active STEM club on campus with over 500 registered members and 200 career fair attendees as of last year, we are confident that this fair will provide an excellent opportunity for company representatives to engage with talented students interested in data science.
 
-After registering on Eventbrite, you can expect to hear back from us within a week regarding the next steps. In the follow-up email, we will provide all the necessary information for company representatives to create an account on our career fair website. With this account, you will be able to select the number of representatives you would like to bring, your available time frames, and the number of info sessions you would like to hold. **Please note that you are allowed to change your selected timeslots and the number of representatives attending until 11:59 PM on October 10th.**
+After registering on Eventbrite, you can expect to hear back from us within a week regarding the next steps. In the follow-up email, we will provide all the necessary information for company representatives to select the number of representatives you would like to bring, your available time frames, and the number of info sessions you would like to hold. **Please note that you are allowed to change your selected timeslots and the number of representatives attending until 11:59 PM on September 30th, the registration deadline.** The actual event will be held completely on Zoom.
 
 **Registration deadline: September 30th @11:59PM**
 

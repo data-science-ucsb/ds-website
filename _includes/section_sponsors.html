@@ -1,30 +1,67 @@
 {% assign section = include.section %}
-<section id="{{ section.section_id }}" class="block posts-block bg-{{ section.background }} outer">
+<section
+  id="{{ section.section_id }}"
+  class="block posts-block bg-{{ section.background }} outer"
+>
   <div class="block-header inner-small">
-    {% assign title_is_not_empty = section.title | is_not_empty %}
-    {% if title_is_not_empty %}
+    {% assign title_is_not_empty = section.title | is_not_empty %} {% if
+    title_is_not_empty %}
     <h2 class="block-title">{{ section.title }}</h2>
+    {% endif %} {% assign subtitle_is_not_empty = section.subtitle |
+    is_not_empty %} {% if subtitle_is_not_empty %}
+    <p class="block-subtitle">{{ section.subtitle }}</p>
     {% endif %}
-    {% assign subtitle_is_not_empty = section.subtitle | is_not_empty %}
-    {% if subtitle_is_not_empty %}
-    <p class="block-subtitle">
-      {{ section.subtitle }}
-    </p>
-    {% endif %}
-  </div><!-- .block-header -->
+  </div>
+  <!-- .block-header -->
   <div class="row">
     <div class="column">
-      <img src="/images/sponsors/amazon_alexa.png" alt="Amazon Alexa" width="400" height="200"/>
+      <img
+        src="/images/sponsors/amazon_alexa.png"
+        alt="Amazon Alexa"
+        width="400"
+        height="200"
+      />
     </div>
     <div class="column">
-      <img src="/images/sponsors/carpe_data.png" alt="Carpe Data" width="400" height="200"/>
+      <img
+        src="/images/sponsors/carpe_data.png"
+        alt="Carpe Data"
+        width="400"
+        height="200"
+      />
     </div>
     <div class="column">
-      <img src="/images/sponsors/evidation.png" alt="Evidation" width="400" height="200"/>
+      <img
+        src="/images/sponsors/evidation.png"
+        alt="Evidation"
+        width="400"
+        height="200"
+      />
     </div>
     <div class="column">
-        <img src="/images/sponsors/jackpot.jpg" alt="Jackpot" width="400" height="200"/>
-      </div>
+      <img
+        src="/images/sponsors/jackpot.jpg"
+        alt="Jackpot"
+        width="400"
+        height="200"
+      />
+    </div>
+    <div class="column">
+      <img
+        src="/images/sponsors/hrl-logo.jpg"
+        alt="HRL Labs"
+        width="400"
+        height="200"
+      />
+    </div>
+    <div class="column">
+      <img
+        src="/images/sponsors/invoca.jpg"
+        alt="Invoca"
+        width="400"
+        height="200"
+      />
+    </div>
   </div>
- 
-</section><!-- .block -->
+</section>
+<!-- .block -->
