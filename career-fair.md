@@ -6,13 +6,6 @@ image: images/careerfair23/2023-career-fair.jpeg
 layout: page
 ---
 
-### Company Sponsors
-
-- Jackpocket
-- Adstra
-- HRL Labs
-- Invoca
-
 ### Event Details
 
 The career fair is scheduled to take place on October 20th, 2023, from 10 AM to 4 PM PST. During this time, companies will be hosting informational sessions and interactive one-on-one with students!
