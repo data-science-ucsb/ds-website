@@ -11,9 +11,17 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 
 <center><h3> </h3></center>
 
+| [Luke Fields](https://www.linkedin.com/in/luke-fields-64525b158/) | [Stella Jia](https://www.linkedin.com/in/stellajia/) | [Anna Bauer](https://www.linkedin.com/in/annabauer726/) |
+|  :----------: |  :----------: |  :----------:  |
+| <img src="/images/alumnipics/luke.jpg" width="200" height="200" alt="Luke Fields">  | <img src="/images/alumnipics/stella.jpg" width="200" height="200" alt="Stella Jia">  | <img src="/images/alumnipics/anna.png" width="200" height="200" alt="Anna Bauer">  |
+| UCSB '23 | UCSB '23 | UCSB '23 |
+| Luke studied Statistics and Data Science at UCSB and is now a Pricing Analyst at Honda. | Stella studied data science at UCSB and is now a data science major at UC Berkeley. | Ishana was a Statistics & Data Science major at UCSB and is now a tech analyst at Deloitte. |
+
+<center><h3> </h3></center>
+
 | [Katie Huyng](https://www.linkedin.com/in/katiehuynh01/) | [Connor Levenson](https://www.linkedin.com/in/connor11son/) | [Ishana Narayanan](https://www.linkedin.com/in/ishana-n-58a90b170/) |
 |  :----------: |  :----------: |  :----------:  |
-| <img src="/images/alumnipics/katie2.jpg" width="200" height="200" alt="Brian Lim">  | <img src="/images/alumnipics/connor.png" width="200" height="200" alt="Connor Levenson">  | <img src="/images/alumnipics/ishana.jpg" width="200" height="200" alt="Ishana Narayanan">  |
+| <img src="/images/alumnipics/katie2.jpg" width="200" height="200" alt="Kate Huyng">  | <img src="/images/alumnipics/connor.png" width="200" height="200" alt="Connor Levenson">  | <img src="/images/alumnipics/ishana.jpg" width="200" height="200" alt="Ishana Narayanan">  |
 | UCSB '23 | UCSB '22 | UCSB '22 |
 | Katie studied Statistics and Data Science at UCSB and is now an analyst at General Mills. | Connor studied actuarial science at UCSB and is now a research engineer at UCSB. | Ishana was a Computer Science and Statistics & Data Science double major at UCSB and is now a software engineer at Google. |
 
