@@ -11,6 +11,14 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 
 <center><h3> </h3></center>
 
+| [Katie Huyng](https://www.linkedin.com/in/katiehuynh01/) | [Connor Levenson](https://www.linkedin.com/in/connor11son/) | [Ishana Narayanan](https://www.linkedin.com/in/ishana-n-58a90b170/) |
+|  :----------: |  :----------: |  :----------:  |
+| <img src="/images/alumnipics/BrianLim.jpg" width="200" height="200" alt="Brian Lim">  | <img src="/images/alumnipics/connor.png" width="200" height="200" alt="Connor Levenson">  | <img src="/images/alumnipics/ishana.jpg" width="200" height="200" alt="Ishana Narayanan">  |
+| UCSB '23 | UCSB '22 | UCSB '22 |
+| Katie studied Statistics and Data Science at UCSB and is now an analyst at General Mills. | Connor studied actuarial science at UCSB and is now a research engineer at UCSB. | Ishana was a Computer Science and Statistics & Data Science double major at UCSB and is now a software engineer at Google. |
+
+<center><h3> </h3></center>
+
 | [Brian Lim](https://www.linkedin.com/in/blimmie) | [Natalie Rozak](https://www.linkedin.com/in/natalie-rozak-74147b13b/) | [Jasmine Kellogg](https://www.linkedin.com/in/jasmine-kellogg) |
 |  :----------: |  :----------: |  :----------:  |
 | <img src="/images/alumnipics/BrianLim.jpg" width="200" height="200" alt="Brian Lim">  | <img src="/images/alumnipics/NatalieRozak.jpg" width="200" height="200" alt="Natalie Rozak">  | <img src="/images/alumnipics/jasminekellogg.jpg" width="200" height="200" alt="Jasmine Kellogg">  |
