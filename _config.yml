@@ -45,7 +45,6 @@ header:
       new_window: true
 footer:
   logo_img: images/DataScienceSmallLogo.png
-  tagline: datascience.ucsb@gmail.com
   has_nav: true
   nav_title: Company
   nav_links:
