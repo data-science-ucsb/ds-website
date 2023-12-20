@@ -15,7 +15,7 @@ Data Science UCSB is home to many successful gauchos in the industry! Many of ou
 |  :----------: |  :----------: |  :----------:  |
 | <img src="/images/alumnipics/luke.jpg" width="200" height="200" alt="Luke Fields">  | <img src="/images/alumnipics/stella.jpg" width="200" height="200" alt="Stella Jia">  | <img src="/images/alumnipics/anna.png" width="200" height="200" alt="Anna Bauer">  |
 | UCSB '23 | UCSB '23 | UCSB '23 |
-| Luke studied Statistics and Data Science at UCSB and is now a Pricing Analyst at Honda. | Stella studied data science at UCSB and is now a data science major at UC Berkeley. | Ishana was a Statistics & Data Science major at UCSB and is now a tech analyst at Deloitte. |
+| Luke studied Statistics and Data Science at UCSB and is now a Pricing Analyst at Honda. | Stella studied data science at UCSB and is now a data science major at UC Berkeley. | Anna was a Statistics & Data Science major at UCSB and is now a tech analyst at Deloitte. |
 
 <center><h3> </h3></center>
 

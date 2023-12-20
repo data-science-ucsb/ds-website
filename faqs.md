@@ -50,4 +50,4 @@ A: Anybody is welcome to join the club, and the best way to get more involved is
 
 ##### Q: What do I need to bring to the meetings?
 
-A: Just bring your computer and your knowledge and you'll be good to go!
+A: Just bring your computer and a growth mindset and you'll be good to go!
