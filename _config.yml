@@ -39,6 +39,8 @@ header:
       url: /resources
     - label: FAQs
       url: /faqs
+    - label: GAIA
+      url: /gaia-blog
     - label: Register
       url: https://forms.gle/iUqapbFCGwahgd6V9
       primary: true
