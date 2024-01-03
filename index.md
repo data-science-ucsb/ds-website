@@ -6,7 +6,7 @@ sections:
     image: images/home2edit.jpg
     title: Welcome to Data Science UCSB!
     content: >-
-      Data Science UCSB is a student organization preparing Gauchos for successful careers in data science and analytics.
+      Data Science UCSB is a student organization preparing Gauchos for successful careers in data science and analytics since 2015.
     actions:
       - label: Learn More
         url: /faqs
