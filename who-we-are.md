@@ -56,7 +56,7 @@ The club is open to students of all grade levels and majors.
 
 |  Clement Boiteux  |
 |   :----------:  |
-| <img src="/images/members/clement2023.jpg" width="200" height="200" alt="Clement Boiteux"> |
+| <img src="/images/members/clement2023.png" width="200" height="200" alt="Clement Boiteux"> |
 | Hi, I'm Clement and I'm a first-year Computer Engineering major from San Jose who's passionate about using technology to solve problems and simplify our lives. My 3 most favorite programming languages are Java, Python, and C++. I'm interested in discovering the intersection of AI and system software to build smarter computers. I'm also very excited to learn web dev technologies to improve the website so users have a better experience! My most favorite foods are ramen, boba, and ice cream. In my free time, I like watching movies, playing 8-ball, and biking. | 
 
 
